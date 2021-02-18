@@ -1,0 +1,18 @@
+{
+  "id": "version-4.0.2/用户使用手册/网页端/资源",
+  "title": "资源",
+  "description": "* 配置资源首先需要登录EOC（企业运营中心），顶部导航栏的配置里，点击资源进入到资源页面。资源就是活动中所需要用到的东西，现在分为三种类型：人力、工具和材料。点击左上角的新建，在弹出的窗口中填写好相应内容，确定即可。之后有变化也可以选择相应资源进行编辑。",
+  "source": "@site/versioned_docs\\version-4.0.2\\用户使用手册\\网页端\\资源.md",
+  "permalink": "/docs/用户使用手册/网页端/资源",
+  "editUrl": "https://www.rockwellautomation.com.cn/support.html/edit/master/versioned_docs\\version-4.0.2\\用户使用手册\\网页端\\资源.md",
+  "version": "4.0.2",
+  "sidebar": "version-4.0.2/someSidebar",
+  "previous": {
+    "title": "日志主题",
+    "permalink": "/docs/用户使用手册/网页端/日志主题"
+  },
+  "next": {
+    "title": "资产位置",
+    "permalink": "/docs/用户使用手册/网页端/资产位置"
+  }
+}

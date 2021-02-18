@@ -1,0 +1,18 @@
+{
+  "id": "系统配置手册/作业管理器/概述",
+  "title": "概述",
+  "description": "在 rockwelltpm 企业移动现场作业管理软件中，使用 FTIS 解决方案开发中心->作业管理器来配置和管理代表企业实际现场作业的作业组。",
+  "source": "@site/docs\\系统配置手册\\作业管理器\\概述.md",
+  "permalink": "/docs/next/系统配置手册/作业管理器/概述",
+  "editUrl": "https://www.rockwellautomation.com.cn/support.html/edit/master/docs\\系统配置手册\\作业管理器\\概述.md",
+  "version": "next",
+  "sidebar": "someSidebar",
+  "previous": {
+    "title": "流程管理器",
+    "permalink": "/docs/next/系统配置手册/流程管理器/流程管理器"
+  },
+  "next": {
+    "title": "项目模板",
+    "permalink": "/docs/next/系统配置手册/作业管理器/项目模板"
+  }
+}

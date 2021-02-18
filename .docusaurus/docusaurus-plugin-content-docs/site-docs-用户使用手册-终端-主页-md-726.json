@@ -1,0 +1,18 @@
+{
+  "id": "用户使用手册/终端/主页",
+  "title": "主页",
+  "description": "* 登录之后主页内容主要分为作业组的状态操作栏，右上角有信息栏和功能菜单。",
+  "source": "@site/docs\\用户使用手册\\终端\\主页.md",
+  "permalink": "/docs/next/用户使用手册/终端/主页",
+  "editUrl": "https://www.rockwellautomation.com.cn/support.html/edit/master/docs\\用户使用手册\\终端\\主页.md",
+  "version": "next",
+  "sidebar": "someSidebar",
+  "previous": {
+    "title": "同步",
+    "permalink": "/docs/next/用户使用手册/终端/同步"
+  },
+  "next": {
+    "title": "执行",
+    "permalink": "/docs/next/用户使用手册/终端/执行"
+  }
+}

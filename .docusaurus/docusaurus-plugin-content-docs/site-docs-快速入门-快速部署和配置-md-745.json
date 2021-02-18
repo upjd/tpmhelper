@@ -1,0 +1,18 @@
+{
+  "id": "快速入门/快速部署和配置",
+  "title": "快速部署和配置",
+  "description": "",
+  "source": "@site/docs\\快速入门\\快速部署和配置.md",
+  "permalink": "/docs/next/快速入门/快速部署和配置",
+  "editUrl": "https://www.rockwellautomation.com.cn/support.html/edit/master/docs\\快速入门\\快速部署和配置.md",
+  "version": "next",
+  "sidebar": "someSidebar",
+  "previous": {
+    "title": "概述",
+    "permalink": "/docs/next/快速入门/概述"
+  },
+  "next": {
+    "title": "创建计划",
+    "permalink": "/docs/next/快速入门/创建计划"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "permalink": "/blog/thinking-docs-opensource",
+  "editUrl": "https://www.rockwellautomation.com.cn/support.html/edit/master/blog/blog/2020-05-14-thinking-docs-opensource.md",
+  "source": "@site/blog\\2020-05-14-thinking-docs-opensource.md",
+  "description": "使用开源协作模式来完成文档编写和管理的思考。",
+  "date": "2020-05-14T00:00:00.000Z",
+  "tags": [
+    {
+      "label": "文档",
+      "permalink": "/blog/tags/文档"
+    },
+    {
+      "label": "OpenSource",
+      "permalink": "/blog/tags/open-source"
+    },
+    {
+      "label": "InnerSource",
+      "permalink": "/blog/tags/inner-source"
+    }
+  ],
+  "title": "文档编写和管理的新套路",
+  "readingTime": 0.495,
+  "truncated": true,
+  "nextItem": {
+    "title": "使用新的文档框架",
+    "permalink": "/blog/use-new-doc-framework"
+  }
+}

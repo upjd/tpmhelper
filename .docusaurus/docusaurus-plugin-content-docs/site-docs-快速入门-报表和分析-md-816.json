@@ -1,0 +1,18 @@
+{
+  "id": "快速入门/报表和分析",
+  "title": "报表和分析",
+  "description": "",
+  "source": "@site/docs\\快速入门\\报表和分析.md",
+  "permalink": "/docs/next/快速入门/报表和分析",
+  "editUrl": "https://www.rockwellautomation.com.cn/support.html/edit/master/docs\\快速入门\\报表和分析.md",
+  "version": "next",
+  "sidebar": "someSidebar",
+  "previous": {
+    "title": "审核和查看",
+    "permalink": "/docs/next/快速入门/审核和查看"
+  },
+  "next": {
+    "title": "登录",
+    "permalink": "/docs/next/用户使用手册/网页端/登录"
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "id": "version-3.8.2/用户使用手册/网页端/画面配置",
+  "title": "画面配置",
+  "description": "先在C:\\ProgramData\\FTIS\\imParameters.xml里“Global”节点下添加设置以下设置从而开启此功能。",
+  "source": "@site/versioned_docs\\version-3.8.2\\用户使用手册\\网页端\\画面配置.md",
+  "permalink": "/docs/3.8.2/用户使用手册/网页端/画面配置",
+  "editUrl": "https://www.rockwellautomation.com.cn/support.html/edit/master/versioned_docs\\version-3.8.2\\用户使用手册\\网页端\\画面配置.md",
+  "version": "3.8.2",
+  "sidebar": "version-3.8.2/someSidebar",
+  "previous": {
+    "title": "系统日志",
+    "permalink": "/docs/3.8.2/用户使用手册/网页端/系统日志"
+  },
+  "next": {
+    "title": "画面监控",
+    "permalink": "/docs/3.8.2/用户使用手册/网页端/画面监控"
+  }
+}

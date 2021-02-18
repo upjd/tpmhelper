@@ -1,0 +1,18 @@
+{
+  "id": "version-3.8.2/发布说明/发布记录",
+  "title": "发布记录",
+  "description": "## 3.8.2",
+  "source": "@site/versioned_docs\\version-3.8.2\\发布说明\\发布记录.md",
+  "permalink": "/docs/3.8.2/发布说明/发布记录",
+  "editUrl": "https://www.rockwellautomation.com.cn/support.html/edit/master/versioned_docs\\version-3.8.2\\发布说明\\发布记录.md",
+  "version": "3.8.2",
+  "sidebar": "version-3.8.2/someSidebar",
+  "previous": {
+    "title": "RabbitMQ开发说明",
+    "permalink": "/docs/3.8.2/系统扩展指南/RabbitMQ开发说明"
+  },
+  "next": {
+    "title": "3.8.1发布说明",
+    "permalink": "/docs/3.8.2/发布说明/3.8.1发布说明"
+  }
+}

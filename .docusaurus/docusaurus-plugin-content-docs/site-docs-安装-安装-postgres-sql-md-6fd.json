@@ -1,0 +1,18 @@
+{
+  "id": "安装/安装PostgresSQL",
+  "title": "安装PostgresSQL",
+  "description": "## 下载PGSQL",
+  "source": "@site/docs\\安装\\安装PostgresSQL.md",
+  "permalink": "/docs/next/安装/安装PostgresSQL",
+  "editUrl": "https://www.rockwellautomation.com.cn/support.html/edit/master/docs\\安装\\安装PostgresSQL.md",
+  "version": "next",
+  "sidebar": "someSidebar",
+  "previous": {
+    "title": "安装SQLServer",
+    "permalink": "/docs/next/安装/安装SQLServer"
+  },
+  "next": {
+    "title": "安装MongoDB",
+    "permalink": "/docs/next/安装/安装MongoDB"
+  }
+}

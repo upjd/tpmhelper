@@ -1,0 +1,14 @@
+{
+  "id": "version-4.0.2/简介/概述",
+  "title": "概述",
+  "description": "## 系统概述",
+  "source": "@site/versioned_docs\\version-4.0.2\\简介\\概述.md",
+  "permalink": "/docs/简介/概述",
+  "editUrl": "https://www.rockwellautomation.com.cn/support.html/edit/master/versioned_docs\\version-4.0.2\\简介\\概述.md",
+  "version": "4.0.2",
+  "sidebar": "version-4.0.2/someSidebar",
+  "next": {
+    "title": "优势",
+    "permalink": "/docs/简介/优势"
+  }
+}

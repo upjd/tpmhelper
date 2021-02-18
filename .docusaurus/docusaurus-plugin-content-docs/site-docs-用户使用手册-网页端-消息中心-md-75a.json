@@ -1,0 +1,18 @@
+{
+  "id": "用户使用手册/网页端/消息中心",
+  "title": "消息中心",
+  "description": "消息中心中记录了通过消息订阅后所收到的消息，分为未读消息和已读消息。可以将未读消息标记为已读，也可以对所有消息进行删除操作。",
+  "source": "@site/docs\\用户使用手册\\网页端\\消息中心.md",
+  "permalink": "/docs/next/用户使用手册/网页端/消息中心",
+  "editUrl": "https://www.rockwellautomation.com.cn/support.html/edit/master/docs\\用户使用手册\\网页端\\消息中心.md",
+  "version": "next",
+  "sidebar": "someSidebar",
+  "previous": {
+    "title": "知识库",
+    "permalink": "/docs/next/用户使用手册/网页端/知识库"
+  },
+  "next": {
+    "title": "地图",
+    "permalink": "/docs/next/用户使用手册/网页端/地图"
+  }
+}

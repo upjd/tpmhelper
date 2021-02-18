@@ -1,0 +1,2294 @@
+{
+  "/": {
+    "component": "ece76bd1"
+  },
+  "/blog": {
+    "component": "a6aa9e1f",
+    "items": [
+      {
+        "content": "24d246ba"
+      },
+      {
+        "content": "dc25e53c"
+      }
+    ],
+    "metadata": "bbb4ffb5"
+  },
+  "/blog/tags": {
+    "component": "01a85c17",
+    "tags": "8be5b89e"
+  },
+  "/blog/tags/docusaurus": {
+    "component": "6875c492",
+    "items": [
+      {
+        "content": "dc25e53c"
+      }
+    ],
+    "metadata": "6ca375e2"
+  },
+  "/blog/tags/inner-source": {
+    "component": "6875c492",
+    "items": [
+      {
+        "content": "24d246ba"
+      }
+    ],
+    "metadata": "70dd0ae4"
+  },
+  "/blog/tags/open-source": {
+    "component": "6875c492",
+    "items": [
+      {
+        "content": "24d246ba"
+      }
+    ],
+    "metadata": "68bd07e5"
+  },
+  "/blog/tags/文档": {
+    "component": "6875c492",
+    "items": [
+      {
+        "content": "24d246ba"
+      }
+    ],
+    "metadata": "1a50164f"
+  },
+  "/blog/tags/文档框架": {
+    "component": "6875c492",
+    "items": [
+      {
+        "content": "dc25e53c"
+      }
+    ],
+    "metadata": "8b7e9662"
+  },
+  "/blog/thinking-docs-opensource": {
+    "component": "ccc49370",
+    "content": "c7f38960"
+  },
+  "/blog/use-new-doc-framework": {
+    "component": "ccc49370",
+    "content": "2e4eba3a"
+  },
+  "/docs/3.8.2/:route": {
+    "component": "1be78505",
+    "docsMetadata": "0eead875"
+  },
+  "/docs/3.8.2/发布说明/3.8.1发布说明": {
+    "component": "17896441",
+    "content": "9b2109d1"
+  },
+  "/docs/3.8.2/发布说明/3.8.2发布说明": {
+    "component": "17896441",
+    "content": "df03c3d7"
+  },
+  "/docs/3.8.2/发布说明/发布记录": {
+    "component": "17896441",
+    "content": "98c54c9d"
+  },
+  "/docs/3.8.2/安装/安装": {
+    "component": "17896441",
+    "content": "bfe6a87b"
+  },
+  "/docs/3.8.2/安装/安装MongoDB": {
+    "component": "17896441",
+    "content": "bb1317c8"
+  },
+  "/docs/3.8.2/安装/安装PostgresSQL": {
+    "component": "17896441",
+    "content": "96b9124d"
+  },
+  "/docs/3.8.2/安装/安装RabbitMQ": {
+    "component": "17896441",
+    "content": "ccdb0cec"
+  },
+  "/docs/3.8.2/安装/安装SQLServer": {
+    "component": "17896441",
+    "content": "d977711d"
+  },
+  "/docs/3.8.2/安装/系统要求": {
+    "component": "17896441",
+    "content": "ba7dbc21"
+  },
+  "/docs/3.8.2/快速入门/创建计划": {
+    "component": "17896441",
+    "content": "b4b6ffb5"
+  },
+  "/docs/3.8.2/快速入门/审核和查看": {
+    "component": "17896441",
+    "content": "26662970"
+  },
+  "/docs/3.8.2/快速入门/快速部署和配置": {
+    "component": "17896441",
+    "content": "b435fd52"
+  },
+  "/docs/3.8.2/快速入门/报表和分析": {
+    "component": "17896441",
+    "content": "89fb4e8e"
+  },
+  "/docs/3.8.2/快速入门/概述": {
+    "component": "17896441",
+    "content": "7f4a7b1b"
+  },
+  "/docs/3.8.2/快速入门/终端执行": {
+    "component": "17896441",
+    "content": "075fe833"
+  },
+  "/docs/3.8.2/最佳实践/维护最佳实践": {
+    "component": "17896441",
+    "content": "75e949a7"
+  },
+  "/docs/3.8.2/最佳实践/配置最佳实践": {
+    "component": "17896441",
+    "content": "f3136248"
+  },
+  "/docs/3.8.2/用户使用手册/终端/主页": {
+    "component": "17896441",
+    "content": "3056ea25"
+  },
+  "/docs/3.8.2/用户使用手册/终端/同步": {
+    "component": "17896441",
+    "content": "e90f61fd"
+  },
+  "/docs/3.8.2/用户使用手册/终端/审核": {
+    "component": "17896441",
+    "content": "e4ecb5d0"
+  },
+  "/docs/3.8.2/用户使用手册/终端/执行": {
+    "component": "17896441",
+    "content": "b431d2db"
+  },
+  "/docs/3.8.2/用户使用手册/终端/日志": {
+    "component": "17896441",
+    "content": "dc7c22d4"
+  },
+  "/docs/3.8.2/用户使用手册/终端/消息": {
+    "component": "17896441",
+    "content": "3a0ee15b"
+  },
+  "/docs/3.8.2/用户使用手册/终端/登录": {
+    "component": "17896441",
+    "content": "75b253d9"
+  },
+  "/docs/3.8.2/用户使用手册/终端/配置": {
+    "component": "17896441",
+    "content": "11ad5948"
+  },
+  "/docs/3.8.2/用户使用手册/网页端/个性设置": {
+    "component": "17896441",
+    "content": "927c64d3"
+  },
+  "/docs/3.8.2/用户使用手册/网页端/人员总览": {
+    "component": "17896441",
+    "content": "5d19a7a7"
+  },
+  "/docs/3.8.2/用户使用手册/网页端/任务": {
+    "component": "17896441",
+    "content": "db33072c"
+  },
+  "/docs/3.8.2/用户使用手册/网页端/作业树": {
+    "component": "17896441",
+    "content": "288e490a"
+  },
+  "/docs/3.8.2/用户使用手册/网页端/作业组维护": {
+    "component": "17896441",
+    "content": "d112935d"
+  },
+  "/docs/3.8.2/用户使用手册/网页端/分析": {
+    "component": "17896441",
+    "content": "4e4009ee"
+  },
+  "/docs/3.8.2/用户使用手册/网页端/地图": {
+    "component": "17896441",
+    "content": "32bc621a"
+  },
+  "/docs/3.8.2/用户使用手册/网页端/审核": {
+    "component": "17896441",
+    "content": "11024864"
+  },
+  "/docs/3.8.2/用户使用手册/网页端/库存": {
+    "component": "17896441",
+    "content": "6da073e2"
+  },
+  "/docs/3.8.2/用户使用手册/网页端/报表": {
+    "component": "17896441",
+    "content": "4093d879"
+  },
+  "/docs/3.8.2/用户使用手册/网页端/排班表": {
+    "component": "17896441",
+    "content": "95c57680"
+  },
+  "/docs/3.8.2/用户使用手册/网页端/日志": {
+    "component": "17896441",
+    "content": "feb848a8"
+  },
+  "/docs/3.8.2/用户使用手册/网页端/日志主题": {
+    "component": "17896441",
+    "content": "52716015"
+  },
+  "/docs/3.8.2/用户使用手册/网页端/权限设置": {
+    "component": "17896441",
+    "content": "2693ff9d"
+  },
+  "/docs/3.8.2/用户使用手册/网页端/消息中心": {
+    "component": "17896441",
+    "content": "ab1d6cbe"
+  },
+  "/docs/3.8.2/用户使用手册/网页端/消息类型管理": {
+    "component": "17896441",
+    "content": "578f6740"
+  },
+  "/docs/3.8.2/用户使用手册/网页端/消息订阅": {
+    "component": "17896441",
+    "content": "6b735d60"
+  },
+  "/docs/3.8.2/用户使用手册/网页端/消息订阅管理": {
+    "component": "17896441",
+    "content": "3d561d9c"
+  },
+  "/docs/3.8.2/用户使用手册/网页端/用户信息": {
+    "component": "17896441",
+    "content": "c5c94615"
+  },
+  "/docs/3.8.2/用户使用手册/网页端/画面监控": {
+    "component": "17896441",
+    "content": "c079df17"
+  },
+  "/docs/3.8.2/用户使用手册/网页端/画面配置": {
+    "component": "17896441",
+    "content": "1de237a1"
+  },
+  "/docs/3.8.2/用户使用手册/网页端/登录": {
+    "component": "17896441",
+    "content": "47bc0f65"
+  },
+  "/docs/3.8.2/用户使用手册/网页端/知识库": {
+    "component": "17896441",
+    "content": "15f62144"
+  },
+  "/docs/3.8.2/用户使用手册/网页端/移动终端": {
+    "component": "17896441",
+    "content": "ce7b2282"
+  },
+  "/docs/3.8.2/用户使用手册/网页端/管理员功能": {
+    "component": "17896441",
+    "content": "94d606ed"
+  },
+  "/docs/3.8.2/用户使用手册/网页端/管理导航栏": {
+    "component": "17896441",
+    "content": "47090e90"
+  },
+  "/docs/3.8.2/用户使用手册/网页端/系统扩展管理": {
+    "component": "17896441",
+    "content": "ee46ce84"
+  },
+  "/docs/3.8.2/用户使用手册/网页端/系统日志": {
+    "component": "17896441",
+    "content": "41126351"
+  },
+  "/docs/3.8.2/用户使用手册/网页端/网站设置": {
+    "component": "17896441",
+    "content": "a8f7b9bf"
+  },
+  "/docs/3.8.2/用户使用手册/网页端/自定义主页": {
+    "component": "17896441",
+    "content": "b834bcd6"
+  },
+  "/docs/3.8.2/用户使用手册/网页端/自定义导航": {
+    "component": "17896441",
+    "content": "c6b130da"
+  },
+  "/docs/3.8.2/用户使用手册/网页端/计划": {
+    "component": "17896441",
+    "content": "cc6f0299"
+  },
+  "/docs/3.8.2/用户使用手册/网页端/资产位置维护": {
+    "component": "17896441",
+    "content": "e6ba1eee"
+  },
+  "/docs/3.8.2/用户使用手册/网页端/资产总览": {
+    "component": "17896441",
+    "content": "14a97d03"
+  },
+  "/docs/3.8.2/用户使用手册/网页端/项目": {
+    "component": "17896441",
+    "content": "fead11ed"
+  },
+  "/docs/3.8.2/简介/优势": {
+    "component": "17896441",
+    "content": "81bf9304"
+  },
+  "/docs/3.8.2/简介/应用场景": {
+    "component": "17896441",
+    "content": "0be26247"
+  },
+  "/docs/3.8.2/简介/概述": {
+    "component": "17896441",
+    "content": "5e9757e3"
+  },
+  "/docs/3.8.2/系统扩展指南/RabbitMQ开发说明": {
+    "component": "17896441",
+    "content": "47a48802"
+  },
+  "/docs/3.8.2/系统扩展指南/nodejs程序配置成windows服务": {
+    "component": "17896441",
+    "content": "69c4faf4"
+  },
+  "/docs/3.8.2/系统扩展指南/与自控系统集成例子": {
+    "component": "17896441",
+    "content": "e336d3c0"
+  },
+  "/docs/3.8.2/系统扩展指南/主页定制扩展例子": {
+    "component": "17896441",
+    "content": "ee2d3dad"
+  },
+  "/docs/3.8.2/系统扩展指南/主页定制扩展开发": {
+    "component": "17896441",
+    "content": "f09381af"
+  },
+  "/docs/3.8.2/系统扩展指南/分析扩展开发": {
+    "component": "17896441",
+    "content": "183c8425"
+  },
+  "/docs/3.8.2/系统扩展指南/分析扩展开发示例": {
+    "component": "17896441",
+    "content": "dcd7c945"
+  },
+  "/docs/3.8.2/系统扩展指南/扩展例子": {
+    "component": "17896441",
+    "content": "21aac03d"
+  },
+  "/docs/3.8.2/系统扩展指南/报表扩展开发": {
+    "component": "17896441",
+    "content": "2ff0de52"
+  },
+  "/docs/3.8.2/系统扩展指南/流程后函数扩展开发": {
+    "component": "17896441",
+    "content": "79a707fa"
+  },
+  "/docs/3.8.2/系统扩展指南/社交平台集成示例-iDong库存与U8用友对接": {
+    "component": "17896441",
+    "content": "5888f16a"
+  },
+  "/docs/3.8.2/系统扩展指南/社交平台集成示例-作业任务钉钉推送": {
+    "component": "17896441",
+    "content": "96999f21"
+  },
+  "/docs/3.8.2/系统扩展指南/终端页面扩展开发": {
+    "component": "17896441",
+    "content": "63fcc9c3"
+  },
+  "/docs/3.8.2/系统扩展指南/自定义服务扩展开发": {
+    "component": "17896441",
+    "content": "2f54903e"
+  },
+  "/docs/3.8.2/系统扩展指南/资产属性终端自定义查询": {
+    "component": "17896441",
+    "content": "578f44f9"
+  },
+  "/docs/3.8.2/系统维护指南/数据备份和还原": {
+    "component": "17896441",
+    "content": "3a72909e"
+  },
+  "/docs/3.8.2/系统维护指南/运行监控和维护": {
+    "component": "17896441",
+    "content": "e3dba87b"
+  },
+  "/docs/3.8.2/系统配置手册/作业管理器/作业组": {
+    "component": "17896441",
+    "content": "c5f78931"
+  },
+  "/docs/3.8.2/系统配置手册/作业管理器/作业组下作业": {
+    "component": "17896441",
+    "content": "614a3cea"
+  },
+  "/docs/3.8.2/系统配置手册/作业管理器/作业组下作业项": {
+    "component": "17896441",
+    "content": "663afbcd"
+  },
+  "/docs/3.8.2/系统配置手册/作业管理器/作业组概述": {
+    "component": "17896441",
+    "content": "0c18a41d"
+  },
+  "/docs/3.8.2/系统配置手册/作业管理器/作业规范": {
+    "component": "17896441",
+    "content": "f527b1ab"
+  },
+  "/docs/3.8.2/系统配置手册/作业管理器/作业规范下作业": {
+    "component": "17896441",
+    "content": "b548d333"
+  },
+  "/docs/3.8.2/系统配置手册/作业管理器/作业规范下作业项": {
+    "component": "17896441",
+    "content": "c0fdf589"
+  },
+  "/docs/3.8.2/系统配置手册/作业管理器/作业规范概述": {
+    "component": "17896441",
+    "content": "028bd3bf"
+  },
+  "/docs/3.8.2/系统配置手册/作业管理器/概述": {
+    "component": "17896441",
+    "content": "de5eca7d"
+  },
+  "/docs/3.8.2/系统配置手册/作业管理器/项目模板": {
+    "component": "17896441",
+    "content": "d9068013"
+  },
+  "/docs/3.8.2/系统配置手册/内置流程后和终端函数": {
+    "component": "17896441",
+    "content": "3ad2fa84"
+  },
+  "/docs/3.8.2/系统配置手册/列表管理器/例外等级": {
+    "component": "17896441",
+    "content": "b8782408"
+  },
+  "/docs/3.8.2/系统配置手册/列表管理器/全局属性模板": {
+    "component": "17896441",
+    "content": "f6d90905"
+  },
+  "/docs/3.8.2/系统配置手册/列表管理器/工程单位": {
+    "component": "17896441",
+    "content": "2fa17777"
+  },
+  "/docs/3.8.2/系统配置手册/列表管理器/概述": {
+    "component": "17896441",
+    "content": "a4b8118b"
+  },
+  "/docs/3.8.2/系统配置手册/列表管理器/自定义列表": {
+    "component": "17896441",
+    "content": "db835c46"
+  },
+  "/docs/3.8.2/系统配置手册/列表管理器/资产": {
+    "component": "17896441",
+    "content": "c9e69f89"
+  },
+  "/docs/3.8.2/系统配置手册/列表管理器/资产类别": {
+    "component": "17896441",
+    "content": "c1eba6b9"
+  },
+  "/docs/3.8.2/系统配置手册/列表管理器/轮班": {
+    "component": "17896441",
+    "content": "a4ee4819"
+  },
+  "/docs/3.8.2/系统配置手册/列表管理器/附件": {
+    "component": "17896441",
+    "content": "d4026849"
+  },
+  "/docs/3.8.2/系统配置手册/授权管理/授权管理": {
+    "component": "17896441",
+    "content": "22fd1aba"
+  },
+  "/docs/3.8.2/系统配置手册/数据库管理/数据库管理": {
+    "component": "17896441",
+    "content": "0df366b1"
+  },
+  "/docs/3.8.2/系统配置手册/模板详细说明/基础模板": {
+    "component": "17896441",
+    "content": "ebadafac"
+  },
+  "/docs/3.8.2/系统配置手册/模板详细说明/安全作业模板": {
+    "component": "17896441",
+    "content": "0c255e2f"
+  },
+  "/docs/3.8.2/系统配置手册/模板详细说明/巡检和维修作业模板": {
+    "component": "17896441",
+    "content": "d599c71d"
+  },
+  "/docs/3.8.2/系统配置手册/模板详细说明/概述": {
+    "component": "17896441",
+    "content": "575f7222"
+  },
+  "/docs/3.8.2/系统配置手册/模板详细说明/设备管理模板": {
+    "component": "17896441",
+    "content": "d888729c"
+  },
+  "/docs/3.8.2/系统配置手册/流程管理器/流程管理器": {
+    "component": "17896441",
+    "content": "657b25af"
+  },
+  "/docs/3.8.2/系统配置手册/系统设置/服务/服务": {
+    "component": "17896441",
+    "content": "fcf0092c"
+  },
+  "/docs/3.8.2/系统配置手册/系统设置/系统参数/系统参数": {
+    "component": "17896441",
+    "content": "ddb17894"
+  },
+  "/docs/3.8.2/系统配置手册/组织架构管理器/业务范畴": {
+    "component": "17896441",
+    "content": "69623a96"
+  },
+  "/docs/3.8.2/系统配置手册/组织架构管理器/岗位": {
+    "component": "17896441",
+    "content": "a85d07ee"
+  },
+  "/docs/3.8.2/系统配置手册/组织架构管理器/概述": {
+    "component": "17896441",
+    "content": "3c278a39"
+  },
+  "/docs/3.8.2/系统配置手册/组织架构管理器/用户": {
+    "component": "17896441",
+    "content": "34930cfe"
+  },
+  "/docs/3.8.2/系统配置手册/组织架构管理器/组织单元": {
+    "component": "17896441",
+    "content": "199b4e1e"
+  },
+  "/docs/3.8.2/系统配置手册/解决方案管理/解决方案管理": {
+    "component": "17896441",
+    "content": "5a8484f4"
+  },
+  "/docs/3.8.2/系统配置手册/解决方案设置/解决方案设置": {
+    "component": "17896441",
+    "content": "8d4fd840"
+  },
+  "/docs/3.8.2/系统配置手册/账户设置/账户设置": {
+    "component": "17896441",
+    "content": "c2e23a18"
+  },
+  "/docs/3.8.2/系统配置手册/部署模型管理/部署模型管理": {
+    "component": "17896441",
+    "content": "104ad0ee"
+  },
+  "/docs/3.8.2/附录/作业树模板配置和使用": {
+    "component": "17896441",
+    "content": "a5578346"
+  },
+  "/docs/3.8.2/附录/使用AIC8600测温测振设备": {
+    "component": "17896441",
+    "content": "b2816712"
+  },
+  "/docs/3.8.2/附录/使用AR智能眼镜和远程指导": {
+    "component": "17896441",
+    "content": "e8f63f99"
+  },
+  "/docs/3.8.2/附录/使用RFID或NFC标签": {
+    "component": "17896441",
+    "content": "0e037968"
+  },
+  "/docs/3.8.2/附录/使用条码标签": {
+    "component": "17896441",
+    "content": "dd59b5f9"
+  },
+  "/docs/3.8.2/附录/使用超高频标签": {
+    "component": "17896441",
+    "content": "7d2ede33"
+  },
+  "/docs/3.8.2/附录/使用钛准定位": {
+    "component": "17896441",
+    "content": "ea7c7f71"
+  },
+  "/docs/3.8.2/附录/大屏配置和使用": {
+    "component": "17896441",
+    "content": "a9795379"
+  },
+  "/docs/3.8.2/附录/常见问题": {
+    "component": "17896441",
+    "content": "e36b4bdc"
+  },
+  "/docs/3.8.2/附录/软件和应用升级": {
+    "component": "17896441",
+    "content": "2e00eda5"
+  },
+  "/docs/4.0.0/:route": {
+    "component": "1be78505",
+    "docsMetadata": "49bc1683"
+  },
+  "/docs/4.0.0/发布说明/3.8.1发布说明": {
+    "component": "17896441",
+    "content": "ac8d8c28"
+  },
+  "/docs/4.0.0/发布说明/3.8.2发布说明": {
+    "component": "17896441",
+    "content": "8d841aa6"
+  },
+  "/docs/4.0.0/发布说明/4.0.0发布说明": {
+    "component": "17896441",
+    "content": "36e8b65f"
+  },
+  "/docs/4.0.0/发布说明/发布记录": {
+    "component": "17896441",
+    "content": "7eeec071"
+  },
+  "/docs/4.0.0/安装/安装": {
+    "component": "17896441",
+    "content": "1419b666"
+  },
+  "/docs/4.0.0/安装/安装MongoDB": {
+    "component": "17896441",
+    "content": "0518e7f9"
+  },
+  "/docs/4.0.0/安装/安装PostgresSQL": {
+    "component": "17896441",
+    "content": "ebc26b2f"
+  },
+  "/docs/4.0.0/安装/安装RabbitMQ": {
+    "component": "17896441",
+    "content": "78b46fb2"
+  },
+  "/docs/4.0.0/安装/安装SQLServer": {
+    "component": "17896441",
+    "content": "6531ed07"
+  },
+  "/docs/4.0.0/安装/系统要求": {
+    "component": "17896441",
+    "content": "f5dffbe5"
+  },
+  "/docs/4.0.0/快速入门/创建计划": {
+    "component": "17896441",
+    "content": "5ebd52d6"
+  },
+  "/docs/4.0.0/快速入门/审核和查看": {
+    "component": "17896441",
+    "content": "37535e10"
+  },
+  "/docs/4.0.0/快速入门/快速部署和配置": {
+    "component": "17896441",
+    "content": "6a1da845"
+  },
+  "/docs/4.0.0/快速入门/报表和分析": {
+    "component": "17896441",
+    "content": "deec9b3f"
+  },
+  "/docs/4.0.0/快速入门/概述": {
+    "component": "17896441",
+    "content": "7d3c6ca6"
+  },
+  "/docs/4.0.0/快速入门/终端执行": {
+    "component": "17896441",
+    "content": "c9ba1bbc"
+  },
+  "/docs/4.0.0/最佳实践/维护最佳实践": {
+    "component": "17896441",
+    "content": "b2ca7a5b"
+  },
+  "/docs/4.0.0/最佳实践/配置最佳实践": {
+    "component": "17896441",
+    "content": "5c1ce3df"
+  },
+  "/docs/4.0.0/用户使用手册/终端/主页": {
+    "component": "17896441",
+    "content": "7eccda28"
+  },
+  "/docs/4.0.0/用户使用手册/终端/同步": {
+    "component": "17896441",
+    "content": "7cdcf84a"
+  },
+  "/docs/4.0.0/用户使用手册/终端/审核": {
+    "component": "17896441",
+    "content": "c6ed35fe"
+  },
+  "/docs/4.0.0/用户使用手册/终端/执行": {
+    "component": "17896441",
+    "content": "be84a8dd"
+  },
+  "/docs/4.0.0/用户使用手册/终端/日志": {
+    "component": "17896441",
+    "content": "e57d89a8"
+  },
+  "/docs/4.0.0/用户使用手册/终端/消息": {
+    "component": "17896441",
+    "content": "9fcc0296"
+  },
+  "/docs/4.0.0/用户使用手册/终端/登录": {
+    "component": "17896441",
+    "content": "4257f4f7"
+  },
+  "/docs/4.0.0/用户使用手册/终端/配置": {
+    "component": "17896441",
+    "content": "68184bd8"
+  },
+  "/docs/4.0.0/用户使用手册/网页端/下载终端应用": {
+    "component": "17896441",
+    "content": "663149cd"
+  },
+  "/docs/4.0.0/用户使用手册/网页端/个性设置": {
+    "component": "17896441",
+    "content": "1153637c"
+  },
+  "/docs/4.0.0/用户使用手册/网页端/人员总览": {
+    "component": "17896441",
+    "content": "88ecbc10"
+  },
+  "/docs/4.0.0/用户使用手册/网页端/任务": {
+    "component": "17896441",
+    "content": "00c40811"
+  },
+  "/docs/4.0.0/用户使用手册/网页端/作业树": {
+    "component": "17896441",
+    "content": "000bf4e6"
+  },
+  "/docs/4.0.0/用户使用手册/网页端/作业组模板": {
+    "component": "17896441",
+    "content": "59e3a5ca"
+  },
+  "/docs/4.0.0/用户使用手册/网页端/作业组维护": {
+    "component": "17896441",
+    "content": "2de13905"
+  },
+  "/docs/4.0.0/用户使用手册/网页端/修改密码": {
+    "component": "17896441",
+    "content": "016afb6c"
+  },
+  "/docs/4.0.0/用户使用手册/网页端/分析": {
+    "component": "17896441",
+    "content": "68762bc6"
+  },
+  "/docs/4.0.0/用户使用手册/网页端/地图": {
+    "component": "17896441",
+    "content": "8a7a0f26"
+  },
+  "/docs/4.0.0/用户使用手册/网页端/子项模板": {
+    "component": "17896441",
+    "content": "cf1b5a61"
+  },
+  "/docs/4.0.0/用户使用手册/网页端/审核": {
+    "component": "17896441",
+    "content": "663a3766"
+  },
+  "/docs/4.0.0/用户使用手册/网页端/库存": {
+    "component": "17896441",
+    "content": "27e02adc"
+  },
+  "/docs/4.0.0/用户使用手册/网页端/库存导入": {
+    "component": "17896441",
+    "content": "768eae87"
+  },
+  "/docs/4.0.0/用户使用手册/网页端/报表": {
+    "component": "17896441",
+    "content": "78652dc5"
+  },
+  "/docs/4.0.0/用户使用手册/网页端/排班表": {
+    "component": "17896441",
+    "content": "c33ee859"
+  },
+  "/docs/4.0.0/用户使用手册/网页端/日志": {
+    "component": "17896441",
+    "content": "eb155acd"
+  },
+  "/docs/4.0.0/用户使用手册/网页端/日志主题": {
+    "component": "17896441",
+    "content": "62528063"
+  },
+  "/docs/4.0.0/用户使用手册/网页端/权限设置": {
+    "component": "17896441",
+    "content": "bdaafdc1"
+  },
+  "/docs/4.0.0/用户使用手册/网页端/注销": {
+    "component": "17896441",
+    "content": "c175fe4d"
+  },
+  "/docs/4.0.0/用户使用手册/网页端/消息中心": {
+    "component": "17896441",
+    "content": "4255fcff"
+  },
+  "/docs/4.0.0/用户使用手册/网页端/消息类型管理": {
+    "component": "17896441",
+    "content": "c6b63f60"
+  },
+  "/docs/4.0.0/用户使用手册/网页端/消息订阅": {
+    "component": "17896441",
+    "content": "df16680f"
+  },
+  "/docs/4.0.0/用户使用手册/网页端/消息订阅管理": {
+    "component": "17896441",
+    "content": "566b5b24"
+  },
+  "/docs/4.0.0/用户使用手册/网页端/用户信息": {
+    "component": "17896441",
+    "content": "ea4c0485"
+  },
+  "/docs/4.0.0/用户使用手册/网页端/画面": {
+    "component": "17896441",
+    "content": "2b4d4bf7"
+  },
+  "/docs/4.0.0/用户使用手册/网页端/登录": {
+    "component": "17896441",
+    "content": "7e3ecf12"
+  },
+  "/docs/4.0.0/用户使用手册/网页端/知识库": {
+    "component": "17896441",
+    "content": "69aa66eb"
+  },
+  "/docs/4.0.0/用户使用手册/网页端/管理员功能": {
+    "component": "17896441",
+    "content": "a136da49"
+  },
+  "/docs/4.0.0/用户使用手册/网页端/管理导航栏": {
+    "component": "17896441",
+    "content": "63fc18e6"
+  },
+  "/docs/4.0.0/用户使用手册/网页端/系统扩展管理": {
+    "component": "17896441",
+    "content": "963c1254"
+  },
+  "/docs/4.0.0/用户使用手册/网页端/系统日志": {
+    "component": "17896441",
+    "content": "7cda8857"
+  },
+  "/docs/4.0.0/用户使用手册/网页端/网站设置": {
+    "component": "17896441",
+    "content": "42145b20"
+  },
+  "/docs/4.0.0/用户使用手册/网页端/自定义主页": {
+    "component": "17896441",
+    "content": "d3011635"
+  },
+  "/docs/4.0.0/用户使用手册/网页端/自定义导航": {
+    "component": "17896441",
+    "content": "e6f59c56"
+  },
+  "/docs/4.0.0/用户使用手册/网页端/计划": {
+    "component": "17896441",
+    "content": "21ac241e"
+  },
+  "/docs/4.0.0/用户使用手册/网页端/资产位置": {
+    "component": "17896441",
+    "content": "859ea4a0"
+  },
+  "/docs/4.0.0/用户使用手册/网页端/资产总览": {
+    "component": "17896441",
+    "content": "8971753e"
+  },
+  "/docs/4.0.0/用户使用手册/网页端/资源": {
+    "component": "17896441",
+    "content": "af52c9eb"
+  },
+  "/docs/4.0.0/用户使用手册/网页端/项目": {
+    "component": "17896441",
+    "content": "9d637a5f"
+  },
+  "/docs/4.0.0/简介/优势": {
+    "component": "17896441",
+    "content": "ef7f5664"
+  },
+  "/docs/4.0.0/简介/应用场景": {
+    "component": "17896441",
+    "content": "8b6992ac"
+  },
+  "/docs/4.0.0/简介/概述": {
+    "component": "17896441",
+    "content": "6cb981a3"
+  },
+  "/docs/4.0.0/系统扩展指南/RabbitMQ开发说明": {
+    "component": "17896441",
+    "content": "e54f6237"
+  },
+  "/docs/4.0.0/系统扩展指南/nodejs程序配置成windows服务": {
+    "component": "17896441",
+    "content": "2547dd35"
+  },
+  "/docs/4.0.0/系统扩展指南/与自控系统集成例子": {
+    "component": "17896441",
+    "content": "dcf3e78b"
+  },
+  "/docs/4.0.0/系统扩展指南/主页定制扩展例子": {
+    "component": "17896441",
+    "content": "57cd2c0c"
+  },
+  "/docs/4.0.0/系统扩展指南/主页定制扩展开发": {
+    "component": "17896441",
+    "content": "4874c485"
+  },
+  "/docs/4.0.0/系统扩展指南/分析扩展开发": {
+    "component": "17896441",
+    "content": "a30afa24"
+  },
+  "/docs/4.0.0/系统扩展指南/分析扩展开发示例": {
+    "component": "17896441",
+    "content": "977f5e69"
+  },
+  "/docs/4.0.0/系统扩展指南/扩展例子": {
+    "component": "17896441",
+    "content": "a9c69444"
+  },
+  "/docs/4.0.0/系统扩展指南/报表扩展开发": {
+    "component": "17896441",
+    "content": "969a9b98"
+  },
+  "/docs/4.0.0/系统扩展指南/流程后函数扩展开发": {
+    "component": "17896441",
+    "content": "d5b1f161"
+  },
+  "/docs/4.0.0/系统扩展指南/社交平台集成示例-iDong库存与U8用友对接": {
+    "component": "17896441",
+    "content": "7917baa0"
+  },
+  "/docs/4.0.0/系统扩展指南/社交平台集成示例-作业任务钉钉推送": {
+    "component": "17896441",
+    "content": "ac8b8e60"
+  },
+  "/docs/4.0.0/系统扩展指南/终端页面扩展开发": {
+    "component": "17896441",
+    "content": "e0145fbd"
+  },
+  "/docs/4.0.0/系统扩展指南/自定义服务扩展开发": {
+    "component": "17896441",
+    "content": "cc7d1f0f"
+  },
+  "/docs/4.0.0/系统扩展指南/资产属性终端自定义查询": {
+    "component": "17896441",
+    "content": "352b9f1b"
+  },
+  "/docs/4.0.0/系统维护指南/数据备份和还原": {
+    "component": "17896441",
+    "content": "45c0dbe9"
+  },
+  "/docs/4.0.0/系统维护指南/运行监控和维护": {
+    "component": "17896441",
+    "content": "99e181c9"
+  },
+  "/docs/4.0.0/系统配置手册/作业管理器/作业组": {
+    "component": "17896441",
+    "content": "0b0d6b79"
+  },
+  "/docs/4.0.0/系统配置手册/作业管理器/作业组下作业": {
+    "component": "17896441",
+    "content": "4d3bd1da"
+  },
+  "/docs/4.0.0/系统配置手册/作业管理器/作业组下作业项": {
+    "component": "17896441",
+    "content": "ad732071"
+  },
+  "/docs/4.0.0/系统配置手册/作业管理器/作业组概述": {
+    "component": "17896441",
+    "content": "be83d127"
+  },
+  "/docs/4.0.0/系统配置手册/作业管理器/作业规范": {
+    "component": "17896441",
+    "content": "99cbc3d1"
+  },
+  "/docs/4.0.0/系统配置手册/作业管理器/作业规范下作业": {
+    "component": "17896441",
+    "content": "2a00efa4"
+  },
+  "/docs/4.0.0/系统配置手册/作业管理器/作业规范下作业项": {
+    "component": "17896441",
+    "content": "166e1a14"
+  },
+  "/docs/4.0.0/系统配置手册/作业管理器/作业规范概述": {
+    "component": "17896441",
+    "content": "546f876c"
+  },
+  "/docs/4.0.0/系统配置手册/作业管理器/概述": {
+    "component": "17896441",
+    "content": "b821f53f"
+  },
+  "/docs/4.0.0/系统配置手册/作业管理器/项目模板": {
+    "component": "17896441",
+    "content": "1ec0b836"
+  },
+  "/docs/4.0.0/系统配置手册/内置流程后和终端函数": {
+    "component": "17896441",
+    "content": "f1903a35"
+  },
+  "/docs/4.0.0/系统配置手册/列表管理器/例外等级": {
+    "component": "17896441",
+    "content": "2db610c3"
+  },
+  "/docs/4.0.0/系统配置手册/列表管理器/全局属性模板": {
+    "component": "17896441",
+    "content": "a2cdafa6"
+  },
+  "/docs/4.0.0/系统配置手册/列表管理器/工程单位": {
+    "component": "17896441",
+    "content": "c29296c3"
+  },
+  "/docs/4.0.0/系统配置手册/列表管理器/概述": {
+    "component": "17896441",
+    "content": "08debf2e"
+  },
+  "/docs/4.0.0/系统配置手册/列表管理器/自定义列表": {
+    "component": "17896441",
+    "content": "2cf3d992"
+  },
+  "/docs/4.0.0/系统配置手册/列表管理器/资产": {
+    "component": "17896441",
+    "content": "38f1fd20"
+  },
+  "/docs/4.0.0/系统配置手册/列表管理器/资产类别": {
+    "component": "17896441",
+    "content": "5223b07d"
+  },
+  "/docs/4.0.0/系统配置手册/列表管理器/轮班": {
+    "component": "17896441",
+    "content": "10e22a6d"
+  },
+  "/docs/4.0.0/系统配置手册/列表管理器/附件": {
+    "component": "17896441",
+    "content": "95002e1d"
+  },
+  "/docs/4.0.0/系统配置手册/授权管理/授权管理": {
+    "component": "17896441",
+    "content": "459062df"
+  },
+  "/docs/4.0.0/系统配置手册/数据库管理/数据库管理": {
+    "component": "17896441",
+    "content": "9f37ae95"
+  },
+  "/docs/4.0.0/系统配置手册/模板详细说明/基础模板": {
+    "component": "17896441",
+    "content": "268ec07f"
+  },
+  "/docs/4.0.0/系统配置手册/模板详细说明/安全作业模板": {
+    "component": "17896441",
+    "content": "1d35bc75"
+  },
+  "/docs/4.0.0/系统配置手册/模板详细说明/巡检和维修作业模板": {
+    "component": "17896441",
+    "content": "9d3ed9f5"
+  },
+  "/docs/4.0.0/系统配置手册/模板详细说明/概述": {
+    "component": "17896441",
+    "content": "96005eb8"
+  },
+  "/docs/4.0.0/系统配置手册/模板详细说明/设备管理模板": {
+    "component": "17896441",
+    "content": "48f4b3ac"
+  },
+  "/docs/4.0.0/系统配置手册/流程管理器/流程管理器": {
+    "component": "17896441",
+    "content": "f77c3085"
+  },
+  "/docs/4.0.0/系统配置手册/系统设置/服务/服务": {
+    "component": "17896441",
+    "content": "e84807c6"
+  },
+  "/docs/4.0.0/系统配置手册/系统设置/系统参数/系统参数": {
+    "component": "17896441",
+    "content": "38dd86a5"
+  },
+  "/docs/4.0.0/系统配置手册/组织架构管理器/业务范畴": {
+    "component": "17896441",
+    "content": "e84bb617"
+  },
+  "/docs/4.0.0/系统配置手册/组织架构管理器/岗位": {
+    "component": "17896441",
+    "content": "aa3fd92d"
+  },
+  "/docs/4.0.0/系统配置手册/组织架构管理器/概述": {
+    "component": "17896441",
+    "content": "7b6a9aeb"
+  },
+  "/docs/4.0.0/系统配置手册/组织架构管理器/用户": {
+    "component": "17896441",
+    "content": "8c8c1f30"
+  },
+  "/docs/4.0.0/系统配置手册/组织架构管理器/组织单元": {
+    "component": "17896441",
+    "content": "7780bf02"
+  },
+  "/docs/4.0.0/系统配置手册/解决方案管理/解决方案管理": {
+    "component": "17896441",
+    "content": "c2cda161"
+  },
+  "/docs/4.0.0/系统配置手册/解决方案设置/解决方案设置": {
+    "component": "17896441",
+    "content": "3202d3da"
+  },
+  "/docs/4.0.0/系统配置手册/账户设置/账户设置": {
+    "component": "17896441",
+    "content": "1364bec2"
+  },
+  "/docs/4.0.0/系统配置手册/部署模型管理/部署模型管理": {
+    "component": "17896441",
+    "content": "2f3c1eb7"
+  },
+  "/docs/4.0.0/附录/作业树模板配置和使用": {
+    "component": "17896441",
+    "content": "df9b2cb3"
+  },
+  "/docs/4.0.0/附录/使用AIC8600测温测振设备": {
+    "component": "17896441",
+    "content": "18a5c480"
+  },
+  "/docs/4.0.0/附录/使用AR智能眼镜和远程指导": {
+    "component": "17896441",
+    "content": "3fe9536c"
+  },
+  "/docs/4.0.0/附录/使用RFID或NFC标签": {
+    "component": "17896441",
+    "content": "15523b8e"
+  },
+  "/docs/4.0.0/附录/使用条码标签": {
+    "component": "17896441",
+    "content": "3e516f55"
+  },
+  "/docs/4.0.0/附录/使用超高频标签": {
+    "component": "17896441",
+    "content": "138b1481"
+  },
+  "/docs/4.0.0/附录/使用钛准定位": {
+    "component": "17896441",
+    "content": "cf934423"
+  },
+  "/docs/4.0.0/附录/大屏配置和使用": {
+    "component": "17896441",
+    "content": "93995011"
+  },
+  "/docs/4.0.0/附录/常见问题": {
+    "component": "17896441",
+    "content": "aec5f38e"
+  },
+  "/docs/4.0.0/附录/软件和应用升级": {
+    "component": "17896441",
+    "content": "05fd3482"
+  },
+  "/docs/next/:route": {
+    "component": "1be78505",
+    "docsMetadata": "c6c6e257"
+  },
+  "/docs/next/发布说明/3.8.1发布说明": {
+    "component": "17896441",
+    "content": "a03eb363"
+  },
+  "/docs/next/发布说明/3.8.2发布说明": {
+    "component": "17896441",
+    "content": "7c253f88"
+  },
+  "/docs/next/发布说明/4.0.0发布说明": {
+    "component": "17896441",
+    "content": "7a848fe2"
+  },
+  "/docs/next/发布说明/4.0.1发布说明": {
+    "component": "17896441",
+    "content": "7b578e81"
+  },
+  "/docs/next/发布说明/4.0.2发布说明": {
+    "component": "17896441",
+    "content": "4e78286a"
+  },
+  "/docs/next/发布说明/发布记录": {
+    "component": "17896441",
+    "content": "bcfd5257"
+  },
+  "/docs/next/安装/安装": {
+    "component": "17896441",
+    "content": "81b09d1b"
+  },
+  "/docs/next/安装/安装MongoDB": {
+    "component": "17896441",
+    "content": "46831043"
+  },
+  "/docs/next/安装/安装PostgresSQL": {
+    "component": "17896441",
+    "content": "6fd03446"
+  },
+  "/docs/next/安装/安装RabbitMQ": {
+    "component": "17896441",
+    "content": "3371d4f0"
+  },
+  "/docs/next/安装/安装SQLServer": {
+    "component": "17896441",
+    "content": "7795af26"
+  },
+  "/docs/next/安装/系统要求": {
+    "component": "17896441",
+    "content": "2a5b88fc"
+  },
+  "/docs/next/快速入门/创建计划": {
+    "component": "17896441",
+    "content": "12d2e706"
+  },
+  "/docs/next/快速入门/审核和查看": {
+    "component": "17896441",
+    "content": "4029402a"
+  },
+  "/docs/next/快速入门/快速部署和配置": {
+    "component": "17896441",
+    "content": "745c14f5"
+  },
+  "/docs/next/快速入门/报表和分析": {
+    "component": "17896441",
+    "content": "8168d4bd"
+  },
+  "/docs/next/快速入门/概述": {
+    "component": "17896441",
+    "content": "e4b068a6"
+  },
+  "/docs/next/快速入门/终端执行": {
+    "component": "17896441",
+    "content": "4de86dc3"
+  },
+  "/docs/next/故障排查指南/企业运营中心": {
+    "component": "17896441",
+    "content": "5e0c2c01"
+  },
+  "/docs/next/故障排查指南/其它": {
+    "component": "17896441",
+    "content": "89c33ee0"
+  },
+  "/docs/next/故障排查指南/后台及Restful API": {
+    "component": "17896441",
+    "content": "2c824ccd"
+  },
+  "/docs/next/故障排查指南/数据库管理": {
+    "component": "17896441",
+    "content": "b486521d"
+  },
+  "/docs/next/故障排查指南/移动工作站": {
+    "component": "17896441",
+    "content": "ddea2fa6"
+  },
+  "/docs/next/故障排查指南/解决方案开发中心": {
+    "component": "17896441",
+    "content": "9ac70a0d"
+  },
+  "/docs/next/故障排查指南/解决方案管理中心": {
+    "component": "17896441",
+    "content": "14ef4972"
+  },
+  "/docs/next/最佳实践/维护最佳实践": {
+    "component": "17896441",
+    "content": "08868536"
+  },
+  "/docs/next/最佳实践/配置最佳实践": {
+    "component": "17896441",
+    "content": "034a15d4"
+  },
+  "/docs/next/用户使用手册/终端/主页": {
+    "component": "17896441",
+    "content": "7266d75c"
+  },
+  "/docs/next/用户使用手册/终端/同步": {
+    "component": "17896441",
+    "content": "52e49d5a"
+  },
+  "/docs/next/用户使用手册/终端/审核": {
+    "component": "17896441",
+    "content": "e8cd95a9"
+  },
+  "/docs/next/用户使用手册/终端/执行": {
+    "component": "17896441",
+    "content": "7a7f3199"
+  },
+  "/docs/next/用户使用手册/终端/日志": {
+    "component": "17896441",
+    "content": "5f4beb31"
+  },
+  "/docs/next/用户使用手册/终端/消息": {
+    "component": "17896441",
+    "content": "db3c5e97"
+  },
+  "/docs/next/用户使用手册/终端/登录": {
+    "component": "17896441",
+    "content": "8d208eaf"
+  },
+  "/docs/next/用户使用手册/终端/配置": {
+    "component": "17896441",
+    "content": "e9e4b57a"
+  },
+  "/docs/next/用户使用手册/网页端/下载终端应用": {
+    "component": "17896441",
+    "content": "93a4004e"
+  },
+  "/docs/next/用户使用手册/网页端/个性设置": {
+    "component": "17896441",
+    "content": "89a3a500"
+  },
+  "/docs/next/用户使用手册/网页端/人员总览": {
+    "component": "17896441",
+    "content": "9b442e89"
+  },
+  "/docs/next/用户使用手册/网页端/任务": {
+    "component": "17896441",
+    "content": "e927750a"
+  },
+  "/docs/next/用户使用手册/网页端/作业树": {
+    "component": "17896441",
+    "content": "af7318ee"
+  },
+  "/docs/next/用户使用手册/网页端/作业组模板": {
+    "component": "17896441",
+    "content": "96d116f9"
+  },
+  "/docs/next/用户使用手册/网页端/作业组维护": {
+    "component": "17896441",
+    "content": "adfe694c"
+  },
+  "/docs/next/用户使用手册/网页端/修改密码": {
+    "component": "17896441",
+    "content": "a3f25177"
+  },
+  "/docs/next/用户使用手册/网页端/分析": {
+    "component": "17896441",
+    "content": "81b145f6"
+  },
+  "/docs/next/用户使用手册/网页端/地图": {
+    "component": "17896441",
+    "content": "9b399676"
+  },
+  "/docs/next/用户使用手册/网页端/子项模板": {
+    "component": "17896441",
+    "content": "10aaf5f0"
+  },
+  "/docs/next/用户使用手册/网页端/审核": {
+    "component": "17896441",
+    "content": "3ef6d941"
+  },
+  "/docs/next/用户使用手册/网页端/库存": {
+    "component": "17896441",
+    "content": "ab85bb29"
+  },
+  "/docs/next/用户使用手册/网页端/库存导入": {
+    "component": "17896441",
+    "content": "5fe41d0f"
+  },
+  "/docs/next/用户使用手册/网页端/报表": {
+    "component": "17896441",
+    "content": "9791654e"
+  },
+  "/docs/next/用户使用手册/网页端/排班表": {
+    "component": "17896441",
+    "content": "6176f585"
+  },
+  "/docs/next/用户使用手册/网页端/日志": {
+    "component": "17896441",
+    "content": "34f1431b"
+  },
+  "/docs/next/用户使用手册/网页端/日志主题": {
+    "component": "17896441",
+    "content": "b7ee37ad"
+  },
+  "/docs/next/用户使用手册/网页端/权限设置": {
+    "component": "17896441",
+    "content": "4ac46e3b"
+  },
+  "/docs/next/用户使用手册/网页端/注销": {
+    "component": "17896441",
+    "content": "7b732249"
+  },
+  "/docs/next/用户使用手册/网页端/消息中心": {
+    "component": "17896441",
+    "content": "75a5459f"
+  },
+  "/docs/next/用户使用手册/网页端/消息类型管理": {
+    "component": "17896441",
+    "content": "cf98089d"
+  },
+  "/docs/next/用户使用手册/网页端/消息订阅": {
+    "component": "17896441",
+    "content": "a8c6428d"
+  },
+  "/docs/next/用户使用手册/网页端/消息订阅管理": {
+    "component": "17896441",
+    "content": "f981d604"
+  },
+  "/docs/next/用户使用手册/网页端/用户信息": {
+    "component": "17896441",
+    "content": "b9320d62"
+  },
+  "/docs/next/用户使用手册/网页端/画面": {
+    "component": "17896441",
+    "content": "fa6a6306"
+  },
+  "/docs/next/用户使用手册/网页端/登录": {
+    "component": "17896441",
+    "content": "53deb25c"
+  },
+  "/docs/next/用户使用手册/网页端/知识库": {
+    "component": "17896441",
+    "content": "ec997759"
+  },
+  "/docs/next/用户使用手册/网页端/管理员功能": {
+    "component": "17896441",
+    "content": "bc53e842"
+  },
+  "/docs/next/用户使用手册/网页端/管理导航栏": {
+    "component": "17896441",
+    "content": "98410ab6"
+  },
+  "/docs/next/用户使用手册/网页端/系统扩展管理": {
+    "component": "17896441",
+    "content": "64545447"
+  },
+  "/docs/next/用户使用手册/网页端/系统日志": {
+    "component": "17896441",
+    "content": "606cd5ae"
+  },
+  "/docs/next/用户使用手册/网页端/网站设置": {
+    "component": "17896441",
+    "content": "06a341c7"
+  },
+  "/docs/next/用户使用手册/网页端/自定义主页": {
+    "component": "17896441",
+    "content": "52034c49"
+  },
+  "/docs/next/用户使用手册/网页端/自定义导航": {
+    "component": "17896441",
+    "content": "3eff1902"
+  },
+  "/docs/next/用户使用手册/网页端/计划": {
+    "component": "17896441",
+    "content": "86a3edf9"
+  },
+  "/docs/next/用户使用手册/网页端/资产位置": {
+    "component": "17896441",
+    "content": "67b240a2"
+  },
+  "/docs/next/用户使用手册/网页端/资产总览": {
+    "component": "17896441",
+    "content": "2a636313"
+  },
+  "/docs/next/用户使用手册/网页端/资源": {
+    "component": "17896441",
+    "content": "77f41d81"
+  },
+  "/docs/next/用户使用手册/网页端/项目": {
+    "component": "17896441",
+    "content": "f6fca25b"
+  },
+  "/docs/next/简介/优势": {
+    "component": "17896441",
+    "content": "d63007b7"
+  },
+  "/docs/next/简介/应用场景": {
+    "component": "17896441",
+    "content": "f505a092"
+  },
+  "/docs/next/简介/概述": {
+    "component": "17896441",
+    "content": "5218b2f0"
+  },
+  "/docs/next/系统扩展指南/RabbitMQ开发说明": {
+    "component": "17896441",
+    "content": "927a9179"
+  },
+  "/docs/next/系统扩展指南/nodejs程序配置成windows服务": {
+    "component": "17896441",
+    "content": "a6649fd9"
+  },
+  "/docs/next/系统扩展指南/与自控系统集成例子": {
+    "component": "17896441",
+    "content": "42f6340f"
+  },
+  "/docs/next/系统扩展指南/主页定制扩展例子": {
+    "component": "17896441",
+    "content": "820e48ac"
+  },
+  "/docs/next/系统扩展指南/主页定制扩展开发": {
+    "component": "17896441",
+    "content": "ba24c50b"
+  },
+  "/docs/next/系统扩展指南/分析扩展开发": {
+    "component": "17896441",
+    "content": "61e00453"
+  },
+  "/docs/next/系统扩展指南/分析扩展开发示例": {
+    "component": "17896441",
+    "content": "7caeff84"
+  },
+  "/docs/next/系统扩展指南/扩展例子": {
+    "component": "17896441",
+    "content": "43235a1d"
+  },
+  "/docs/next/系统扩展指南/报表扩展开发": {
+    "component": "17896441",
+    "content": "4249e91d"
+  },
+  "/docs/next/系统扩展指南/流程后函数扩展开发": {
+    "component": "17896441",
+    "content": "ce933cfc"
+  },
+  "/docs/next/系统扩展指南/社交平台集成示例-iDong库存与U8用友对接": {
+    "component": "17896441",
+    "content": "1bdf5214"
+  },
+  "/docs/next/系统扩展指南/社交平台集成示例-作业任务钉钉推送": {
+    "component": "17896441",
+    "content": "42743fb7"
+  },
+  "/docs/next/系统扩展指南/终端页面扩展开发": {
+    "component": "17896441",
+    "content": "a13943c6"
+  },
+  "/docs/next/系统扩展指南/自定义服务扩展开发": {
+    "component": "17896441",
+    "content": "dbf08ff0"
+  },
+  "/docs/next/系统扩展指南/资产属性终端自定义查询": {
+    "component": "17896441",
+    "content": "7fbd8cc3"
+  },
+  "/docs/next/系统维护指南/数据备份和还原": {
+    "component": "17896441",
+    "content": "45c75163"
+  },
+  "/docs/next/系统维护指南/运行监控和维护": {
+    "component": "17896441",
+    "content": "181ade0a"
+  },
+  "/docs/next/系统配置手册/作业管理器/作业组": {
+    "component": "17896441",
+    "content": "4ac2c85e"
+  },
+  "/docs/next/系统配置手册/作业管理器/作业组下作业": {
+    "component": "17896441",
+    "content": "67859058"
+  },
+  "/docs/next/系统配置手册/作业管理器/作业组下作业项": {
+    "component": "17896441",
+    "content": "dba826de"
+  },
+  "/docs/next/系统配置手册/作业管理器/作业组概述": {
+    "component": "17896441",
+    "content": "1eb05121"
+  },
+  "/docs/next/系统配置手册/作业管理器/作业规范": {
+    "component": "17896441",
+    "content": "3ce1d9c2"
+  },
+  "/docs/next/系统配置手册/作业管理器/作业规范下作业": {
+    "component": "17896441",
+    "content": "1f64b9ec"
+  },
+  "/docs/next/系统配置手册/作业管理器/作业规范下作业项": {
+    "component": "17896441",
+    "content": "dbbe6793"
+  },
+  "/docs/next/系统配置手册/作业管理器/作业规范概述": {
+    "component": "17896441",
+    "content": "457aedd0"
+  },
+  "/docs/next/系统配置手册/作业管理器/概述": {
+    "component": "17896441",
+    "content": "59c7b3a2"
+  },
+  "/docs/next/系统配置手册/作业管理器/项目模板": {
+    "component": "17896441",
+    "content": "b9e47c2e"
+  },
+  "/docs/next/系统配置手册/内置流程后和终端函数": {
+    "component": "17896441",
+    "content": "93e3c208"
+  },
+  "/docs/next/系统配置手册/列表管理器/例外等级": {
+    "component": "17896441",
+    "content": "1b34f13f"
+  },
+  "/docs/next/系统配置手册/列表管理器/全局属性模板": {
+    "component": "17896441",
+    "content": "70b5d06d"
+  },
+  "/docs/next/系统配置手册/列表管理器/工程单位": {
+    "component": "17896441",
+    "content": "b489bf03"
+  },
+  "/docs/next/系统配置手册/列表管理器/概述": {
+    "component": "17896441",
+    "content": "0e5ccde7"
+  },
+  "/docs/next/系统配置手册/列表管理器/自定义列表": {
+    "component": "17896441",
+    "content": "33e16e63"
+  },
+  "/docs/next/系统配置手册/列表管理器/资产": {
+    "component": "17896441",
+    "content": "a4b50b9a"
+  },
+  "/docs/next/系统配置手册/列表管理器/资产类别": {
+    "component": "17896441",
+    "content": "10bc2b0b"
+  },
+  "/docs/next/系统配置手册/列表管理器/轮班": {
+    "component": "17896441",
+    "content": "159a6620"
+  },
+  "/docs/next/系统配置手册/列表管理器/附件": {
+    "component": "17896441",
+    "content": "2422798e"
+  },
+  "/docs/next/系统配置手册/授权管理/授权管理": {
+    "component": "17896441",
+    "content": "8e743252"
+  },
+  "/docs/next/系统配置手册/数据库管理/数据库管理": {
+    "component": "17896441",
+    "content": "072c97fb"
+  },
+  "/docs/next/系统配置手册/模板详细说明/基础模板": {
+    "component": "17896441",
+    "content": "2a5af0f5"
+  },
+  "/docs/next/系统配置手册/模板详细说明/安全作业模板": {
+    "component": "17896441",
+    "content": "6cf3450f"
+  },
+  "/docs/next/系统配置手册/模板详细说明/巡检和维修作业模板": {
+    "component": "17896441",
+    "content": "9231da10"
+  },
+  "/docs/next/系统配置手册/模板详细说明/概述": {
+    "component": "17896441",
+    "content": "0768ce2b"
+  },
+  "/docs/next/系统配置手册/模板详细说明/设备管理模板": {
+    "component": "17896441",
+    "content": "cb84e222"
+  },
+  "/docs/next/系统配置手册/流程管理器/流程管理器": {
+    "component": "17896441",
+    "content": "52d96ca5"
+  },
+  "/docs/next/系统配置手册/系统设置/服务/服务": {
+    "component": "17896441",
+    "content": "9f832919"
+  },
+  "/docs/next/系统配置手册/系统设置/系统参数/系统参数": {
+    "component": "17896441",
+    "content": "8d76fdf7"
+  },
+  "/docs/next/系统配置手册/组织架构管理器/业务范畴": {
+    "component": "17896441",
+    "content": "0bb3b9cc"
+  },
+  "/docs/next/系统配置手册/组织架构管理器/岗位": {
+    "component": "17896441",
+    "content": "9892f145"
+  },
+  "/docs/next/系统配置手册/组织架构管理器/概述": {
+    "component": "17896441",
+    "content": "343b93fa"
+  },
+  "/docs/next/系统配置手册/组织架构管理器/用户": {
+    "component": "17896441",
+    "content": "ebd0777a"
+  },
+  "/docs/next/系统配置手册/组织架构管理器/组织单元": {
+    "component": "17896441",
+    "content": "43205a1d"
+  },
+  "/docs/next/系统配置手册/解决方案管理/解决方案管理": {
+    "component": "17896441",
+    "content": "7c4c5558"
+  },
+  "/docs/next/系统配置手册/解决方案设置/解决方案设置": {
+    "component": "17896441",
+    "content": "7dc657bb"
+  },
+  "/docs/next/系统配置手册/账户设置/账户设置": {
+    "component": "17896441",
+    "content": "4b74c875"
+  },
+  "/docs/next/系统配置手册/部署模型管理/部署模型管理": {
+    "component": "17896441",
+    "content": "d759d2e9"
+  },
+  "/docs/next/附录/作业树模板配置和使用": {
+    "component": "17896441",
+    "content": "45042058"
+  },
+  "/docs/next/附录/使用AIC8600测温测振设备": {
+    "component": "17896441",
+    "content": "14f812c9"
+  },
+  "/docs/next/附录/使用AR智能眼镜和远程指导": {
+    "component": "17896441",
+    "content": "8c37d7ee"
+  },
+  "/docs/next/附录/使用RFID或NFC标签": {
+    "component": "17896441",
+    "content": "4b932bb5"
+  },
+  "/docs/next/附录/使用条码标签": {
+    "component": "17896441",
+    "content": "12963686"
+  },
+  "/docs/next/附录/使用超高频标签": {
+    "component": "17896441",
+    "content": "b1f65f05"
+  },
+  "/docs/next/附录/使用钛准定位": {
+    "component": "17896441",
+    "content": "9211a102"
+  },
+  "/docs/next/附录/大屏配置和使用": {
+    "component": "17896441",
+    "content": "ef02b240"
+  },
+  "/docs/next/附录/软件和应用升级": {
+    "component": "17896441",
+    "content": "66bed856"
+  },
+  "/docs/:route": {
+    "component": "1be78505",
+    "docsMetadata": "20ac7829"
+  },
+  "/docs/发布说明/3.8.1发布说明": {
+    "component": "17896441",
+    "content": "da1394cd"
+  },
+  "/docs/发布说明/3.8.2发布说明": {
+    "component": "17896441",
+    "content": "91127d7e"
+  },
+  "/docs/发布说明/4.0.0发布说明": {
+    "component": "17896441",
+    "content": "2b9bccae"
+  },
+  "/docs/发布说明/4.0.1发布说明": {
+    "component": "17896441",
+    "content": "190653c9"
+  },
+  "/docs/发布说明/4.0.2发布说明": {
+    "component": "17896441",
+    "content": "949e1252"
+  },
+  "/docs/发布说明/发布记录": {
+    "component": "17896441",
+    "content": "7000be89"
+  },
+  "/docs/安装/安装": {
+    "component": "17896441",
+    "content": "b096745d"
+  },
+  "/docs/安装/安装MongoDB": {
+    "component": "17896441",
+    "content": "8a3de01f"
+  },
+  "/docs/安装/安装PostgresSQL": {
+    "component": "17896441",
+    "content": "fffccb87"
+  },
+  "/docs/安装/安装RabbitMQ": {
+    "component": "17896441",
+    "content": "f8b0531e"
+  },
+  "/docs/安装/安装SQLServer": {
+    "component": "17896441",
+    "content": "2cc2aad9"
+  },
+  "/docs/安装/系统要求": {
+    "component": "17896441",
+    "content": "ce71bfe0"
+  },
+  "/docs/快速入门/创建计划": {
+    "component": "17896441",
+    "content": "0208f846"
+  },
+  "/docs/快速入门/审核和查看": {
+    "component": "17896441",
+    "content": "c2e9872f"
+  },
+  "/docs/快速入门/快速部署和配置": {
+    "component": "17896441",
+    "content": "20a166f0"
+  },
+  "/docs/快速入门/报表和分析": {
+    "component": "17896441",
+    "content": "017b0a1a"
+  },
+  "/docs/快速入门/概述": {
+    "component": "17896441",
+    "content": "bc461ff4"
+  },
+  "/docs/快速入门/终端执行": {
+    "component": "17896441",
+    "content": "70f9a90e"
+  },
+  "/docs/故障排除指南/企业运营中心": {
+    "component": "17896441",
+    "content": "e677c5c1"
+  },
+  "/docs/故障排除指南/其它": {
+    "component": "17896441",
+    "content": "544242d2"
+  },
+  "/docs/故障排除指南/后台及Restful API": {
+    "component": "17896441",
+    "content": "22054ad8"
+  },
+  "/docs/故障排除指南/数据库管理": {
+    "component": "17896441",
+    "content": "9d3cfaaf"
+  },
+  "/docs/故障排除指南/移动工作站": {
+    "component": "17896441",
+    "content": "85465e24"
+  },
+  "/docs/故障排除指南/解决方案开发中心": {
+    "component": "17896441",
+    "content": "98339e30"
+  },
+  "/docs/故障排除指南/解决方案管理中心": {
+    "component": "17896441",
+    "content": "03682865"
+  },
+  "/docs/最佳实践/维护最佳实践": {
+    "component": "17896441",
+    "content": "d94688e7"
+  },
+  "/docs/最佳实践/配置最佳实践": {
+    "component": "17896441",
+    "content": "71b78b60"
+  },
+  "/docs/用户使用手册/终端/主页": {
+    "component": "17896441",
+    "content": "64a46a0f"
+  },
+  "/docs/用户使用手册/终端/同步": {
+    "component": "17896441",
+    "content": "8e3a4ed4"
+  },
+  "/docs/用户使用手册/终端/审核": {
+    "component": "17896441",
+    "content": "668840c8"
+  },
+  "/docs/用户使用手册/终端/执行": {
+    "component": "17896441",
+    "content": "da3a5356"
+  },
+  "/docs/用户使用手册/终端/日志": {
+    "component": "17896441",
+    "content": "bb82b59f"
+  },
+  "/docs/用户使用手册/终端/消息": {
+    "component": "17896441",
+    "content": "962433bb"
+  },
+  "/docs/用户使用手册/终端/登录": {
+    "component": "17896441",
+    "content": "e1eb13f6"
+  },
+  "/docs/用户使用手册/终端/配置": {
+    "component": "17896441",
+    "content": "e312f82d"
+  },
+  "/docs/用户使用手册/网页端/下载终端应用": {
+    "component": "17896441",
+    "content": "8add158e"
+  },
+  "/docs/用户使用手册/网页端/个性设置": {
+    "component": "17896441",
+    "content": "041046e3"
+  },
+  "/docs/用户使用手册/网页端/人员总览": {
+    "component": "17896441",
+    "content": "de300d57"
+  },
+  "/docs/用户使用手册/网页端/任务": {
+    "component": "17896441",
+    "content": "f362ed92"
+  },
+  "/docs/用户使用手册/网页端/作业树": {
+    "component": "17896441",
+    "content": "7c1a2e85"
+  },
+  "/docs/用户使用手册/网页端/作业组模板": {
+    "component": "17896441",
+    "content": "6ff56718"
+  },
+  "/docs/用户使用手册/网页端/作业组维护": {
+    "component": "17896441",
+    "content": "15cb0db6"
+  },
+  "/docs/用户使用手册/网页端/修改密码": {
+    "component": "17896441",
+    "content": "74c1507b"
+  },
+  "/docs/用户使用手册/网页端/分析": {
+    "component": "17896441",
+    "content": "3a42f75e"
+  },
+  "/docs/用户使用手册/网页端/地图": {
+    "component": "17896441",
+    "content": "ca15d7f5"
+  },
+  "/docs/用户使用手册/网页端/子项模板": {
+    "component": "17896441",
+    "content": "cd02fe5b"
+  },
+  "/docs/用户使用手册/网页端/审核": {
+    "component": "17896441",
+    "content": "5961b623"
+  },
+  "/docs/用户使用手册/网页端/库存": {
+    "component": "17896441",
+    "content": "540c3dec"
+  },
+  "/docs/用户使用手册/网页端/库存导入": {
+    "component": "17896441",
+    "content": "84b9799a"
+  },
+  "/docs/用户使用手册/网页端/报表": {
+    "component": "17896441",
+    "content": "dc1631a9"
+  },
+  "/docs/用户使用手册/网页端/排班表": {
+    "component": "17896441",
+    "content": "46d5a66d"
+  },
+  "/docs/用户使用手册/网页端/日志": {
+    "component": "17896441",
+    "content": "715a9185"
+  },
+  "/docs/用户使用手册/网页端/日志主题": {
+    "component": "17896441",
+    "content": "3929ce25"
+  },
+  "/docs/用户使用手册/网页端/权限设置": {
+    "component": "17896441",
+    "content": "ef58288b"
+  },
+  "/docs/用户使用手册/网页端/注销": {
+    "component": "17896441",
+    "content": "d931798e"
+  },
+  "/docs/用户使用手册/网页端/消息中心": {
+    "component": "17896441",
+    "content": "4d7269a1"
+  },
+  "/docs/用户使用手册/网页端/消息类型管理": {
+    "component": "17896441",
+    "content": "63e2e640"
+  },
+  "/docs/用户使用手册/网页端/消息订阅": {
+    "component": "17896441",
+    "content": "5350ec84"
+  },
+  "/docs/用户使用手册/网页端/消息订阅管理": {
+    "component": "17896441",
+    "content": "0b4e618b"
+  },
+  "/docs/用户使用手册/网页端/用户信息": {
+    "component": "17896441",
+    "content": "368e3a02"
+  },
+  "/docs/用户使用手册/网页端/画面": {
+    "component": "17896441",
+    "content": "2aa26517"
+  },
+  "/docs/用户使用手册/网页端/登录": {
+    "component": "17896441",
+    "content": "249d5046"
+  },
+  "/docs/用户使用手册/网页端/知识库": {
+    "component": "17896441",
+    "content": "9298c2f6"
+  },
+  "/docs/用户使用手册/网页端/管理员功能": {
+    "component": "17896441",
+    "content": "c81f8d18"
+  },
+  "/docs/用户使用手册/网页端/管理导航栏": {
+    "component": "17896441",
+    "content": "dd6f1931"
+  },
+  "/docs/用户使用手册/网页端/系统扩展管理": {
+    "component": "17896441",
+    "content": "57debd24"
+  },
+  "/docs/用户使用手册/网页端/系统日志": {
+    "component": "17896441",
+    "content": "4d24a2f1"
+  },
+  "/docs/用户使用手册/网页端/网站设置": {
+    "component": "17896441",
+    "content": "3237b50f"
+  },
+  "/docs/用户使用手册/网页端/自定义主页": {
+    "component": "17896441",
+    "content": "c8e654df"
+  },
+  "/docs/用户使用手册/网页端/自定义导航": {
+    "component": "17896441",
+    "content": "d899b45f"
+  },
+  "/docs/用户使用手册/网页端/计划": {
+    "component": "17896441",
+    "content": "928c8d32"
+  },
+  "/docs/用户使用手册/网页端/资产位置": {
+    "component": "17896441",
+    "content": "2ac876f5"
+  },
+  "/docs/用户使用手册/网页端/资产总览": {
+    "component": "17896441",
+    "content": "9dff3855"
+  },
+  "/docs/用户使用手册/网页端/资源": {
+    "component": "17896441",
+    "content": "a9a68f90"
+  },
+  "/docs/用户使用手册/网页端/项目": {
+    "component": "17896441",
+    "content": "ebf7e12d"
+  },
+  "/docs/简介/优势": {
+    "component": "17896441",
+    "content": "80fd5073"
+  },
+  "/docs/简介/应用场景": {
+    "component": "17896441",
+    "content": "cd3d5aae"
+  },
+  "/docs/简介/概述": {
+    "component": "17896441",
+    "content": "e13ac431"
+  },
+  "/docs/系统扩展指南/RabbitMQ开发说明": {
+    "component": "17896441",
+    "content": "1d355a35"
+  },
+  "/docs/系统扩展指南/nodejs程序配置成windows服务": {
+    "component": "17896441",
+    "content": "f05205cb"
+  },
+  "/docs/系统扩展指南/与自控系统集成例子": {
+    "component": "17896441",
+    "content": "c535cad8"
+  },
+  "/docs/系统扩展指南/主页定制扩展例子": {
+    "component": "17896441",
+    "content": "a4055443"
+  },
+  "/docs/系统扩展指南/主页定制扩展开发": {
+    "component": "17896441",
+    "content": "038dc310"
+  },
+  "/docs/系统扩展指南/分析扩展开发": {
+    "component": "17896441",
+    "content": "cc0f156a"
+  },
+  "/docs/系统扩展指南/分析扩展开发示例": {
+    "component": "17896441",
+    "content": "d433e25a"
+  },
+  "/docs/系统扩展指南/扩展例子": {
+    "component": "17896441",
+    "content": "d58e4fef"
+  },
+  "/docs/系统扩展指南/报表扩展开发": {
+    "component": "17896441",
+    "content": "932ac510"
+  },
+  "/docs/系统扩展指南/流程后函数扩展开发": {
+    "component": "17896441",
+    "content": "d2bc5a51"
+  },
+  "/docs/系统扩展指南/社交平台集成示例-iDong库存与U8用友对接": {
+    "component": "17896441",
+    "content": "e0fe844d"
+  },
+  "/docs/系统扩展指南/社交平台集成示例-作业任务钉钉推送": {
+    "component": "17896441",
+    "content": "455f4270"
+  },
+  "/docs/系统扩展指南/终端页面扩展开发": {
+    "component": "17896441",
+    "content": "1f2aa201"
+  },
+  "/docs/系统扩展指南/自定义服务扩展开发": {
+    "component": "17896441",
+    "content": "ab9c698f"
+  },
+  "/docs/系统扩展指南/资产属性终端自定义查询": {
+    "component": "17896441",
+    "content": "fecede9d"
+  },
+  "/docs/系统维护指南/数据备份和还原": {
+    "component": "17896441",
+    "content": "c7fce32d"
+  },
+  "/docs/系统维护指南/运行监控和维护": {
+    "component": "17896441",
+    "content": "e2532bb5"
+  },
+  "/docs/系统配置手册/作业管理器/作业组": {
+    "component": "17896441",
+    "content": "872fe3cf"
+  },
+  "/docs/系统配置手册/作业管理器/作业组下作业": {
+    "component": "17896441",
+    "content": "69b12531"
+  },
+  "/docs/系统配置手册/作业管理器/作业组下作业项": {
+    "component": "17896441",
+    "content": "e0e01d76"
+  },
+  "/docs/系统配置手册/作业管理器/作业组概述": {
+    "component": "17896441",
+    "content": "c792e506"
+  },
+  "/docs/系统配置手册/作业管理器/作业规范": {
+    "component": "17896441",
+    "content": "f05f8fce"
+  },
+  "/docs/系统配置手册/作业管理器/作业规范下作业": {
+    "component": "17896441",
+    "content": "cd150d7a"
+  },
+  "/docs/系统配置手册/作业管理器/作业规范下作业项": {
+    "component": "17896441",
+    "content": "d4be0424"
+  },
+  "/docs/系统配置手册/作业管理器/作业规范概述": {
+    "component": "17896441",
+    "content": "4caf9e81"
+  },
+  "/docs/系统配置手册/作业管理器/概述": {
+    "component": "17896441",
+    "content": "231e3420"
+  },
+  "/docs/系统配置手册/作业管理器/项目模板": {
+    "component": "17896441",
+    "content": "7aabceaf"
+  },
+  "/docs/系统配置手册/内置流程后和终端函数": {
+    "component": "17896441",
+    "content": "f799697e"
+  },
+  "/docs/系统配置手册/列表管理器/例外等级": {
+    "component": "17896441",
+    "content": "1ccb8341"
+  },
+  "/docs/系统配置手册/列表管理器/全局属性模板": {
+    "component": "17896441",
+    "content": "c6dd208d"
+  },
+  "/docs/系统配置手册/列表管理器/工程单位": {
+    "component": "17896441",
+    "content": "bb7cf87e"
+  },
+  "/docs/系统配置手册/列表管理器/概述": {
+    "component": "17896441",
+    "content": "b7581ee2"
+  },
+  "/docs/系统配置手册/列表管理器/自定义列表": {
+    "component": "17896441",
+    "content": "c401483c"
+  },
+  "/docs/系统配置手册/列表管理器/资产": {
+    "component": "17896441",
+    "content": "73f525e7"
+  },
+  "/docs/系统配置手册/列表管理器/资产类别": {
+    "component": "17896441",
+    "content": "7eb7ed2a"
+  },
+  "/docs/系统配置手册/列表管理器/轮班": {
+    "component": "17896441",
+    "content": "5f6e4cf3"
+  },
+  "/docs/系统配置手册/列表管理器/附件": {
+    "component": "17896441",
+    "content": "8f2eb3db"
+  },
+  "/docs/系统配置手册/授权管理/授权管理": {
+    "component": "17896441",
+    "content": "f78c9624"
+  },
+  "/docs/系统配置手册/数据库管理/数据库管理": {
+    "component": "17896441",
+    "content": "ad0a9057"
+  },
+  "/docs/系统配置手册/模板详细说明/基础模板": {
+    "component": "17896441",
+    "content": "c1a80a28"
+  },
+  "/docs/系统配置手册/模板详细说明/安全作业模板": {
+    "component": "17896441",
+    "content": "aeabd683"
+  },
+  "/docs/系统配置手册/模板详细说明/巡检和维修作业模板": {
+    "component": "17896441",
+    "content": "63aed7e5"
+  },
+  "/docs/系统配置手册/模板详细说明/概述": {
+    "component": "17896441",
+    "content": "5170f7fa"
+  },
+  "/docs/系统配置手册/模板详细说明/设备管理模板": {
+    "component": "17896441",
+    "content": "96e590c5"
+  },
+  "/docs/系统配置手册/流程管理器/流程管理器": {
+    "component": "17896441",
+    "content": "add9a4ef"
+  },
+  "/docs/系统配置手册/系统设置/服务/服务": {
+    "component": "17896441",
+    "content": "dea86030"
+  },
+  "/docs/系统配置手册/系统设置/系统参数/系统参数": {
+    "component": "17896441",
+    "content": "56b00ee9"
+  },
+  "/docs/系统配置手册/组织架构管理器/业务范畴": {
+    "component": "17896441",
+    "content": "6db1f208"
+  },
+  "/docs/系统配置手册/组织架构管理器/岗位": {
+    "component": "17896441",
+    "content": "5f9079d4"
+  },
+  "/docs/系统配置手册/组织架构管理器/概述": {
+    "component": "17896441",
+    "content": "b4f2d626"
+  },
+  "/docs/系统配置手册/组织架构管理器/用户": {
+    "component": "17896441",
+    "content": "ea8e2931"
+  },
+  "/docs/系统配置手册/组织架构管理器/组织单元": {
+    "component": "17896441",
+    "content": "58973550"
+  },
+  "/docs/系统配置手册/解决方案管理/解决方案管理": {
+    "component": "17896441",
+    "content": "50cbc7f8"
+  },
+  "/docs/系统配置手册/解决方案设置/解决方案设置": {
+    "component": "17896441",
+    "content": "4eb729be"
+  },
+  "/docs/系统配置手册/账户设置/账户设置": {
+    "component": "17896441",
+    "content": "7e599fcc"
+  },
+  "/docs/系统配置手册/部署模型管理/部署模型管理": {
+    "component": "17896441",
+    "content": "16a9b043"
+  },
+  "/docs/附录/作业树模板配置和使用": {
+    "component": "17896441",
+    "content": "6b3e8771"
+  },
+  "/docs/附录/使用AIC8600测温测振设备": {
+    "component": "17896441",
+    "content": "58ed888e"
+  },
+  "/docs/附录/使用AR智能眼镜和远程指导": {
+    "component": "17896441",
+    "content": "46a6b88d"
+  },
+  "/docs/附录/使用RFID或NFC标签": {
+    "component": "17896441",
+    "content": "b91637ec"
+  },
+  "/docs/附录/使用条码标签": {
+    "component": "17896441",
+    "content": "6ffbadd2"
+  },
+  "/docs/附录/使用超高频标签": {
+    "component": "17896441",
+    "content": "623fa088"
+  },
+  "/docs/附录/使用钛准定位": {
+    "component": "17896441",
+    "content": "38cba241"
+  },
+  "/docs/附录/大屏配置和使用": {
+    "component": "17896441",
+    "content": "e239a1ef"
+  },
+  "/docs/附录/常见问题": {
+    "component": "17896441",
+    "content": "be8d755c"
+  },
+  "/docs/附录/软件和应用升级": {
+    "component": "17896441",
+    "content": "c991b78d"
+  }
+}

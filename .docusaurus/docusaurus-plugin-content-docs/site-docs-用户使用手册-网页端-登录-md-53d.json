@@ -1,0 +1,18 @@
+{
+  "id": "用户使用手册/网页端/登录",
+  "title": "登录",
+  "description": "* 打开浏览器，在网址栏输入系统服务器地址",
+  "source": "@site/docs\\用户使用手册\\网页端\\登录.md",
+  "permalink": "/docs/next/用户使用手册/网页端/登录",
+  "editUrl": "https://www.rockwellautomation.com.cn/support.html/edit/master/docs\\用户使用手册\\网页端\\登录.md",
+  "version": "next",
+  "sidebar": "someSidebar",
+  "previous": {
+    "title": "报表和分析",
+    "permalink": "/docs/next/快速入门/报表和分析"
+  },
+  "next": {
+    "title": "自定义主页",
+    "permalink": "/docs/next/用户使用手册/网页端/自定义主页"
+  }
+}

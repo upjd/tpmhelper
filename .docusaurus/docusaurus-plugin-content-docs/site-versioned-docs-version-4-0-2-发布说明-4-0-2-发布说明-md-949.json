@@ -1,0 +1,18 @@
+{
+  "id": "version-4.0.2/发布说明/4.0.2发布说明",
+  "title": "4.0.2发布说明",
+  "description": "发布时间：2020-10-23",
+  "source": "@site/versioned_docs\\version-4.0.2\\发布说明\\4.0.2发布说明.md",
+  "permalink": "/docs/发布说明/4.0.2发布说明",
+  "editUrl": "https://www.rockwellautomation.com.cn/support.html/edit/master/versioned_docs\\version-4.0.2\\发布说明\\4.0.2发布说明.md",
+  "version": "4.0.2",
+  "sidebar": "version-4.0.2/someSidebar",
+  "previous": {
+    "title": "4.0.1发布说明",
+    "permalink": "/docs/发布说明/4.0.1发布说明"
+  },
+  "next": {
+    "title": "软件和应用升级",
+    "permalink": "/docs/附录/软件和应用升级"
+  }
+}

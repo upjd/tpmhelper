@@ -1,0 +1,18 @@
+{
+  "id": "version-4.0.2/附录/使用条码标签",
+  "title": "使用条码标签",
+  "description": "## 支持一维码和二维码标签",
+  "source": "@site/versioned_docs\\version-4.0.2\\附录\\使用条码标签.md",
+  "permalink": "/docs/附录/使用条码标签",
+  "editUrl": "https://www.rockwellautomation.com.cn/support.html/edit/master/versioned_docs\\version-4.0.2\\附录\\使用条码标签.md",
+  "version": "4.0.2",
+  "sidebar": "version-4.0.2/someSidebar",
+  "previous": {
+    "title": "作业树模板配置和使用",
+    "permalink": "/docs/附录/作业树模板配置和使用"
+  },
+  "next": {
+    "title": "使用RFID或NFC标签",
+    "permalink": "/docs/附录/使用RFID或NFC标签"
+  }
+}

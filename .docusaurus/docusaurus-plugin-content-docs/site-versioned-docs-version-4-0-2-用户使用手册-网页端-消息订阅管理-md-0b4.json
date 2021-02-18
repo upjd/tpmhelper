@@ -1,0 +1,18 @@
+{
+  "id": "version-4.0.2/用户使用手册/网页端/消息订阅管理",
+  "title": "消息订阅管理",
+  "description": "消息订阅管理可以统一的对哪些人员用何种订阅方式来订阅哪些消息类型进行管理。",
+  "source": "@site/versioned_docs\\version-4.0.2\\用户使用手册\\网页端\\消息订阅管理.md",
+  "permalink": "/docs/用户使用手册/网页端/消息订阅管理",
+  "editUrl": "https://www.rockwellautomation.com.cn/support.html/edit/master/versioned_docs\\version-4.0.2\\用户使用手册\\网页端\\消息订阅管理.md",
+  "version": "4.0.2",
+  "sidebar": "version-4.0.2/someSidebar",
+  "previous": {
+    "title": "自定义导航",
+    "permalink": "/docs/用户使用手册/网页端/自定义导航"
+  },
+  "next": {
+    "title": "登录",
+    "permalink": "/docs/用户使用手册/终端/登录"
+  }
+}

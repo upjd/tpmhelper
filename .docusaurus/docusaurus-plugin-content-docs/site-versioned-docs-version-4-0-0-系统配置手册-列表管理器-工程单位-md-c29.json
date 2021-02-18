@@ -1,0 +1,18 @@
+{
+  "id": "version-4.0.0/系统配置手册/列表管理器/工程单位",
+  "title": "工程单位",
+  "description": "在rockwelltpm企业移动现场作业管理软件中，使用**列表管理器**的**工程单位**选项卡来预设单位。",
+  "source": "@site/versioned_docs\\version-4.0.0\\系统配置手册\\列表管理器\\工程单位.md",
+  "permalink": "/docs/4.0.0/系统配置手册/列表管理器/工程单位",
+  "editUrl": "https://www.rockwellautomation.com.cn/support.html/edit/master/versioned_docs\\version-4.0.0\\系统配置手册\\列表管理器\\工程单位.md",
+  "version": "4.0.0",
+  "sidebar": "version-4.0.0/someSidebar",
+  "previous": {
+    "title": "附件",
+    "permalink": "/docs/4.0.0/系统配置手册/列表管理器/附件"
+  },
+  "next": {
+    "title": "例外等级",
+    "permalink": "/docs/4.0.0/系统配置手册/列表管理器/例外等级"
+  }
+}

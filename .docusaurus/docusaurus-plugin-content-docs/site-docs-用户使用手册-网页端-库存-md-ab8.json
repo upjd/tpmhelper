@@ -1,0 +1,18 @@
+{
+  "id": "用户使用手册/网页端/库存",
+  "title": "库存",
+  "description": "库存，是仓库中实际储存的货物。可以分两类：一类是生产库存，即直接消耗物资的基层企业、事业的库存物资，它是为了保证企业、事业单位所消耗的物资能够不间断地供应而储存的；一类是流通库存，即生产企业的原材料或成品库存，生产主管部门的库存和各级物资主管部门的库存。此外，还有特殊形式的国家储备物资，它们主要是为了保证及时、齐备地将物资供应或销售给基层企业、事业单位的供销库存。",
+  "source": "@site/docs\\用户使用手册\\网页端\\库存.md",
+  "permalink": "/docs/next/用户使用手册/网页端/库存",
+  "editUrl": "https://www.rockwellautomation.com.cn/support.html/edit/master/docs\\用户使用手册\\网页端\\库存.md",
+  "version": "next",
+  "sidebar": "someSidebar",
+  "previous": {
+    "title": "报表",
+    "permalink": "/docs/next/用户使用手册/网页端/报表"
+  },
+  "next": {
+    "title": "分析",
+    "permalink": "/docs/next/用户使用手册/网页端/分析"
+  }
+}

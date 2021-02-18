@@ -1,0 +1,18 @@
+{
+  "id": "version-4.0.2/用户使用手册/网页端/排班表",
+  "title": "排班表",
+  "description": "排班就是安排具体部门具体人的上班时间，排班表中可以进行这些操作并查看目前所安排的用于流程中的排班。",
+  "source": "@site/versioned_docs\\version-4.0.2\\用户使用手册\\网页端\\排班表.md",
+  "permalink": "/docs/用户使用手册/网页端/排班表",
+  "editUrl": "https://www.rockwellautomation.com.cn/support.html/edit/master/versioned_docs\\version-4.0.2\\用户使用手册\\网页端\\排班表.md",
+  "version": "4.0.2",
+  "sidebar": "version-4.0.2/someSidebar",
+  "previous": {
+    "title": "人员总览",
+    "permalink": "/docs/用户使用手册/网页端/人员总览"
+  },
+  "next": {
+    "title": "用户信息",
+    "permalink": "/docs/用户使用手册/网页端/用户信息"
+  }
+}

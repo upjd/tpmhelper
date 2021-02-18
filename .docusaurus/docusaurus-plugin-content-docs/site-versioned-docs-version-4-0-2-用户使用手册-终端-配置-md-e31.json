@@ -1,0 +1,18 @@
+{
+  "id": "version-4.0.2/用户使用手册/终端/配置",
+  "title": "配置",
+  "description": "* 终端连接配置：",
+  "source": "@site/versioned_docs\\version-4.0.2\\用户使用手册\\终端\\配置.md",
+  "permalink": "/docs/用户使用手册/终端/配置",
+  "editUrl": "https://www.rockwellautomation.com.cn/support.html/edit/master/versioned_docs\\version-4.0.2\\用户使用手册\\终端\\配置.md",
+  "version": "4.0.2",
+  "sidebar": "version-4.0.2/someSidebar",
+  "previous": {
+    "title": "登录",
+    "permalink": "/docs/用户使用手册/终端/登录"
+  },
+  "next": {
+    "title": "同步",
+    "permalink": "/docs/用户使用手册/终端/同步"
+  }
+}

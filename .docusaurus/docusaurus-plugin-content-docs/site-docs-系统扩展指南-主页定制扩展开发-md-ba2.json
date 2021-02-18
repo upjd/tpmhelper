@@ -1,0 +1,18 @@
+{
+  "id": "系统扩展指南/主页定制扩展开发",
+  "title": "主页定制扩展开发",
+  "description": "## 步骤",
+  "source": "@site/docs\\系统扩展指南\\主页定制扩展开发.md",
+  "permalink": "/docs/next/系统扩展指南/主页定制扩展开发",
+  "editUrl": "https://www.rockwellautomation.com.cn/support.html/edit/master/docs\\系统扩展指南\\主页定制扩展开发.md",
+  "version": "next",
+  "sidebar": "someSidebar",
+  "previous": {
+    "title": "数据备份和还原",
+    "permalink": "/docs/next/系统维护指南/数据备份和还原"
+  },
+  "next": {
+    "title": "流程后函数扩展开发",
+    "permalink": "/docs/next/系统扩展指南/流程后函数扩展开发"
+  }
+}

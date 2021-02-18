@@ -1,0 +1,24 @@
+{
+  "permalink": "/blog/use-new-doc-framework",
+  "editUrl": "https://www.rockwellautomation.com.cn/support.html/edit/master/blog/blog/2020-05-06-use-new-doc-framework.md",
+  "source": "@site/blog\\2020-05-06-use-new-doc-framework.md",
+  "description": "为了提高浏览rockwelltpm文档体验，从今天开始我们改成使用[**Docusaurus 2 alpha**](https://v2.docusaurus.io/)来构建文档。",
+  "date": "2020-05-06T00:00:00.000Z",
+  "tags": [
+    {
+      "label": "文档框架",
+      "permalink": "/blog/tags/文档框架"
+    },
+    {
+      "label": "docusaurus",
+      "permalink": "/blog/tags/docusaurus"
+    }
+  ],
+  "title": "使用新的文档框架",
+  "readingTime": 0.075,
+  "truncated": true,
+  "prevItem": {
+    "title": "文档编写和管理的新套路",
+    "permalink": "/blog/thinking-docs-opensource"
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "id": "version-4.0.2/系统配置手册/模板详细说明/概述",
+  "title": "概述",
+  "description": "* 目前在新建解决方案时，会有四个内置模板可供选择，内置模板会有相对应的一些预设内容，分别为**基础模板**、**巡检和维修作业模板**、**设备管理模板**和**安全作业模板**，相关介绍可查看：",
+  "source": "@site/versioned_docs\\version-4.0.2\\系统配置手册\\模板详细说明\\概述.md",
+  "permalink": "/docs/系统配置手册/模板详细说明/概述",
+  "editUrl": "https://www.rockwellautomation.com.cn/support.html/edit/master/versioned_docs\\version-4.0.2\\系统配置手册\\模板详细说明\\概述.md",
+  "version": "4.0.2",
+  "sidebar": "version-4.0.2/someSidebar",
+  "previous": {
+    "title": "内置流程后和终端函数",
+    "permalink": "/docs/系统配置手册/内置流程后和终端函数"
+  },
+  "next": {
+    "title": "基础模板",
+    "permalink": "/docs/系统配置手册/模板详细说明/基础模板"
+  }
+}

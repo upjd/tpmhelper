@@ -1,0 +1,18 @@
+{
+  "id": "快速入门/创建计划",
+  "title": "创建计划",
+  "description": "",
+  "source": "@site/docs\\快速入门\\创建计划.md",
+  "permalink": "/docs/next/快速入门/创建计划",
+  "editUrl": "https://www.rockwellautomation.com.cn/support.html/edit/master/docs\\快速入门\\创建计划.md",
+  "version": "next",
+  "sidebar": "someSidebar",
+  "previous": {
+    "title": "快速部署和配置",
+    "permalink": "/docs/next/快速入门/快速部署和配置"
+  },
+  "next": {
+    "title": "终端执行",
+    "permalink": "/docs/next/快速入门/终端执行"
+  }
+}

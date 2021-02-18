@@ -1,0 +1,18 @@
+{
+  "id": "系统配置手册/列表管理器/全局属性模板",
+  "title": "全局属性模板",
+  "description": "**全局属性模板**分为四类：**作业组属性模板，组织单元属性模板，岗位属性模板，用户属性模板**，可以运用到相应的属性中以及流程中去",
+  "source": "@site/docs\\系统配置手册\\列表管理器\\全局属性模板.md",
+  "permalink": "/docs/next/系统配置手册/列表管理器/全局属性模板",
+  "editUrl": "https://www.rockwellautomation.com.cn/support.html/edit/master/docs\\系统配置手册\\列表管理器\\全局属性模板.md",
+  "version": "next",
+  "sidebar": "someSidebar",
+  "previous": {
+    "title": "例外等级",
+    "permalink": "/docs/next/系统配置手册/列表管理器/例外等级"
+  },
+  "next": {
+    "title": "轮班",
+    "permalink": "/docs/next/系统配置手册/列表管理器/轮班"
+  }
+}

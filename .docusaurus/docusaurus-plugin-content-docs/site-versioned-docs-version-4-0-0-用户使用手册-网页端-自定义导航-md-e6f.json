@@ -1,0 +1,18 @@
+{
+  "id": "version-4.0.0/用户使用手册/网页端/自定义导航",
+  "title": "自定义导航",
+  "description": "自定义导航可以指定人或角色，在显示EOC的时候可以因要求不同，去只显示需要的内容。同时，一些非预设的功能，如排班表，也在自定义导航的顶部导航里面选择添加。",
+  "source": "@site/versioned_docs\\version-4.0.0\\用户使用手册\\网页端\\自定义导航.md",
+  "permalink": "/docs/4.0.0/用户使用手册/网页端/自定义导航",
+  "editUrl": "https://www.rockwellautomation.com.cn/support.html/edit/master/versioned_docs\\version-4.0.0\\用户使用手册\\网页端\\自定义导航.md",
+  "version": "4.0.0",
+  "sidebar": "version-4.0.0/someSidebar",
+  "previous": {
+    "title": "网站设置",
+    "permalink": "/docs/4.0.0/用户使用手册/网页端/网站设置"
+  },
+  "next": {
+    "title": "消息订阅管理",
+    "permalink": "/docs/4.0.0/用户使用手册/网页端/消息订阅管理"
+  }
+}

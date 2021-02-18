@@ -1,0 +1,18 @@
+{
+  "id": "version-4.0.0/用户使用手册/网页端/子项模板",
+  "title": "子项模板",
+  "description": "* 登录EOC，在顶部导航栏的配置中，选择子项模板，进入到视图页面。子项模板的主要作用是作为一个通用的模板来被一个或多个项目引用。",
+  "source": "@site/versioned_docs\\version-4.0.0\\用户使用手册\\网页端\\子项模板.md",
+  "permalink": "/docs/4.0.0/用户使用手册/网页端/子项模板",
+  "editUrl": "https://www.rockwellautomation.com.cn/support.html/edit/master/versioned_docs\\version-4.0.0\\用户使用手册\\网页端\\子项模板.md",
+  "version": "4.0.0",
+  "sidebar": "version-4.0.0/someSidebar",
+  "previous": {
+    "title": "作业组模板",
+    "permalink": "/docs/4.0.0/用户使用手册/网页端/作业组模板"
+  },
+  "next": {
+    "title": "库存导入",
+    "permalink": "/docs/4.0.0/用户使用手册/网页端/库存导入"
+  }
+}

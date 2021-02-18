@@ -1,0 +1,18 @@
+{
+  "id": "用户使用手册/网页端/下载终端应用",
+  "title": "下载终端应用",
+  "description": "移动终端指的就是我们移动终端的安装程序可以通过扫描二维码下载。",
+  "source": "@site/docs\\用户使用手册\\网页端\\下载终端应用.md",
+  "permalink": "/docs/next/用户使用手册/网页端/下载终端应用",
+  "editUrl": "https://www.rockwellautomation.com.cn/support.html/edit/master/docs\\用户使用手册\\网页端\\下载终端应用.md",
+  "version": "next",
+  "sidebar": "someSidebar",
+  "previous": {
+    "title": "系统日志",
+    "permalink": "/docs/next/用户使用手册/网页端/系统日志"
+  },
+  "next": {
+    "title": "注销",
+    "permalink": "/docs/next/用户使用手册/网页端/注销"
+  }
+}

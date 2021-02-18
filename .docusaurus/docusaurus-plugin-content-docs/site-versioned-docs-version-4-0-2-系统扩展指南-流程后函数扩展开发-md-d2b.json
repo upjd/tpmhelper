@@ -1,0 +1,18 @@
+{
+  "id": "version-4.0.2/系统扩展指南/流程后函数扩展开发",
+  "title": "流程后函数扩展开发",
+  "description": "## 开发步骤",
+  "source": "@site/versioned_docs\\version-4.0.2\\系统扩展指南\\流程后函数扩展开发.md",
+  "permalink": "/docs/系统扩展指南/流程后函数扩展开发",
+  "editUrl": "https://www.rockwellautomation.com.cn/support.html/edit/master/versioned_docs\\version-4.0.2\\系统扩展指南\\流程后函数扩展开发.md",
+  "version": "4.0.2",
+  "sidebar": "version-4.0.2/someSidebar",
+  "previous": {
+    "title": "主页定制扩展开发",
+    "permalink": "/docs/系统扩展指南/主页定制扩展开发"
+  },
+  "next": {
+    "title": "报表扩展开发",
+    "permalink": "/docs/系统扩展指南/报表扩展开发"
+  }
+}

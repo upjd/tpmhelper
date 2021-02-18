@@ -1,0 +1,18 @@
+{
+  "id": "用户使用手册/网页端/个性设置",
+  "title": "个性设置",
+  "description": "* 个性设置位于顶部导航栏的用户名处。",
+  "source": "@site/docs\\用户使用手册\\网页端\\个性设置.md",
+  "permalink": "/docs/next/用户使用手册/网页端/个性设置",
+  "editUrl": "https://www.rockwellautomation.com.cn/support.html/edit/master/docs\\用户使用手册\\网页端\\个性设置.md",
+  "version": "next",
+  "sidebar": "someSidebar",
+  "previous": {
+    "title": "修改密码",
+    "permalink": "/docs/next/用户使用手册/网页端/修改密码"
+  },
+  "next": {
+    "title": "消息订阅",
+    "permalink": "/docs/next/用户使用手册/网页端/消息订阅"
+  }
+}

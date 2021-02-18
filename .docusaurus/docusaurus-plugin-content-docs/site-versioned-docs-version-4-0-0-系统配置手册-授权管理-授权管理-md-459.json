@@ -1,0 +1,18 @@
+{
+  "id": "version-4.0.0/系统配置手册/授权管理/授权管理",
+  "title": "授权管理",
+  "description": "## 授权作用",
+  "source": "@site/versioned_docs\\version-4.0.0\\系统配置手册\\授权管理\\授权管理.md",
+  "permalink": "/docs/4.0.0/系统配置手册/授权管理/授权管理",
+  "editUrl": "https://www.rockwellautomation.com.cn/support.html/edit/master/versioned_docs\\version-4.0.0\\系统配置手册\\授权管理\\授权管理.md",
+  "version": "4.0.0",
+  "sidebar": "version-4.0.0/someSidebar",
+  "previous": {
+    "title": "消息",
+    "permalink": "/docs/4.0.0/用户使用手册/终端/消息"
+  },
+  "next": {
+    "title": "服务",
+    "permalink": "/docs/4.0.0/系统配置手册/系统设置/服务/服务"
+  }
+}

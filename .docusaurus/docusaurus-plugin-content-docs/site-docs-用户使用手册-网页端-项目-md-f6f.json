@@ -1,0 +1,18 @@
+{
+  "id": "用户使用手册/网页端/项目",
+  "title": "项目",
+  "description": "### 概要",
+  "source": "@site/docs\\用户使用手册\\网页端\\项目.md",
+  "permalink": "/docs/next/用户使用手册/网页端/项目",
+  "editUrl": "https://www.rockwellautomation.com.cn/support.html/edit/master/docs\\用户使用手册\\网页端\\项目.md",
+  "version": "next",
+  "sidebar": "someSidebar",
+  "previous": {
+    "title": "管理导航栏",
+    "permalink": "/docs/next/用户使用手册/网页端/管理导航栏"
+  },
+  "next": {
+    "title": "计划",
+    "permalink": "/docs/next/用户使用手册/网页端/计划"
+  }
+}

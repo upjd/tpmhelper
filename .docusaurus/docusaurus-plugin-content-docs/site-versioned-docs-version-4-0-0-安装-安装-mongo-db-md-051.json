@@ -1,0 +1,18 @@
+{
+  "id": "version-4.0.0/安装/安装MongoDB",
+  "title": "安装MongoDB",
+  "description": "**rockwelltpm系统使用MongoDB来承担文件服务器和内容服务器的组件角色， MongoDB是一个基于分布式文件存储的数据库。** 以4.0版本为例，安装如下：",
+  "source": "@site/versioned_docs\\version-4.0.0\\安装\\安装MongoDB.md",
+  "permalink": "/docs/4.0.0/安装/安装MongoDB",
+  "editUrl": "https://www.rockwellautomation.com.cn/support.html/edit/master/versioned_docs\\version-4.0.0\\安装\\安装MongoDB.md",
+  "version": "4.0.0",
+  "sidebar": "version-4.0.0/someSidebar",
+  "previous": {
+    "title": "安装PostgresSQL",
+    "permalink": "/docs/4.0.0/安装/安装PostgresSQL"
+  },
+  "next": {
+    "title": "安装RabbitMQ",
+    "permalink": "/docs/4.0.0/安装/安装RabbitMQ"
+  }
+}

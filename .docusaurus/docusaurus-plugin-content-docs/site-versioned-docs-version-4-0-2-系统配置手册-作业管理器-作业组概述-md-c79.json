@@ -1,0 +1,18 @@
+{
+  "id": "version-4.0.2/系统配置手册/作业管理器/作业组概述",
+  "title": "作业组概述",
+  "description": "在 rockwelltpm 企业移动现场作业管理软件中，使用 FTIS 解决方案开发中心->作业管理器->作业组来创建一些作业组模板，作业组是用户一次现场作业活动的集合。作业组下包含作业、作业项，是一个树状视图。",
+  "source": "@site/versioned_docs\\version-4.0.2\\系统配置手册\\作业管理器\\作业组概述.md",
+  "permalink": "/docs/系统配置手册/作业管理器/作业组概述",
+  "editUrl": "https://www.rockwellautomation.com.cn/support.html/edit/master/versioned_docs\\version-4.0.2\\系统配置手册\\作业管理器\\作业组概述.md",
+  "version": "4.0.2",
+  "sidebar": "version-4.0.2/someSidebar",
+  "previous": {
+    "title": "作业规范下作业项",
+    "permalink": "/docs/系统配置手册/作业管理器/作业规范下作业项"
+  },
+  "next": {
+    "title": "作业组",
+    "permalink": "/docs/系统配置手册/作业管理器/作业组"
+  }
+}

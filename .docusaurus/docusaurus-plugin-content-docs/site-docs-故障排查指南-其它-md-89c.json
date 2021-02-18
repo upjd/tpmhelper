@@ -1,0 +1,18 @@
+{
+  "id": "故障排查指南/其它",
+  "title": "其它",
+  "description": "## Windows启用FIPS将导致rockwelltpm相关软件运行出错",
+  "source": "@site/docs\\故障排查指南\\其它.md",
+  "permalink": "/docs/next/故障排查指南/其它",
+  "editUrl": "https://www.rockwellautomation.com.cn/support.html/edit/master/docs\\故障排查指南\\其它.md",
+  "version": "next",
+  "sidebar": "someSidebar",
+  "previous": {
+    "title": "数据库管理",
+    "permalink": "/docs/next/故障排查指南/数据库管理"
+  },
+  "next": {
+    "title": "软件和应用升级",
+    "permalink": "/docs/next/附录/软件和应用升级"
+  }
+}

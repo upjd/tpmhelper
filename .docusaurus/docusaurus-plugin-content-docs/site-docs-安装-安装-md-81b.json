@@ -1,0 +1,18 @@
+{
+  "id": "安装/安装",
+  "title": "安装",
+  "description": "## 安装前准备",
+  "source": "@site/docs\\安装\\安装.md",
+  "permalink": "/docs/next/安装/安装",
+  "editUrl": "https://www.rockwellautomation.com.cn/support.html/edit/master/docs\\安装\\安装.md",
+  "version": "next",
+  "sidebar": "someSidebar",
+  "previous": {
+    "title": "系统要求",
+    "permalink": "/docs/next/安装/系统要求"
+  },
+  "next": {
+    "title": "安装SQLServer",
+    "permalink": "/docs/next/安装/安装SQLServer"
+  }
+}

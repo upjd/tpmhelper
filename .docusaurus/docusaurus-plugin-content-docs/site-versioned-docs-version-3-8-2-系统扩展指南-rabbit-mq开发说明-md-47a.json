@@ -1,0 +1,18 @@
+{
+  "id": "version-3.8.2/系统扩展指南/RabbitMQ开发说明",
+  "title": "RabbitMQ开发说明",
+  "description": "RabbitMQ服务拓展开发是基于 Node.js 平台的下的express开发框架搭载的服务。主要用于捕捉流程节点前后的作业组信息，以及对其逻辑的处理及变化",
+  "source": "@site/versioned_docs\\version-3.8.2\\系统扩展指南\\RabbitMQ开发说明.md",
+  "permalink": "/docs/3.8.2/系统扩展指南/RabbitMQ开发说明",
+  "editUrl": "https://www.rockwellautomation.com.cn/support.html/edit/master/versioned_docs\\version-3.8.2\\系统扩展指南\\RabbitMQ开发说明.md",
+  "version": "3.8.2",
+  "sidebar": "version-3.8.2/someSidebar",
+  "previous": {
+    "title": "nodejs程序配置成windows服务",
+    "permalink": "/docs/3.8.2/系统扩展指南/nodejs程序配置成windows服务"
+  },
+  "next": {
+    "title": "发布记录",
+    "permalink": "/docs/3.8.2/发布说明/发布记录"
+  }
+}

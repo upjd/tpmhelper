@@ -1,0 +1,18 @@
+{
+  "id": "version-3.8.2/发布说明/3.8.1发布说明",
+  "title": "3.8.1发布说明",
+  "description": "发布时间：2020-02-17",
+  "source": "@site/versioned_docs\\version-3.8.2\\发布说明\\3.8.1发布说明.md",
+  "permalink": "/docs/3.8.2/发布说明/3.8.1发布说明",
+  "editUrl": "https://www.rockwellautomation.com.cn/support.html/edit/master/versioned_docs\\version-3.8.2\\发布说明\\3.8.1发布说明.md",
+  "version": "3.8.2",
+  "sidebar": "version-3.8.2/someSidebar",
+  "previous": {
+    "title": "发布记录",
+    "permalink": "/docs/3.8.2/发布说明/发布记录"
+  },
+  "next": {
+    "title": "3.8.2发布说明",
+    "permalink": "/docs/3.8.2/发布说明/3.8.2发布说明"
+  }
+}

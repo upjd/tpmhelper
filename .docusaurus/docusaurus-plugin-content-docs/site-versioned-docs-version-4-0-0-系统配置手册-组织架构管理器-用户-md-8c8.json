@@ -1,0 +1,18 @@
+{
+  "id": "version-4.0.0/系统配置手册/组织架构管理器/用户",
+  "title": "用户",
+  "description": "在rockwelltpm企业移动现场**作业**管理软件中，使用**组织架构管理器**中的用户选项卡进行**人员**的定义。该系统涉及的所有参与者都需要在此定义。用户是组织架构的灵魂，组织架构中的**组织单元、岗位、业务范畴**是用户的属性，是人员定义的关键部分，整个组织架构的各项数据最终通过用户角色串联起来。用户的定义主要包括登录信息和用户角色，**人员**可以包含**人员**，是一个树状视图，表示了汇报关系。父节点用户称为子节点用户的**经理**。",
+  "source": "@site/versioned_docs\\version-4.0.0\\系统配置手册\\组织架构管理器\\用户.md",
+  "permalink": "/docs/4.0.0/系统配置手册/组织架构管理器/用户",
+  "editUrl": "https://www.rockwellautomation.com.cn/support.html/edit/master/versioned_docs\\version-4.0.0\\系统配置手册\\组织架构管理器\\用户.md",
+  "version": "4.0.0",
+  "sidebar": "version-4.0.0/someSidebar",
+  "previous": {
+    "title": "组织单元",
+    "permalink": "/docs/4.0.0/系统配置手册/组织架构管理器/组织单元"
+  },
+  "next": {
+    "title": "流程管理器",
+    "permalink": "/docs/4.0.0/系统配置手册/流程管理器/流程管理器"
+  }
+}

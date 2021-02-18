@@ -1,0 +1,18 @@
+{
+  "id": "系统配置手册/组织架构管理器/岗位",
+  "title": "岗位",
+  "description": "在rockwelltpm企业移动现场作业管理软件中，使用**组织架构管理器**中的**岗位**选项卡进行**岗位**的定义。**岗位**是一个列表视图，**岗位**不能包含**岗位**。一个**岗位**对应一种软件使用权限。",
+  "source": "@site/docs\\系统配置手册\\组织架构管理器\\岗位.md",
+  "permalink": "/docs/next/系统配置手册/组织架构管理器/岗位",
+  "editUrl": "https://www.rockwellautomation.com.cn/support.html/edit/master/docs\\系统配置手册\\组织架构管理器\\岗位.md",
+  "version": "next",
+  "sidebar": "someSidebar",
+  "previous": {
+    "title": "业务范畴",
+    "permalink": "/docs/next/系统配置手册/组织架构管理器/业务范畴"
+  },
+  "next": {
+    "title": "组织单元",
+    "permalink": "/docs/next/系统配置手册/组织架构管理器/组织单元"
+  }
+}

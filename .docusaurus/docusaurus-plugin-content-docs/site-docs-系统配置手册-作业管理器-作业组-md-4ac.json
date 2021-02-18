@@ -1,0 +1,18 @@
+{
+  "id": "系统配置手册/作业管理器/作业组",
+  "title": "作业组",
+  "description": "## 新建作业组",
+  "source": "@site/docs\\系统配置手册\\作业管理器\\作业组.md",
+  "permalink": "/docs/next/系统配置手册/作业管理器/作业组",
+  "editUrl": "https://www.rockwellautomation.com.cn/support.html/edit/master/docs\\系统配置手册\\作业管理器\\作业组.md",
+  "version": "next",
+  "sidebar": "someSidebar",
+  "previous": {
+    "title": "作业组概述",
+    "permalink": "/docs/next/系统配置手册/作业管理器/作业组概述"
+  },
+  "next": {
+    "title": "作业组下作业",
+    "permalink": "/docs/next/系统配置手册/作业管理器/作业组下作业"
+  }
+}

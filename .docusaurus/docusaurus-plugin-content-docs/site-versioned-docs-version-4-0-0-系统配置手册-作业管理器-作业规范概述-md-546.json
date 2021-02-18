@@ -1,0 +1,18 @@
+{
+  "id": "version-4.0.0/系统配置手册/作业管理器/作业规范概述",
+  "title": "作业规范概述",
+  "description": "在 rockwelltpm 企业移动现场作业管理软件中，使用 FTIS 解决方案开发中心->作业管理器->作业规范来创建一些作业模板，作业规范在作业组结构上属于作业层， 一个作业规范允许在一个或多个作业组内引用，即作为一个作业实例使用。",
+  "source": "@site/versioned_docs\\version-4.0.0\\系统配置手册\\作业管理器\\作业规范概述.md",
+  "permalink": "/docs/4.0.0/系统配置手册/作业管理器/作业规范概述",
+  "editUrl": "https://www.rockwellautomation.com.cn/support.html/edit/master/versioned_docs\\version-4.0.0\\系统配置手册\\作业管理器\\作业规范概述.md",
+  "version": "4.0.0",
+  "sidebar": "version-4.0.0/someSidebar",
+  "previous": {
+    "title": "项目模板",
+    "permalink": "/docs/4.0.0/系统配置手册/作业管理器/项目模板"
+  },
+  "next": {
+    "title": "作业规范",
+    "permalink": "/docs/4.0.0/系统配置手册/作业管理器/作业规范"
+  }
+}

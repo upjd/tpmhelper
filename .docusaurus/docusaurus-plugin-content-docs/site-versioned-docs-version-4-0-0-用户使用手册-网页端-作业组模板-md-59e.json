@@ -1,0 +1,18 @@
+{
+  "id": "version-4.0.0/用户使用手册/网页端/作业组模板",
+  "title": "作业组模板",
+  "description": "作业组模板功能主要用来在Wbe端对作业组模板进行编辑，可以对作业组模板中的作业进行新增作业规范引用、重命名、删除和排序。",
+  "source": "@site/versioned_docs\\version-4.0.0\\用户使用手册\\网页端\\作业组模板.md",
+  "permalink": "/docs/4.0.0/用户使用手册/网页端/作业组模板",
+  "editUrl": "https://www.rockwellautomation.com.cn/support.html/edit/master/versioned_docs\\version-4.0.0\\用户使用手册\\网页端\\作业组模板.md",
+  "version": "4.0.0",
+  "sidebar": "version-4.0.0/someSidebar",
+  "previous": {
+    "title": "资产位置",
+    "permalink": "/docs/4.0.0/用户使用手册/网页端/资产位置"
+  },
+  "next": {
+    "title": "子项模板",
+    "permalink": "/docs/4.0.0/用户使用手册/网页端/子项模板"
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "id": "version-4.0.2/用户使用手册/网页端/任务",
+  "title": "任务",
+  "description": "当不确定人员时间，可以确定要做的事，等到知道什么时候开始做，怎么做时，就放到任务计划里面。",
+  "source": "@site/versioned_docs\\version-4.0.2\\用户使用手册\\网页端\\任务.md",
+  "permalink": "/docs/用户使用手册/网页端/任务",
+  "editUrl": "https://www.rockwellautomation.com.cn/support.html/edit/master/versioned_docs\\version-4.0.2\\用户使用手册\\网页端\\任务.md",
+  "version": "4.0.2",
+  "sidebar": "version-4.0.2/someSidebar",
+  "previous": {
+    "title": "计划",
+    "permalink": "/docs/用户使用手册/网页端/计划"
+  },
+  "next": {
+    "title": "审核",
+    "permalink": "/docs/用户使用手册/网页端/审核"
+  }
+}

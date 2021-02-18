@@ -1,0 +1,18 @@
+{
+  "id": "version-4.0.2/用户使用手册/终端/审核",
+  "title": "审核",
+  "description": "* 拥有审核权限的用户登录应用之后，如有待审核作业组，那么点进待审核页面后，可以看到待审核的作业组，点击作业组即可对该作业组进行审核。",
+  "source": "@site/versioned_docs\\version-4.0.2\\用户使用手册\\终端\\审核.md",
+  "permalink": "/docs/用户使用手册/终端/审核",
+  "editUrl": "https://www.rockwellautomation.com.cn/support.html/edit/master/versioned_docs\\version-4.0.2\\用户使用手册\\终端\\审核.md",
+  "version": "4.0.2",
+  "sidebar": "version-4.0.2/someSidebar",
+  "previous": {
+    "title": "执行",
+    "permalink": "/docs/用户使用手册/终端/执行"
+  },
+  "next": {
+    "title": "日志",
+    "permalink": "/docs/用户使用手册/终端/日志"
+  }
+}

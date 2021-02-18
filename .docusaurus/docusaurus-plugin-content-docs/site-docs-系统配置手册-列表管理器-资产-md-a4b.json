@@ -1,0 +1,18 @@
+{
+  "id": "系统配置手册/列表管理器/资产",
+  "title": "资产",
+  "description": "在rockwelltpm企业移动现场作业管理软件中，使用**列表管理器**的**资产**选项卡来管理生产活动中的相关设备或者逻辑设备。资产可以包含**资产**，这些**资产**数据在**资产**选项卡内以树状视图的形式存在。",
+  "source": "@site/docs\\系统配置手册\\列表管理器\\资产.md",
+  "permalink": "/docs/next/系统配置手册/列表管理器/资产",
+  "editUrl": "https://www.rockwellautomation.com.cn/support.html/edit/master/docs\\系统配置手册\\列表管理器\\资产.md",
+  "version": "next",
+  "sidebar": "someSidebar",
+  "previous": {
+    "title": "资产类别",
+    "permalink": "/docs/next/系统配置手册/列表管理器/资产类别"
+  },
+  "next": {
+    "title": "概述",
+    "permalink": "/docs/next/系统配置手册/组织架构管理器/概述"
+  }
+}

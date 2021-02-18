@@ -1,0 +1,873 @@
+{
+  "docsSidebars": {
+    "version-4.0.2/someSidebar": [
+      {
+        "type": "category",
+        "label": "简介",
+        "items": [
+          {
+            "type": "link",
+            "label": "概述",
+            "href": "/docs/简介/概述"
+          },
+          {
+            "type": "link",
+            "label": "优势",
+            "href": "/docs/简介/优势"
+          },
+          {
+            "type": "link",
+            "label": "应用场景",
+            "href": "/docs/简介/应用场景"
+          }
+        ]
+      },
+      {
+        "type": "category",
+        "label": "安装",
+        "items": [
+          {
+            "type": "link",
+            "label": "系统要求",
+            "href": "/docs/安装/系统要求"
+          },
+          {
+            "type": "link",
+            "label": "安装",
+            "href": "/docs/安装/安装"
+          },
+          {
+            "type": "link",
+            "label": "安装SQLServer",
+            "href": "/docs/安装/安装SQLServer"
+          },
+          {
+            "type": "link",
+            "label": "安装PostgresSQL",
+            "href": "/docs/安装/安装PostgresSQL"
+          },
+          {
+            "type": "link",
+            "label": "安装MongoDB",
+            "href": "/docs/安装/安装MongoDB"
+          },
+          {
+            "type": "link",
+            "label": "安装RabbitMQ",
+            "href": "/docs/安装/安装RabbitMQ"
+          }
+        ]
+      },
+      {
+        "type": "category",
+        "label": "用户使用手册",
+        "items": [
+          {
+            "type": "category",
+            "label": "网页端",
+            "items": [
+              {
+                "type": "link",
+                "label": "登录",
+                "href": "/docs/用户使用手册/网页端/登录"
+              },
+              {
+                "type": "link",
+                "label": "自定义主页",
+                "href": "/docs/用户使用手册/网页端/自定义主页"
+              },
+              {
+                "type": "link",
+                "label": "管理导航栏",
+                "href": "/docs/用户使用手册/网页端/管理导航栏"
+              },
+              {
+                "type": "link",
+                "label": "项目",
+                "href": "/docs/用户使用手册/网页端/项目"
+              },
+              {
+                "type": "link",
+                "label": "计划",
+                "href": "/docs/用户使用手册/网页端/计划"
+              },
+              {
+                "type": "link",
+                "label": "任务",
+                "href": "/docs/用户使用手册/网页端/任务"
+              },
+              {
+                "type": "link",
+                "label": "审核",
+                "href": "/docs/用户使用手册/网页端/审核"
+              },
+              {
+                "type": "link",
+                "label": "作业树",
+                "href": "/docs/用户使用手册/网页端/作业树"
+              },
+              {
+                "type": "link",
+                "label": "报表",
+                "href": "/docs/用户使用手册/网页端/报表"
+              },
+              {
+                "type": "link",
+                "label": "库存",
+                "href": "/docs/用户使用手册/网页端/库存"
+              },
+              {
+                "type": "link",
+                "label": "分析",
+                "href": "/docs/用户使用手册/网页端/分析"
+              },
+              {
+                "type": "link",
+                "label": "日志",
+                "href": "/docs/用户使用手册/网页端/日志"
+              },
+              {
+                "type": "link",
+                "label": "知识库",
+                "href": "/docs/用户使用手册/网页端/知识库"
+              },
+              {
+                "type": "link",
+                "label": "消息中心",
+                "href": "/docs/用户使用手册/网页端/消息中心"
+              },
+              {
+                "type": "link",
+                "label": "地图",
+                "href": "/docs/用户使用手册/网页端/地图"
+              },
+              {
+                "type": "link",
+                "label": "资产总览",
+                "href": "/docs/用户使用手册/网页端/资产总览"
+              },
+              {
+                "type": "link",
+                "label": "人员总览",
+                "href": "/docs/用户使用手册/网页端/人员总览"
+              },
+              {
+                "type": "link",
+                "label": "排班表",
+                "href": "/docs/用户使用手册/网页端/排班表"
+              },
+              {
+                "type": "category",
+                "label": "用户",
+                "items": [
+                  {
+                    "type": "link",
+                    "label": "用户信息",
+                    "href": "/docs/用户使用手册/网页端/用户信息"
+                  },
+                  {
+                    "type": "link",
+                    "label": "修改密码",
+                    "href": "/docs/用户使用手册/网页端/修改密码"
+                  },
+                  {
+                    "type": "link",
+                    "label": "个性设置",
+                    "href": "/docs/用户使用手册/网页端/个性设置"
+                  },
+                  {
+                    "type": "link",
+                    "label": "消息订阅",
+                    "href": "/docs/用户使用手册/网页端/消息订阅"
+                  },
+                  {
+                    "type": "link",
+                    "label": "系统日志",
+                    "href": "/docs/用户使用手册/网页端/系统日志"
+                  },
+                  {
+                    "type": "link",
+                    "label": "下载终端应用",
+                    "href": "/docs/用户使用手册/网页端/下载终端应用"
+                  },
+                  {
+                    "type": "link",
+                    "label": "注销",
+                    "href": "/docs/用户使用手册/网页端/注销"
+                  }
+                ]
+              },
+              {
+                "type": "category",
+                "label": "配置",
+                "items": [
+                  {
+                    "type": "link",
+                    "label": "日志主题",
+                    "href": "/docs/用户使用手册/网页端/日志主题"
+                  },
+                  {
+                    "type": "link",
+                    "label": "资源",
+                    "href": "/docs/用户使用手册/网页端/资源"
+                  },
+                  {
+                    "type": "link",
+                    "label": "资产位置",
+                    "href": "/docs/用户使用手册/网页端/资产位置"
+                  },
+                  {
+                    "type": "link",
+                    "label": "作业组模板",
+                    "href": "/docs/用户使用手册/网页端/作业组模板"
+                  },
+                  {
+                    "type": "link",
+                    "label": "子项模板",
+                    "href": "/docs/用户使用手册/网页端/子项模板"
+                  },
+                  {
+                    "type": "link",
+                    "label": "库存导入",
+                    "href": "/docs/用户使用手册/网页端/库存导入"
+                  },
+                  {
+                    "type": "link",
+                    "label": "画面",
+                    "href": "/docs/用户使用手册/网页端/画面"
+                  }
+                ]
+              },
+              {
+                "type": "category",
+                "label": "管理",
+                "items": [
+                  {
+                    "type": "link",
+                    "label": "作业组维护",
+                    "href": "/docs/用户使用手册/网页端/作业组维护"
+                  },
+                  {
+                    "type": "link",
+                    "label": "系统扩展管理",
+                    "href": "/docs/用户使用手册/网页端/系统扩展管理"
+                  },
+                  {
+                    "type": "link",
+                    "label": "消息类型管理",
+                    "href": "/docs/用户使用手册/网页端/消息类型管理"
+                  },
+                  {
+                    "type": "link",
+                    "label": "权限设置",
+                    "href": "/docs/用户使用手册/网页端/权限设置"
+                  },
+                  {
+                    "type": "link",
+                    "label": "网站设置",
+                    "href": "/docs/用户使用手册/网页端/网站设置"
+                  },
+                  {
+                    "type": "link",
+                    "label": "自定义导航",
+                    "href": "/docs/用户使用手册/网页端/自定义导航"
+                  },
+                  {
+                    "type": "link",
+                    "label": "消息订阅管理",
+                    "href": "/docs/用户使用手册/网页端/消息订阅管理"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "category",
+            "label": "终端",
+            "items": [
+              {
+                "type": "link",
+                "label": "登录",
+                "href": "/docs/用户使用手册/终端/登录"
+              },
+              {
+                "type": "link",
+                "label": "配置",
+                "href": "/docs/用户使用手册/终端/配置"
+              },
+              {
+                "type": "link",
+                "label": "同步",
+                "href": "/docs/用户使用手册/终端/同步"
+              },
+              {
+                "type": "link",
+                "label": "主页",
+                "href": "/docs/用户使用手册/终端/主页"
+              },
+              {
+                "type": "link",
+                "label": "执行",
+                "href": "/docs/用户使用手册/终端/执行"
+              },
+              {
+                "type": "link",
+                "label": "审核",
+                "href": "/docs/用户使用手册/终端/审核"
+              },
+              {
+                "type": "link",
+                "label": "日志",
+                "href": "/docs/用户使用手册/终端/日志"
+              },
+              {
+                "type": "link",
+                "label": "消息",
+                "href": "/docs/用户使用手册/终端/消息"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "category",
+        "label": "系统配置手册",
+        "items": [
+          {
+            "type": "link",
+            "label": "授权管理",
+            "href": "/docs/系统配置手册/授权管理/授权管理"
+          },
+          {
+            "type": "category",
+            "label": "系统设置",
+            "items": [
+              {
+                "type": "link",
+                "label": "服务",
+                "href": "/docs/系统配置手册/系统设置/服务/服务"
+              },
+              {
+                "type": "link",
+                "label": "系统参数",
+                "href": "/docs/系统配置手册/系统设置/系统参数/系统参数"
+              }
+            ]
+          },
+          {
+            "type": "link",
+            "label": "账户设置",
+            "href": "/docs/系统配置手册/账户设置/账户设置"
+          },
+          {
+            "type": "link",
+            "label": "数据库管理",
+            "href": "/docs/系统配置手册/数据库管理/数据库管理"
+          },
+          {
+            "type": "link",
+            "label": "解决方案管理",
+            "href": "/docs/系统配置手册/解决方案管理/解决方案管理"
+          },
+          {
+            "type": "link",
+            "label": "部署模型管理",
+            "href": "/docs/系统配置手册/部署模型管理/部署模型管理"
+          },
+          {
+            "type": "link",
+            "label": "解决方案设置",
+            "href": "/docs/系统配置手册/解决方案设置/解决方案设置"
+          },
+          {
+            "type": "category",
+            "label": "列表管理器",
+            "items": [
+              {
+                "type": "link",
+                "label": "概述",
+                "href": "/docs/系统配置手册/列表管理器/概述"
+              },
+              {
+                "type": "link",
+                "label": "自定义列表",
+                "href": "/docs/系统配置手册/列表管理器/自定义列表"
+              },
+              {
+                "type": "link",
+                "label": "附件",
+                "href": "/docs/系统配置手册/列表管理器/附件"
+              },
+              {
+                "type": "link",
+                "label": "工程单位",
+                "href": "/docs/系统配置手册/列表管理器/工程单位"
+              },
+              {
+                "type": "link",
+                "label": "例外等级",
+                "href": "/docs/系统配置手册/列表管理器/例外等级"
+              },
+              {
+                "type": "link",
+                "label": "全局属性模板",
+                "href": "/docs/系统配置手册/列表管理器/全局属性模板"
+              },
+              {
+                "type": "link",
+                "label": "轮班",
+                "href": "/docs/系统配置手册/列表管理器/轮班"
+              },
+              {
+                "type": "link",
+                "label": "资产类别",
+                "href": "/docs/系统配置手册/列表管理器/资产类别"
+              },
+              {
+                "type": "link",
+                "label": "资产",
+                "href": "/docs/系统配置手册/列表管理器/资产"
+              }
+            ]
+          },
+          {
+            "type": "category",
+            "label": "组织架构管理器",
+            "items": [
+              {
+                "type": "link",
+                "label": "概述",
+                "href": "/docs/系统配置手册/组织架构管理器/概述"
+              },
+              {
+                "type": "link",
+                "label": "业务范畴",
+                "href": "/docs/系统配置手册/组织架构管理器/业务范畴"
+              },
+              {
+                "type": "link",
+                "label": "岗位",
+                "href": "/docs/系统配置手册/组织架构管理器/岗位"
+              },
+              {
+                "type": "link",
+                "label": "组织单元",
+                "href": "/docs/系统配置手册/组织架构管理器/组织单元"
+              },
+              {
+                "type": "link",
+                "label": "用户",
+                "href": "/docs/系统配置手册/组织架构管理器/用户"
+              }
+            ]
+          },
+          {
+            "type": "link",
+            "label": "流程管理器",
+            "href": "/docs/系统配置手册/流程管理器/流程管理器"
+          },
+          {
+            "type": "category",
+            "label": "作业管理器",
+            "items": [
+              {
+                "type": "link",
+                "label": "概述",
+                "href": "/docs/系统配置手册/作业管理器/概述"
+              },
+              {
+                "type": "link",
+                "label": "项目模板",
+                "href": "/docs/系统配置手册/作业管理器/项目模板"
+              },
+              {
+                "type": "category",
+                "label": "作业规范",
+                "items": [
+                  {
+                    "type": "link",
+                    "label": "作业规范概述",
+                    "href": "/docs/系统配置手册/作业管理器/作业规范概述"
+                  },
+                  {
+                    "type": "link",
+                    "label": "作业规范",
+                    "href": "/docs/系统配置手册/作业管理器/作业规范"
+                  },
+                  {
+                    "type": "link",
+                    "label": "作业规范下作业",
+                    "href": "/docs/系统配置手册/作业管理器/作业规范下作业"
+                  },
+                  {
+                    "type": "link",
+                    "label": "作业规范下作业项",
+                    "href": "/docs/系统配置手册/作业管理器/作业规范下作业项"
+                  }
+                ]
+              },
+              {
+                "type": "category",
+                "label": "作业组",
+                "items": [
+                  {
+                    "type": "link",
+                    "label": "作业组概述",
+                    "href": "/docs/系统配置手册/作业管理器/作业组概述"
+                  },
+                  {
+                    "type": "link",
+                    "label": "作业组",
+                    "href": "/docs/系统配置手册/作业管理器/作业组"
+                  },
+                  {
+                    "type": "link",
+                    "label": "作业组下作业",
+                    "href": "/docs/系统配置手册/作业管理器/作业组下作业"
+                  },
+                  {
+                    "type": "link",
+                    "label": "作业组下作业项",
+                    "href": "/docs/系统配置手册/作业管理器/作业组下作业项"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "link",
+            "label": "内置流程后和终端函数",
+            "href": "/docs/系统配置手册/内置流程后和终端函数"
+          },
+          {
+            "type": "category",
+            "label": "模板详细说明",
+            "items": [
+              {
+                "type": "link",
+                "label": "概述",
+                "href": "/docs/系统配置手册/模板详细说明/概述"
+              },
+              {
+                "type": "link",
+                "label": "基础模板",
+                "href": "/docs/系统配置手册/模板详细说明/基础模板"
+              },
+              {
+                "type": "link",
+                "label": "巡检和维修作业模板",
+                "href": "/docs/系统配置手册/模板详细说明/巡检和维修作业模板"
+              },
+              {
+                "type": "link",
+                "label": "设备管理模板",
+                "href": "/docs/系统配置手册/模板详细说明/设备管理模板"
+              },
+              {
+                "type": "link",
+                "label": "安全作业模板",
+                "href": "/docs/系统配置手册/模板详细说明/安全作业模板"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "category",
+        "label": "系统维护指南",
+        "items": [
+          {
+            "type": "link",
+            "label": "运行监控和维护",
+            "href": "/docs/系统维护指南/运行监控和维护"
+          },
+          {
+            "type": "link",
+            "label": "数据备份和还原",
+            "href": "/docs/系统维护指南/数据备份和还原"
+          }
+        ]
+      },
+      {
+        "type": "category",
+        "label": "系统扩展指南",
+        "items": [
+          {
+            "type": "link",
+            "label": "主页定制扩展开发",
+            "href": "/docs/系统扩展指南/主页定制扩展开发"
+          },
+          {
+            "type": "link",
+            "label": "流程后函数扩展开发",
+            "href": "/docs/系统扩展指南/流程后函数扩展开发"
+          },
+          {
+            "type": "link",
+            "label": "报表扩展开发",
+            "href": "/docs/系统扩展指南/报表扩展开发"
+          },
+          {
+            "type": "link",
+            "label": "分析扩展开发",
+            "href": "/docs/系统扩展指南/分析扩展开发"
+          },
+          {
+            "type": "link",
+            "label": "终端页面扩展开发",
+            "href": "/docs/系统扩展指南/终端页面扩展开发"
+          },
+          {
+            "type": "link",
+            "label": "扩展例子",
+            "href": "/docs/系统扩展指南/扩展例子"
+          },
+          {
+            "type": "link",
+            "label": "与自控系统集成例子",
+            "href": "/docs/系统扩展指南/与自控系统集成例子"
+          },
+          {
+            "type": "link",
+            "label": "社交平台集成示例-作业任务钉钉推送",
+            "href": "/docs/系统扩展指南/社交平台集成示例-作业任务钉钉推送"
+          },
+          {
+            "type": "link",
+            "label": "资产属性终端自定义查询",
+            "href": "/docs/系统扩展指南/资产属性终端自定义查询"
+          },
+          {
+            "type": "link",
+            "label": "nodejs程序配置成windows服务",
+            "href": "/docs/系统扩展指南/nodejs程序配置成windows服务"
+          },
+          {
+            "type": "link",
+            "label": "RabbitMQ开发说明",
+            "href": "/docs/系统扩展指南/RabbitMQ开发说明"
+          }
+        ]
+      },
+      {
+        "type": "category",
+        "label": "发布说明",
+        "items": [
+          {
+            "type": "link",
+            "label": "发布记录",
+            "href": "/docs/发布说明/发布记录"
+          },
+          {
+            "type": "link",
+            "label": "3.8.1发布说明",
+            "href": "/docs/发布说明/3.8.1发布说明"
+          },
+          {
+            "type": "link",
+            "label": "3.8.2发布说明",
+            "href": "/docs/发布说明/3.8.2发布说明"
+          },
+          {
+            "type": "link",
+            "label": "4.0.0发布说明",
+            "href": "/docs/发布说明/4.0.0发布说明"
+          },
+          {
+            "type": "link",
+            "label": "4.0.1发布说明",
+            "href": "/docs/发布说明/4.0.1发布说明"
+          },
+          {
+            "type": "link",
+            "label": "4.0.2发布说明",
+            "href": "/docs/发布说明/4.0.2发布说明"
+          }
+        ]
+      },
+      {
+        "type": "category",
+        "label": "附录",
+        "items": [
+          {
+            "type": "link",
+            "label": "软件和应用升级",
+            "href": "/docs/附录/软件和应用升级"
+          },
+          {
+            "type": "link",
+            "label": "大屏配置和使用",
+            "href": "/docs/附录/大屏配置和使用"
+          },
+          {
+            "type": "link",
+            "label": "作业树模板配置和使用",
+            "href": "/docs/附录/作业树模板配置和使用"
+          },
+          {
+            "type": "link",
+            "label": "使用条码标签",
+            "href": "/docs/附录/使用条码标签"
+          },
+          {
+            "type": "link",
+            "label": "使用RFID或NFC标签",
+            "href": "/docs/附录/使用RFID或NFC标签"
+          },
+          {
+            "type": "link",
+            "label": "使用超高频标签",
+            "href": "/docs/附录/使用超高频标签"
+          },
+          {
+            "type": "link",
+            "label": "使用AIC8600测温测振设备",
+            "href": "/docs/附录/使用AIC8600测温测振设备"
+          },
+          {
+            "type": "link",
+            "label": "使用AR智能眼镜和远程指导",
+            "href": "/docs/附录/使用AR智能眼镜和远程指导"
+          },
+          {
+            "type": "link",
+            "label": "使用钛准定位",
+            "href": "/docs/附录/使用钛准定位"
+          },
+          {
+            "type": "link",
+            "label": "常见问题",
+            "href": "/docs/附录/常见问题"
+          }
+        ]
+      }
+    ]
+  },
+  "permalinkToSidebar": {
+    "/docs/发布说明/3.8.1发布说明": "version-4.0.2/someSidebar",
+    "/docs/发布说明/3.8.2发布说明": "version-4.0.2/someSidebar",
+    "/docs/发布说明/4.0.0发布说明": "version-4.0.2/someSidebar",
+    "/docs/发布说明/4.0.1发布说明": "version-4.0.2/someSidebar",
+    "/docs/发布说明/4.0.2发布说明": "version-4.0.2/someSidebar",
+    "/docs/发布说明/发布记录": "version-4.0.2/someSidebar",
+    "/docs/安装/安装": "version-4.0.2/someSidebar",
+    "/docs/安装/安装MongoDB": "version-4.0.2/someSidebar",
+    "/docs/安装/安装PostgresSQL": "version-4.0.2/someSidebar",
+    "/docs/安装/安装RabbitMQ": "version-4.0.2/someSidebar",
+    "/docs/安装/安装SQLServer": "version-4.0.2/someSidebar",
+    "/docs/安装/系统要求": "version-4.0.2/someSidebar",
+    "/docs/用户使用手册/终端/主页": "version-4.0.2/someSidebar",
+    "/docs/用户使用手册/终端/同步": "version-4.0.2/someSidebar",
+    "/docs/用户使用手册/终端/审核": "version-4.0.2/someSidebar",
+    "/docs/用户使用手册/终端/执行": "version-4.0.2/someSidebar",
+    "/docs/用户使用手册/终端/日志": "version-4.0.2/someSidebar",
+    "/docs/用户使用手册/终端/消息": "version-4.0.2/someSidebar",
+    "/docs/用户使用手册/终端/登录": "version-4.0.2/someSidebar",
+    "/docs/用户使用手册/终端/配置": "version-4.0.2/someSidebar",
+    "/docs/用户使用手册/网页端/下载终端应用": "version-4.0.2/someSidebar",
+    "/docs/用户使用手册/网页端/个性设置": "version-4.0.2/someSidebar",
+    "/docs/用户使用手册/网页端/人员总览": "version-4.0.2/someSidebar",
+    "/docs/用户使用手册/网页端/任务": "version-4.0.2/someSidebar",
+    "/docs/用户使用手册/网页端/作业树": "version-4.0.2/someSidebar",
+    "/docs/用户使用手册/网页端/作业组模板": "version-4.0.2/someSidebar",
+    "/docs/用户使用手册/网页端/作业组维护": "version-4.0.2/someSidebar",
+    "/docs/用户使用手册/网页端/修改密码": "version-4.0.2/someSidebar",
+    "/docs/用户使用手册/网页端/分析": "version-4.0.2/someSidebar",
+    "/docs/用户使用手册/网页端/地图": "version-4.0.2/someSidebar",
+    "/docs/用户使用手册/网页端/子项模板": "version-4.0.2/someSidebar",
+    "/docs/用户使用手册/网页端/审核": "version-4.0.2/someSidebar",
+    "/docs/用户使用手册/网页端/库存": "version-4.0.2/someSidebar",
+    "/docs/用户使用手册/网页端/库存导入": "version-4.0.2/someSidebar",
+    "/docs/用户使用手册/网页端/报表": "version-4.0.2/someSidebar",
+    "/docs/用户使用手册/网页端/排班表": "version-4.0.2/someSidebar",
+    "/docs/用户使用手册/网页端/日志": "version-4.0.2/someSidebar",
+    "/docs/用户使用手册/网页端/日志主题": "version-4.0.2/someSidebar",
+    "/docs/用户使用手册/网页端/权限设置": "version-4.0.2/someSidebar",
+    "/docs/用户使用手册/网页端/注销": "version-4.0.2/someSidebar",
+    "/docs/用户使用手册/网页端/消息中心": "version-4.0.2/someSidebar",
+    "/docs/用户使用手册/网页端/消息类型管理": "version-4.0.2/someSidebar",
+    "/docs/用户使用手册/网页端/消息订阅": "version-4.0.2/someSidebar",
+    "/docs/用户使用手册/网页端/消息订阅管理": "version-4.0.2/someSidebar",
+    "/docs/用户使用手册/网页端/用户信息": "version-4.0.2/someSidebar",
+    "/docs/用户使用手册/网页端/画面": "version-4.0.2/someSidebar",
+    "/docs/用户使用手册/网页端/登录": "version-4.0.2/someSidebar",
+    "/docs/用户使用手册/网页端/知识库": "version-4.0.2/someSidebar",
+    "/docs/用户使用手册/网页端/管理导航栏": "version-4.0.2/someSidebar",
+    "/docs/用户使用手册/网页端/系统扩展管理": "version-4.0.2/someSidebar",
+    "/docs/用户使用手册/网页端/系统日志": "version-4.0.2/someSidebar",
+    "/docs/用户使用手册/网页端/网站设置": "version-4.0.2/someSidebar",
+    "/docs/用户使用手册/网页端/自定义主页": "version-4.0.2/someSidebar",
+    "/docs/用户使用手册/网页端/自定义导航": "version-4.0.2/someSidebar",
+    "/docs/用户使用手册/网页端/计划": "version-4.0.2/someSidebar",
+    "/docs/用户使用手册/网页端/资产位置": "version-4.0.2/someSidebar",
+    "/docs/用户使用手册/网页端/资产总览": "version-4.0.2/someSidebar",
+    "/docs/用户使用手册/网页端/资源": "version-4.0.2/someSidebar",
+    "/docs/用户使用手册/网页端/项目": "version-4.0.2/someSidebar",
+    "/docs/简介/优势": "version-4.0.2/someSidebar",
+    "/docs/简介/应用场景": "version-4.0.2/someSidebar",
+    "/docs/简介/概述": "version-4.0.2/someSidebar",
+    "/docs/系统扩展指南/RabbitMQ开发说明": "version-4.0.2/someSidebar",
+    "/docs/系统扩展指南/nodejs程序配置成windows服务": "version-4.0.2/someSidebar",
+    "/docs/系统扩展指南/与自控系统集成例子": "version-4.0.2/someSidebar",
+    "/docs/系统扩展指南/主页定制扩展开发": "version-4.0.2/someSidebar",
+    "/docs/系统扩展指南/分析扩展开发": "version-4.0.2/someSidebar",
+    "/docs/系统扩展指南/扩展例子": "version-4.0.2/someSidebar",
+    "/docs/系统扩展指南/报表扩展开发": "version-4.0.2/someSidebar",
+    "/docs/系统扩展指南/流程后函数扩展开发": "version-4.0.2/someSidebar",
+    "/docs/系统扩展指南/社交平台集成示例-作业任务钉钉推送": "version-4.0.2/someSidebar",
+    "/docs/系统扩展指南/终端页面扩展开发": "version-4.0.2/someSidebar",
+    "/docs/系统扩展指南/资产属性终端自定义查询": "version-4.0.2/someSidebar",
+    "/docs/系统维护指南/数据备份和还原": "version-4.0.2/someSidebar",
+    "/docs/系统维护指南/运行监控和维护": "version-4.0.2/someSidebar",
+    "/docs/系统配置手册/作业管理器/作业组": "version-4.0.2/someSidebar",
+    "/docs/系统配置手册/作业管理器/作业组下作业": "version-4.0.2/someSidebar",
+    "/docs/系统配置手册/作业管理器/作业组下作业项": "version-4.0.2/someSidebar",
+    "/docs/系统配置手册/作业管理器/作业组概述": "version-4.0.2/someSidebar",
+    "/docs/系统配置手册/作业管理器/作业规范": "version-4.0.2/someSidebar",
+    "/docs/系统配置手册/作业管理器/作业规范下作业": "version-4.0.2/someSidebar",
+    "/docs/系统配置手册/作业管理器/作业规范下作业项": "version-4.0.2/someSidebar",
+    "/docs/系统配置手册/作业管理器/作业规范概述": "version-4.0.2/someSidebar",
+    "/docs/系统配置手册/作业管理器/概述": "version-4.0.2/someSidebar",
+    "/docs/系统配置手册/作业管理器/项目模板": "version-4.0.2/someSidebar",
+    "/docs/系统配置手册/内置流程后和终端函数": "version-4.0.2/someSidebar",
+    "/docs/系统配置手册/列表管理器/例外等级": "version-4.0.2/someSidebar",
+    "/docs/系统配置手册/列表管理器/全局属性模板": "version-4.0.2/someSidebar",
+    "/docs/系统配置手册/列表管理器/工程单位": "version-4.0.2/someSidebar",
+    "/docs/系统配置手册/列表管理器/概述": "version-4.0.2/someSidebar",
+    "/docs/系统配置手册/列表管理器/自定义列表": "version-4.0.2/someSidebar",
+    "/docs/系统配置手册/列表管理器/资产": "version-4.0.2/someSidebar",
+    "/docs/系统配置手册/列表管理器/资产类别": "version-4.0.2/someSidebar",
+    "/docs/系统配置手册/列表管理器/轮班": "version-4.0.2/someSidebar",
+    "/docs/系统配置手册/列表管理器/附件": "version-4.0.2/someSidebar",
+    "/docs/系统配置手册/授权管理/授权管理": "version-4.0.2/someSidebar",
+    "/docs/系统配置手册/数据库管理/数据库管理": "version-4.0.2/someSidebar",
+    "/docs/系统配置手册/模板详细说明/基础模板": "version-4.0.2/someSidebar",
+    "/docs/系统配置手册/模板详细说明/安全作业模板": "version-4.0.2/someSidebar",
+    "/docs/系统配置手册/模板详细说明/巡检和维修作业模板": "version-4.0.2/someSidebar",
+    "/docs/系统配置手册/模板详细说明/概述": "version-4.0.2/someSidebar",
+    "/docs/系统配置手册/模板详细说明/设备管理模板": "version-4.0.2/someSidebar",
+    "/docs/系统配置手册/流程管理器/流程管理器": "version-4.0.2/someSidebar",
+    "/docs/系统配置手册/系统设置/服务/服务": "version-4.0.2/someSidebar",
+    "/docs/系统配置手册/系统设置/系统参数/系统参数": "version-4.0.2/someSidebar",
+    "/docs/系统配置手册/组织架构管理器/业务范畴": "version-4.0.2/someSidebar",
+    "/docs/系统配置手册/组织架构管理器/岗位": "version-4.0.2/someSidebar",
+    "/docs/系统配置手册/组织架构管理器/概述": "version-4.0.2/someSidebar",
+    "/docs/系统配置手册/组织架构管理器/用户": "version-4.0.2/someSidebar",
+    "/docs/系统配置手册/组织架构管理器/组织单元": "version-4.0.2/someSidebar",
+    "/docs/系统配置手册/解决方案管理/解决方案管理": "version-4.0.2/someSidebar",
+    "/docs/系统配置手册/解决方案设置/解决方案设置": "version-4.0.2/someSidebar",
+    "/docs/系统配置手册/账户设置/账户设置": "version-4.0.2/someSidebar",
+    "/docs/系统配置手册/部署模型管理/部署模型管理": "version-4.0.2/someSidebar",
+    "/docs/附录/作业树模板配置和使用": "version-4.0.2/someSidebar",
+    "/docs/附录/使用AIC8600测温测振设备": "version-4.0.2/someSidebar",
+    "/docs/附录/使用AR智能眼镜和远程指导": "version-4.0.2/someSidebar",
+    "/docs/附录/使用RFID或NFC标签": "version-4.0.2/someSidebar",
+    "/docs/附录/使用条码标签": "version-4.0.2/someSidebar",
+    "/docs/附录/使用超高频标签": "version-4.0.2/someSidebar",
+    "/docs/附录/使用钛准定位": "version-4.0.2/someSidebar",
+    "/docs/附录/大屏配置和使用": "version-4.0.2/someSidebar",
+    "/docs/附录/常见问题": "version-4.0.2/someSidebar",
+    "/docs/附录/软件和应用升级": "version-4.0.2/someSidebar"
+  },
+  "version": "4.0.2"
+}

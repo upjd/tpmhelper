@@ -1,0 +1,18 @@
+{
+  "id": "version-4.0.0/简介/优势",
+  "title": "优势",
+  "description": "## 采用最新移动技术的、面向现场移动作业管理",
+  "source": "@site/versioned_docs\\version-4.0.0\\简介\\优势.md",
+  "permalink": "/docs/4.0.0/简介/优势",
+  "editUrl": "https://www.rockwellautomation.com.cn/support.html/edit/master/versioned_docs\\version-4.0.0\\简介\\优势.md",
+  "version": "4.0.0",
+  "sidebar": "version-4.0.0/someSidebar",
+  "previous": {
+    "title": "概述",
+    "permalink": "/docs/4.0.0/简介/概述"
+  },
+  "next": {
+    "title": "应用场景",
+    "permalink": "/docs/4.0.0/简介/应用场景"
+  }
+}

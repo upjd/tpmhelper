@@ -1,0 +1,18 @@
+{
+  "id": "系统扩展指南/资产属性终端自定义查询",
+  "title": "资产属性终端自定义查询",
+  "description": "本章讲述资产属性自定义查询，支持rockwelltpm V3.2.0及以上版本。",
+  "source": "@site/docs\\系统扩展指南\\资产属性终端自定义查询.md",
+  "permalink": "/docs/next/系统扩展指南/资产属性终端自定义查询",
+  "editUrl": "https://www.rockwellautomation.com.cn/support.html/edit/master/docs\\系统扩展指南\\资产属性终端自定义查询.md",
+  "version": "next",
+  "sidebar": "someSidebar",
+  "previous": {
+    "title": "社交平台集成示例-作业任务钉钉推送",
+    "permalink": "/docs/next/系统扩展指南/社交平台集成示例-作业任务钉钉推送"
+  },
+  "next": {
+    "title": "nodejs程序配置成windows服务",
+    "permalink": "/docs/next/系统扩展指南/nodejs程序配置成windows服务"
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "id": "快速入门/审核和查看",
+  "title": "审核和查看",
+  "description": "",
+  "source": "@site/docs\\快速入门\\审核和查看.md",
+  "permalink": "/docs/next/快速入门/审核和查看",
+  "editUrl": "https://www.rockwellautomation.com.cn/support.html/edit/master/docs\\快速入门\\审核和查看.md",
+  "version": "next",
+  "sidebar": "someSidebar",
+  "previous": {
+    "title": "终端执行",
+    "permalink": "/docs/next/快速入门/终端执行"
+  },
+  "next": {
+    "title": "报表和分析",
+    "permalink": "/docs/next/快速入门/报表和分析"
+  }
+}

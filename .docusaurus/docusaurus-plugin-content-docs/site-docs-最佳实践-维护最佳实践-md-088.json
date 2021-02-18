@@ -1,0 +1,18 @@
+{
+  "id": "最佳实践/维护最佳实践",
+  "title": "维护最佳实践",
+  "description": "",
+  "source": "@site/docs\\最佳实践\\维护最佳实践.md",
+  "permalink": "/docs/next/最佳实践/维护最佳实践",
+  "editUrl": "https://www.rockwellautomation.com.cn/support.html/edit/master/docs\\最佳实践\\维护最佳实践.md",
+  "version": "next",
+  "sidebar": "someSidebar",
+  "previous": {
+    "title": "配置最佳实践",
+    "permalink": "/docs/next/最佳实践/配置最佳实践"
+  },
+  "next": {
+    "title": "发布记录",
+    "permalink": "/docs/next/发布说明/发布记录"
+  }
+}

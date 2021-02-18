@@ -1,0 +1,18 @@
+{
+  "id": "系统配置手册/授权管理/授权管理",
+  "title": "授权管理",
+  "description": "## 授权作用",
+  "source": "@site/docs\\系统配置手册\\授权管理\\授权管理.md",
+  "permalink": "/docs/next/系统配置手册/授权管理/授权管理",
+  "editUrl": "https://www.rockwellautomation.com.cn/support.html/edit/master/docs\\系统配置手册\\授权管理\\授权管理.md",
+  "version": "next",
+  "sidebar": "someSidebar",
+  "previous": {
+    "title": "消息",
+    "permalink": "/docs/next/用户使用手册/终端/消息"
+  },
+  "next": {
+    "title": "服务",
+    "permalink": "/docs/next/系统配置手册/系统设置/服务/服务"
+  }
+}

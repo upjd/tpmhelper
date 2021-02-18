@@ -1,0 +1,18 @@
+{
+  "id": "version-4.0.2/用户使用手册/网页端/日志主题",
+  "title": "日志主题",
+  "description": "用户在添加日志时，其中有一个可选项是选择主题。在日志主题中进行了配置保存，有了主题时，在添加日志时，才可以选择添加。",
+  "source": "@site/versioned_docs\\version-4.0.2\\用户使用手册\\网页端\\日志主题.md",
+  "permalink": "/docs/用户使用手册/网页端/日志主题",
+  "editUrl": "https://www.rockwellautomation.com.cn/support.html/edit/master/versioned_docs\\version-4.0.2\\用户使用手册\\网页端\\日志主题.md",
+  "version": "4.0.2",
+  "sidebar": "version-4.0.2/someSidebar",
+  "previous": {
+    "title": "注销",
+    "permalink": "/docs/用户使用手册/网页端/注销"
+  },
+  "next": {
+    "title": "资源",
+    "permalink": "/docs/用户使用手册/网页端/资源"
+  }
+}

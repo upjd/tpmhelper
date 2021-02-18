@@ -1,0 +1,18 @@
+{
+  "id": "发布说明/4.0.1发布说明",
+  "title": "4.0.1发布说明",
+  "description": "发布时间：2020-08-11",
+  "source": "@site/docs\\发布说明\\4.0.1发布说明.md",
+  "permalink": "/docs/next/发布说明/4.0.1发布说明",
+  "editUrl": "https://www.rockwellautomation.com.cn/support.html/edit/master/docs\\发布说明\\4.0.1发布说明.md",
+  "version": "next",
+  "sidebar": "someSidebar",
+  "previous": {
+    "title": "4.0.0发布说明",
+    "permalink": "/docs/next/发布说明/4.0.0发布说明"
+  },
+  "next": {
+    "title": "4.0.2发布说明",
+    "permalink": "/docs/next/发布说明/4.0.2发布说明"
+  }
+}

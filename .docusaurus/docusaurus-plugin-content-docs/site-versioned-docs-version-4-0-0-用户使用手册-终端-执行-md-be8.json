@@ -1,0 +1,18 @@
+{
+  "id": "version-4.0.0/用户使用手册/终端/执行",
+  "title": "执行",
+  "description": "* 点击同步拿到作业组之后，点击作业组名称后面的图标，进入作业组，开始作业，点击下方的下一步图标，根据作业内容进行相应的操作，直到结束，完成巡检。",
+  "source": "@site/versioned_docs\\version-4.0.0\\用户使用手册\\终端\\执行.md",
+  "permalink": "/docs/4.0.0/用户使用手册/终端/执行",
+  "editUrl": "https://www.rockwellautomation.com.cn/support.html/edit/master/versioned_docs\\version-4.0.0\\用户使用手册\\终端\\执行.md",
+  "version": "4.0.0",
+  "sidebar": "version-4.0.0/someSidebar",
+  "previous": {
+    "title": "主页",
+    "permalink": "/docs/4.0.0/用户使用手册/终端/主页"
+  },
+  "next": {
+    "title": "审核",
+    "permalink": "/docs/4.0.0/用户使用手册/终端/审核"
+  }
+}

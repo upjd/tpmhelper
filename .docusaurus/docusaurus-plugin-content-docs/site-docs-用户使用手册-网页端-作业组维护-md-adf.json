@@ -1,0 +1,18 @@
+{
+  "id": "用户使用手册/网页端/作业组维护",
+  "title": "作业组维护",
+  "description": "当需要删除错误或不需要的作业组和导出作业组信息时，使用此功能。",
+  "source": "@site/docs\\用户使用手册\\网页端\\作业组维护.md",
+  "permalink": "/docs/next/用户使用手册/网页端/作业组维护",
+  "editUrl": "https://www.rockwellautomation.com.cn/support.html/edit/master/docs\\用户使用手册\\网页端\\作业组维护.md",
+  "version": "next",
+  "sidebar": "someSidebar",
+  "previous": {
+    "title": "画面",
+    "permalink": "/docs/next/用户使用手册/网页端/画面"
+  },
+  "next": {
+    "title": "系统扩展管理",
+    "permalink": "/docs/next/用户使用手册/网页端/系统扩展管理"
+  }
+}

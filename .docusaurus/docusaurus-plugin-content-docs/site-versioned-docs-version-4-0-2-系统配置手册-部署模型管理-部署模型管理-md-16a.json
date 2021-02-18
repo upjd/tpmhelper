@@ -1,0 +1,18 @@
+{
+  "id": "version-4.0.2/系统配置手册/部署模型管理/部署模型管理",
+  "title": "部署模型管理",
+  "description": "## 分布式部署方案",
+  "source": "@site/versioned_docs\\version-4.0.2\\系统配置手册\\部署模型管理\\部署模型管理.md",
+  "permalink": "/docs/系统配置手册/部署模型管理/部署模型管理",
+  "editUrl": "https://www.rockwellautomation.com.cn/support.html/edit/master/versioned_docs\\version-4.0.2\\系统配置手册\\部署模型管理\\部署模型管理.md",
+  "version": "4.0.2",
+  "sidebar": "version-4.0.2/someSidebar",
+  "previous": {
+    "title": "解决方案管理",
+    "permalink": "/docs/系统配置手册/解决方案管理/解决方案管理"
+  },
+  "next": {
+    "title": "解决方案设置",
+    "permalink": "/docs/系统配置手册/解决方案设置/解决方案设置"
+  }
+}

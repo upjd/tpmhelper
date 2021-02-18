@@ -1,0 +1,18 @@
+{
+  "id": "version-3.8.2/系统扩展指南/终端页面扩展开发",
+  "title": "终端页面扩展开发",
+  "description": "## 主页底部增加一个按钮",
+  "source": "@site/versioned_docs\\version-3.8.2\\系统扩展指南\\终端页面扩展开发.md",
+  "permalink": "/docs/3.8.2/系统扩展指南/终端页面扩展开发",
+  "editUrl": "https://www.rockwellautomation.com.cn/support.html/edit/master/versioned_docs\\version-3.8.2\\系统扩展指南\\终端页面扩展开发.md",
+  "version": "3.8.2",
+  "sidebar": "version-3.8.2/someSidebar",
+  "previous": {
+    "title": "分析扩展开发",
+    "permalink": "/docs/3.8.2/系统扩展指南/分析扩展开发"
+  },
+  "next": {
+    "title": "自定义服务扩展开发",
+    "permalink": "/docs/3.8.2/系统扩展指南/自定义服务扩展开发"
+  }
+}

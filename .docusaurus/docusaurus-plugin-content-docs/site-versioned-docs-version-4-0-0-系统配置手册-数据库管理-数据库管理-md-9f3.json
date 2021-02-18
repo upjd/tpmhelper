@@ -1,0 +1,18 @@
+{
+  "id": "version-4.0.0/系统配置手册/数据库管理/数据库管理",
+  "title": "数据库管理",
+  "description": "## 打开开始菜单-FTIS系统管理中心-FTIS数据中心配置",
+  "source": "@site/versioned_docs\\version-4.0.0\\系统配置手册\\数据库管理\\数据库管理.md",
+  "permalink": "/docs/4.0.0/系统配置手册/数据库管理/数据库管理",
+  "editUrl": "https://www.rockwellautomation.com.cn/support.html/edit/master/versioned_docs\\version-4.0.0\\系统配置手册\\数据库管理\\数据库管理.md",
+  "version": "4.0.0",
+  "sidebar": "version-4.0.0/someSidebar",
+  "previous": {
+    "title": "账户设置",
+    "permalink": "/docs/4.0.0/系统配置手册/账户设置/账户设置"
+  },
+  "next": {
+    "title": "解决方案管理",
+    "permalink": "/docs/4.0.0/系统配置手册/解决方案管理/解决方案管理"
+  }
+}

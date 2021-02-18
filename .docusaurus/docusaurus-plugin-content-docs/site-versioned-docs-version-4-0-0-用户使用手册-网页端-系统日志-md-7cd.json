@@ -1,0 +1,18 @@
+{
+  "id": "version-4.0.0/用户使用手册/网页端/系统日志",
+  "title": "系统日志",
+  "description": "系统日志页面可以查看使用系统时的各项操作的详细记录。",
+  "source": "@site/versioned_docs\\version-4.0.0\\用户使用手册\\网页端\\系统日志.md",
+  "permalink": "/docs/4.0.0/用户使用手册/网页端/系统日志",
+  "editUrl": "https://www.rockwellautomation.com.cn/support.html/edit/master/versioned_docs\\version-4.0.0\\用户使用手册\\网页端\\系统日志.md",
+  "version": "4.0.0",
+  "sidebar": "version-4.0.0/someSidebar",
+  "previous": {
+    "title": "消息订阅",
+    "permalink": "/docs/4.0.0/用户使用手册/网页端/消息订阅"
+  },
+  "next": {
+    "title": "下载终端应用",
+    "permalink": "/docs/4.0.0/用户使用手册/网页端/下载终端应用"
+  }
+}

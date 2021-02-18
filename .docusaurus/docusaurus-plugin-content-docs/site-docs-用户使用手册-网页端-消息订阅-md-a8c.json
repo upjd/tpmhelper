@@ -1,0 +1,18 @@
+{
+  "id": "用户使用手册/网页端/消息订阅",
+  "title": "消息订阅",
+  "description": "消息订阅功能主要对项目、作业组待执行待审核、库存数量和在库时间以及知识库的编写修改等情况下，及时让相关用户收到提醒。",
+  "source": "@site/docs\\用户使用手册\\网页端\\消息订阅.md",
+  "permalink": "/docs/next/用户使用手册/网页端/消息订阅",
+  "editUrl": "https://www.rockwellautomation.com.cn/support.html/edit/master/docs\\用户使用手册\\网页端\\消息订阅.md",
+  "version": "next",
+  "sidebar": "someSidebar",
+  "previous": {
+    "title": "个性设置",
+    "permalink": "/docs/next/用户使用手册/网页端/个性设置"
+  },
+  "next": {
+    "title": "系统日志",
+    "permalink": "/docs/next/用户使用手册/网页端/系统日志"
+  }
+}

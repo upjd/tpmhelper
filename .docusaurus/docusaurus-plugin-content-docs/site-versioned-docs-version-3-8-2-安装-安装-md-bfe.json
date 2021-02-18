@@ -1,0 +1,18 @@
+{
+  "id": "version-3.8.2/安装/安装",
+  "title": "安装",
+  "description": "## 安装前准备",
+  "source": "@site/versioned_docs\\version-3.8.2\\安装\\安装.md",
+  "permalink": "/docs/3.8.2/安装/安装",
+  "editUrl": "https://www.rockwellautomation.com.cn/support.html/edit/master/versioned_docs\\version-3.8.2\\安装\\安装.md",
+  "version": "3.8.2",
+  "sidebar": "version-3.8.2/someSidebar",
+  "previous": {
+    "title": "系统要求",
+    "permalink": "/docs/3.8.2/安装/系统要求"
+  },
+  "next": {
+    "title": "安装SQLServer",
+    "permalink": "/docs/3.8.2/安装/安装SQLServer"
+  }
+}

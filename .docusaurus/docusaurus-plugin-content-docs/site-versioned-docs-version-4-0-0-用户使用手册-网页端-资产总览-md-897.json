@@ -1,0 +1,18 @@
+{
+  "id": "version-4.0.0/用户使用手册/网页端/资产总览",
+  "title": "资产总览",
+  "description": "资产总览页面记录了有关资产的总览信息，通过筛选器选择资产让其显示在页面上后，可以看到该资产当前待计划作业任务数、活动作业数、历史作业数和相关日志数的简单信息，点击即可进入该资产总览信息页面。",
+  "source": "@site/versioned_docs\\version-4.0.0\\用户使用手册\\网页端\\资产总览.md",
+  "permalink": "/docs/4.0.0/用户使用手册/网页端/资产总览",
+  "editUrl": "https://www.rockwellautomation.com.cn/support.html/edit/master/versioned_docs\\version-4.0.0\\用户使用手册\\网页端\\资产总览.md",
+  "version": "4.0.0",
+  "sidebar": "version-4.0.0/someSidebar",
+  "previous": {
+    "title": "地图",
+    "permalink": "/docs/4.0.0/用户使用手册/网页端/地图"
+  },
+  "next": {
+    "title": "人员总览",
+    "permalink": "/docs/4.0.0/用户使用手册/网页端/人员总览"
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "id": "故障排查指南/后台及Restful API",
+  "title": "后台及Restful API",
+  "description": "## 去掉API说明的显示-公司名称",
+  "source": "@site/docs\\故障排查指南\\后台及Restful API.md",
+  "permalink": "/docs/next/故障排查指南/后台及Restful API",
+  "editUrl": "https://www.rockwellautomation.com.cn/support.html/edit/master/docs\\故障排查指南\\后台及Restful API.md",
+  "version": "next",
+  "sidebar": "someSidebar",
+  "previous": {
+    "title": "解决方案管理中心",
+    "permalink": "/docs/next/故障排查指南/解决方案管理中心"
+  },
+  "next": {
+    "title": "数据库管理",
+    "permalink": "/docs/next/故障排查指南/数据库管理"
+  }
+}

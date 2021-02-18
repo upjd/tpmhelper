@@ -1,0 +1,18 @@
+{
+  "id": "version-4.0.0/用户使用手册/网页端/消息类型管理",
+  "title": "消息类型管理",
+  "description": "消息类型管理中，可以对作业组待执行待审核、知识库审核和库存数量大小在库时间限制等消息类型进行各方面的管理。",
+  "source": "@site/versioned_docs\\version-4.0.0\\用户使用手册\\网页端\\消息类型管理.md",
+  "permalink": "/docs/4.0.0/用户使用手册/网页端/消息类型管理",
+  "editUrl": "https://www.rockwellautomation.com.cn/support.html/edit/master/versioned_docs\\version-4.0.0\\用户使用手册\\网页端\\消息类型管理.md",
+  "version": "4.0.0",
+  "sidebar": "version-4.0.0/someSidebar",
+  "previous": {
+    "title": "系统扩展管理",
+    "permalink": "/docs/4.0.0/用户使用手册/网页端/系统扩展管理"
+  },
+  "next": {
+    "title": "权限设置",
+    "permalink": "/docs/4.0.0/用户使用手册/网页端/权限设置"
+  }
+}

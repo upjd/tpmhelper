@@ -1,0 +1,9 @@
+{
+  "id": "用户使用手册/网页端/管理员功能",
+  "title": "管理员功能",
+  "description": "管理员功能是提供管理员查看和管理用户相关信息，具体分为：日志主题、作业组维护、资产位置维护、系统扩展管理、消息类型管理、权限设置、网站设置、自定义导航和消息订阅管理。",
+  "source": "@site/docs\\用户使用手册\\网页端\\管理员功能.md",
+  "permalink": "/docs/next/用户使用手册/网页端/管理员功能",
+  "editUrl": "https://www.rockwellautomation.com.cn/support.html/edit/master/docs\\用户使用手册\\网页端\\管理员功能.md",
+  "version": "next"
+}

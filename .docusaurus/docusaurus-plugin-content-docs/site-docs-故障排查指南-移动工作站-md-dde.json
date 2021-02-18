@@ -1,0 +1,18 @@
+{
+  "id": "故障排查指南/移动工作站",
+  "title": "移动工作站",
+  "description": "## 终端",
+  "source": "@site/docs\\故障排查指南\\移动工作站.md",
+  "permalink": "/docs/next/故障排查指南/移动工作站",
+  "editUrl": "https://www.rockwellautomation.com.cn/support.html/edit/master/docs\\故障排查指南\\移动工作站.md",
+  "version": "next",
+  "sidebar": "someSidebar",
+  "previous": {
+    "title": "4.0.2发布说明",
+    "permalink": "/docs/next/发布说明/4.0.2发布说明"
+  },
+  "next": {
+    "title": "企业运营中心",
+    "permalink": "/docs/next/故障排查指南/企业运营中心"
+  }
+}

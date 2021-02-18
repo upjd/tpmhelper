@@ -1,0 +1,18 @@
+{
+  "id": "系统扩展指南/扩展例子",
+  "title": "扩展例子",
+  "description": "## 终端脚本",
+  "source": "@site/docs\\系统扩展指南\\扩展例子.md",
+  "permalink": "/docs/next/系统扩展指南/扩展例子",
+  "editUrl": "https://www.rockwellautomation.com.cn/support.html/edit/master/docs\\系统扩展指南\\扩展例子.md",
+  "version": "next",
+  "sidebar": "someSidebar",
+  "previous": {
+    "title": "自定义服务扩展开发",
+    "permalink": "/docs/next/系统扩展指南/自定义服务扩展开发"
+  },
+  "next": {
+    "title": "与自控系统集成例子",
+    "permalink": "/docs/next/系统扩展指南/与自控系统集成例子"
+  }
+}

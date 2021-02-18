@@ -1,0 +1,18 @@
+{
+  "id": "version-4.0.0/简介/应用场景",
+  "title": "应用场景",
+  "description": "## 基础设施运维管理",
+  "source": "@site/versioned_docs\\version-4.0.0\\简介\\应用场景.md",
+  "permalink": "/docs/4.0.0/简介/应用场景",
+  "editUrl": "https://www.rockwellautomation.com.cn/support.html/edit/master/versioned_docs\\version-4.0.0\\简介\\应用场景.md",
+  "version": "4.0.0",
+  "sidebar": "version-4.0.0/someSidebar",
+  "previous": {
+    "title": "优势",
+    "permalink": "/docs/4.0.0/简介/优势"
+  },
+  "next": {
+    "title": "系统要求",
+    "permalink": "/docs/4.0.0/安装/系统要求"
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "id": "系统配置手册/系统设置/系统参数/系统参数",
+  "title": "系统参数",
+  "description": "## 系统设置-系统参数设置位置",
+  "source": "@site/docs\\系统配置手册\\系统设置\\系统参数\\系统参数.md",
+  "permalink": "/docs/next/系统配置手册/系统设置/系统参数/系统参数",
+  "editUrl": "https://www.rockwellautomation.com.cn/support.html/edit/master/docs\\系统配置手册\\系统设置\\系统参数\\系统参数.md",
+  "version": "next",
+  "sidebar": "someSidebar",
+  "previous": {
+    "title": "服务",
+    "permalink": "/docs/next/系统配置手册/系统设置/服务/服务"
+  },
+  "next": {
+    "title": "账户设置",
+    "permalink": "/docs/next/系统配置手册/账户设置/账户设置"
+  }
+}

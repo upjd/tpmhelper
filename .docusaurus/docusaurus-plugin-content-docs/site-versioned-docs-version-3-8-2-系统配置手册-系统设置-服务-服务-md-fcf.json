@@ -1,0 +1,18 @@
+{
+  "id": "version-3.8.2/系统配置手册/系统设置/服务/服务",
+  "title": "服务",
+  "description": "## 内部消息",
+  "source": "@site/versioned_docs\\version-3.8.2\\系统配置手册\\系统设置\\服务\\服务.md",
+  "permalink": "/docs/3.8.2/系统配置手册/系统设置/服务/服务",
+  "editUrl": "https://www.rockwellautomation.com.cn/support.html/edit/master/versioned_docs\\version-3.8.2\\系统配置手册\\系统设置\\服务\\服务.md",
+  "version": "3.8.2",
+  "sidebar": "version-3.8.2/someSidebar",
+  "previous": {
+    "title": "授权管理",
+    "permalink": "/docs/3.8.2/系统配置手册/授权管理/授权管理"
+  },
+  "next": {
+    "title": "系统参数",
+    "permalink": "/docs/3.8.2/系统配置手册/系统设置/系统参数/系统参数"
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "id": "系统扩展指南/nodejs程序配置成windows服务",
+  "title": "nodejs程序配置成windows服务",
+  "description": "## 工具下载",
+  "source": "@site/docs\\系统扩展指南\\nodejs程序配置成windows服务.md",
+  "permalink": "/docs/next/系统扩展指南/nodejs程序配置成windows服务",
+  "editUrl": "https://www.rockwellautomation.com.cn/support.html/edit/master/docs\\系统扩展指南\\nodejs程序配置成windows服务.md",
+  "version": "next",
+  "sidebar": "someSidebar",
+  "previous": {
+    "title": "资产属性终端自定义查询",
+    "permalink": "/docs/next/系统扩展指南/资产属性终端自定义查询"
+  },
+  "next": {
+    "title": "RabbitMQ开发说明",
+    "permalink": "/docs/next/系统扩展指南/RabbitMQ开发说明"
+  }
+}

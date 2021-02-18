@@ -1,0 +1,18 @@
+{
+  "id": "附录/软件和应用升级",
+  "title": "软件和应用升级",
+  "description": "## rockwelltpm需要卸载重装操作步骤",
+  "source": "@site/docs\\附录\\软件和应用升级.md",
+  "permalink": "/docs/next/附录/软件和应用升级",
+  "editUrl": "https://www.rockwellautomation.com.cn/support.html/edit/master/docs\\附录\\软件和应用升级.md",
+  "version": "next",
+  "sidebar": "someSidebar",
+  "previous": {
+    "title": "其它",
+    "permalink": "/docs/next/故障排查指南/其它"
+  },
+  "next": {
+    "title": "大屏配置和使用",
+    "permalink": "/docs/next/附录/大屏配置和使用"
+  }
+}

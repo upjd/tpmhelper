@@ -1,0 +1,18 @@
+{
+  "id": "version-4.0.0/用户使用手册/网页端/用户信息",
+  "title": "用户信息",
+  "description": "用户信息页面会将当前登录用户的基本信息显示出来，登录用户可以在此页面修改邮箱、手机号码、登录头像和密码。密码为登录rockwelltpm系统各个模块的密码，修改完成后单击保存。",
+  "source": "@site/versioned_docs\\version-4.0.0\\用户使用手册\\网页端\\用户信息.md",
+  "permalink": "/docs/4.0.0/用户使用手册/网页端/用户信息",
+  "editUrl": "https://www.rockwellautomation.com.cn/support.html/edit/master/versioned_docs\\version-4.0.0\\用户使用手册\\网页端\\用户信息.md",
+  "version": "4.0.0",
+  "sidebar": "version-4.0.0/someSidebar",
+  "previous": {
+    "title": "排班表",
+    "permalink": "/docs/4.0.0/用户使用手册/网页端/排班表"
+  },
+  "next": {
+    "title": "修改密码",
+    "permalink": "/docs/4.0.0/用户使用手册/网页端/修改密码"
+  }
+}

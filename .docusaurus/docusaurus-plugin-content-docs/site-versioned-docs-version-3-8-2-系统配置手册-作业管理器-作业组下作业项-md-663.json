@@ -1,0 +1,18 @@
+{
+  "id": "version-3.8.2/系统配置手册/作业管理器/作业组下作业项",
+  "title": "作业组下作业项",
+  "description": "作业项是现场作业的最基本元素，它反映了一个单一数据类型的变量，可以是现场作业需要回答的问题或者是需要录入的数据。作业项允许配置作业项逻辑，作为现场作业的知识库，为现场作业人员提供标准化和常规的作业指导。",
+  "source": "@site/versioned_docs\\version-3.8.2\\系统配置手册\\作业管理器\\作业组下作业项.md",
+  "permalink": "/docs/3.8.2/系统配置手册/作业管理器/作业组下作业项",
+  "editUrl": "https://www.rockwellautomation.com.cn/support.html/edit/master/versioned_docs\\version-3.8.2\\系统配置手册\\作业管理器\\作业组下作业项.md",
+  "version": "3.8.2",
+  "sidebar": "version-3.8.2/someSidebar",
+  "previous": {
+    "title": "作业组下作业",
+    "permalink": "/docs/3.8.2/系统配置手册/作业管理器/作业组下作业"
+  },
+  "next": {
+    "title": "内置流程后和终端函数",
+    "permalink": "/docs/3.8.2/系统配置手册/内置流程后和终端函数"
+  }
+}

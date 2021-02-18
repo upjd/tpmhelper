@@ -1,0 +1,18 @@
+{
+  "id": "version-4.0.0/附录/使用超高频标签",
+  "title": "使用超高频标签",
+  "description": "高频标签在罗克韦尔终端，应用必须安装imService.apk  这个服务",
+  "source": "@site/versioned_docs\\version-4.0.0\\附录\\使用超高频标签.md",
+  "permalink": "/docs/4.0.0/附录/使用超高频标签",
+  "editUrl": "https://www.rockwellautomation.com.cn/support.html/edit/master/versioned_docs\\version-4.0.0\\附录\\使用超高频标签.md",
+  "version": "4.0.0",
+  "sidebar": "version-4.0.0/someSidebar",
+  "previous": {
+    "title": "使用RFID或NFC标签",
+    "permalink": "/docs/4.0.0/附录/使用RFID或NFC标签"
+  },
+  "next": {
+    "title": "使用AIC8600测温测振设备",
+    "permalink": "/docs/4.0.0/附录/使用AIC8600测温测振设备"
+  }
+}

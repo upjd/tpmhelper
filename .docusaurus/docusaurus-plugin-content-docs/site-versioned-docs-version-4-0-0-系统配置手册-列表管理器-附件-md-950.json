@@ -1,0 +1,18 @@
+{
+  "id": "version-4.0.0/系统配置手册/列表管理器/附件",
+  "title": "附件",
+  "description": "在rockwelltpm企业移动现场作业管理软件中，使用**附件**可以起到指导现场操作的作用，当巡检员碰到某些无法解决的问题时可以使用添加的**附件**进行查询，快速准确的解决现场问题，**附件**可以是文档也可以是照片，可以是任何一种手持设备可以打开的文件。  ",
+  "source": "@site/versioned_docs\\version-4.0.0\\系统配置手册\\列表管理器\\附件.md",
+  "permalink": "/docs/4.0.0/系统配置手册/列表管理器/附件",
+  "editUrl": "https://www.rockwellautomation.com.cn/support.html/edit/master/versioned_docs\\version-4.0.0\\系统配置手册\\列表管理器\\附件.md",
+  "version": "4.0.0",
+  "sidebar": "version-4.0.0/someSidebar",
+  "previous": {
+    "title": "自定义列表",
+    "permalink": "/docs/4.0.0/系统配置手册/列表管理器/自定义列表"
+  },
+  "next": {
+    "title": "工程单位",
+    "permalink": "/docs/4.0.0/系统配置手册/列表管理器/工程单位"
+  }
+}
