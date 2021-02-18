@@ -54,7 +54,7 @@ This command starts a local development server and open up a browser window. Mos
 
 ## 支持
 
-若有其他任何问题或意见，请联系 [im@idongmobility.com](mailto:im@idongmobility.com)。
+若有其他任何问题或意见，请联系 [qzhang17@ra.rockwell.com](mailto:qzhang17@ra.rockwell.com)。
 
 
 
