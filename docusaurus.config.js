@@ -3,11 +3,11 @@ const versions = require('./versions.json');
 module.exports = {
   title: 'rockwelltpm',
   tagline: '让每一个服务/运维商，都成为智慧的团队',
-  url: 'https://idongmobility.github.io/',
+  url: 'https://upjd.github.io/',
   baseUrl: '/',
   favicon: 'img/favicon.ico',
-  organizationName: 'iDongMobility', // Usually your GitHub org/user name.
-  projectName: 'rockwelltpm-docs', // Usually your repo name.  
+  organizationName: 'upjd', // Usually your GitHub org/user name.
+  projectName: 'tpmhelper', // Usually your repo name.  
   scripts: [
     'https://unpkg.com/vanilla-back-to-top@7.2.1/dist/vanilla-back-to-top.min.js',
     '/js/index.js',
