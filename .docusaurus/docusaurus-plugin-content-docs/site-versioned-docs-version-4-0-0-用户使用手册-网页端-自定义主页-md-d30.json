@@ -1,11 +1,12 @@
 {
   "id": "version-4.0.0/用户使用手册/网页端/自定义主页",
   "title": "自定义主页",
-  "description": "企业运营中心支持用户自定义主页内容，其缺省主页的内容是“我的作业”，列出了与当前用户相关的所有活动中的作业组。这些作业组还在业务流程中流转，并未结束归档。所有归档的作业组不在这里列出，用户可去“报表”中查询“归档作业组”的详情。",
+  "description": "企业运营中心支持用户自定义主页内容，其缺省主页的内容是“我的作业”，列出了与当前用户相关的所有活动中的作业组。这些作业组还在业务流程中流转，并未结束归档。所有归档的作业组不在这里列出，用户可去“报表”中查询“归档作业组”的详情。\r",
   "source": "@site/versioned_docs\\version-4.0.0\\用户使用手册\\网页端\\自定义主页.md",
   "permalink": "/docs/4.0.0/用户使用手册/网页端/自定义主页",
   "editUrl": "https://www.rockwellautomation.com.cn/support.html/edit/master/versioned_docs\\version-4.0.0\\用户使用手册\\网页端\\自定义主页.md",
   "version": "4.0.0",
+  "lastUpdatedAt": 1613647399,
   "sidebar": "version-4.0.0/someSidebar",
   "previous": {
     "title": "登录",

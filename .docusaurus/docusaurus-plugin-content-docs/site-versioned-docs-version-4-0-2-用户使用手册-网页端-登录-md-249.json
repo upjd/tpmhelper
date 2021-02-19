@@ -1,11 +1,12 @@
 {
   "id": "version-4.0.2/用户使用手册/网页端/登录",
   "title": "登录",
-  "description": "* 打开浏览器，在网址栏输入系统服务器地址",
+  "description": "* 打开浏览器，在网址栏输入系统服务器地址\r",
   "source": "@site/versioned_docs\\version-4.0.2\\用户使用手册\\网页端\\登录.md",
   "permalink": "/docs/用户使用手册/网页端/登录",
   "editUrl": "https://www.rockwellautomation.com.cn/support.html/edit/master/versioned_docs\\version-4.0.2\\用户使用手册\\网页端\\登录.md",
   "version": "4.0.2",
+  "lastUpdatedAt": 1613647399,
   "sidebar": "version-4.0.2/someSidebar",
   "previous": {
     "title": "安装RabbitMQ",

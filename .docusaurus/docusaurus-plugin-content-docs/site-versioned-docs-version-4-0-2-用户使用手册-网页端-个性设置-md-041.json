@@ -1,11 +1,12 @@
 {
   "id": "version-4.0.2/用户使用手册/网页端/个性设置",
   "title": "个性设置",
-  "description": "* 个性设置位于顶部导航栏的用户名处。",
+  "description": "* 个性设置位于顶部导航栏的用户名处。\r",
   "source": "@site/versioned_docs\\version-4.0.2\\用户使用手册\\网页端\\个性设置.md",
   "permalink": "/docs/用户使用手册/网页端/个性设置",
   "editUrl": "https://www.rockwellautomation.com.cn/support.html/edit/master/versioned_docs\\version-4.0.2\\用户使用手册\\网页端\\个性设置.md",
   "version": "4.0.2",
+  "lastUpdatedAt": 1613647399,
   "sidebar": "version-4.0.2/someSidebar",
   "previous": {
     "title": "修改密码",

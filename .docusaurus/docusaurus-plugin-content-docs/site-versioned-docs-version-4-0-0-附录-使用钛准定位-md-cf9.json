@@ -1,11 +1,12 @@
 {
   "id": "version-4.0.0/附录/使用钛准定位",
   "title": "使用钛准定位",
-  "description": "## [配置SDC-设置](/系统配置手册/解决方案设置/解决方案设置.md)",
+  "description": "## [配置SDC-设置](/系统配置手册/解决方案设置/解决方案设置.md)\r",
   "source": "@site/versioned_docs\\version-4.0.0\\附录\\使用钛准定位.md",
   "permalink": "/docs/4.0.0/附录/使用钛准定位",
   "editUrl": "https://www.rockwellautomation.com.cn/support.html/edit/master/versioned_docs\\version-4.0.0\\附录\\使用钛准定位.md",
   "version": "4.0.0",
+  "lastUpdatedAt": 1613647399,
   "sidebar": "version-4.0.0/someSidebar",
   "previous": {
     "title": "使用AR智能眼镜和远程指导",

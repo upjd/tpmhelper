@@ -1,11 +1,12 @@
 {
   "id": "用户使用手册/网页端/消息订阅管理",
   "title": "消息订阅管理",
-  "description": "消息订阅管理可以统一的对哪些人员用何种订阅方式来订阅哪些消息类型进行管理。",
+  "description": "消息订阅管理可以统一的对哪些人员用何种订阅方式来订阅哪些消息类型进行管理。\r",
   "source": "@site/docs\\用户使用手册\\网页端\\消息订阅管理.md",
   "permalink": "/docs/next/用户使用手册/网页端/消息订阅管理",
   "editUrl": "https://www.rockwellautomation.com.cn/support.html/edit/master/docs\\用户使用手册\\网页端\\消息订阅管理.md",
   "version": "next",
+  "lastUpdatedAt": 1613647399,
   "sidebar": "someSidebar",
   "previous": {
     "title": "自定义导航",

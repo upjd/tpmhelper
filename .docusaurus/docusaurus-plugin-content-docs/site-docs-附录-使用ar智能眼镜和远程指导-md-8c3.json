@@ -1,11 +1,12 @@
 {
   "id": "附录/使用AR智能眼镜和远程指导",
   "title": "使用AR智能眼镜和远程指导",
-  "description": "## 硬件要求",
+  "description": "## 硬件要求\r",
   "source": "@site/docs\\附录\\使用AR智能眼镜和远程指导.md",
   "permalink": "/docs/next/附录/使用AR智能眼镜和远程指导",
   "editUrl": "https://www.rockwellautomation.com.cn/support.html/edit/master/docs\\附录\\使用AR智能眼镜和远程指导.md",
   "version": "next",
+  "lastUpdatedAt": 1613647399,
   "sidebar": "someSidebar",
   "previous": {
     "title": "使用AIC8600测温测振设备",

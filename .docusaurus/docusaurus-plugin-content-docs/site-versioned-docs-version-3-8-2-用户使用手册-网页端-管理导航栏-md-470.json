@@ -1,11 +1,12 @@
 {
   "id": "version-3.8.2/用户使用手册/网页端/管理导航栏",
   "title": "管理导航栏",
-  "description": "企业运营中心左侧为导航栏，用户可以对各项功能进行操作。也可以通过管理导航栏，来为各功能新建目录，对新建目录的编辑和删除也在管理导航栏中。",
+  "description": "企业运营中心左侧为导航栏，用户可以对各项功能进行操作。也可以通过管理导航栏，来为各功能新建目录，对新建目录的编辑和删除也在管理导航栏中。\r",
   "source": "@site/versioned_docs\\version-3.8.2\\用户使用手册\\网页端\\管理导航栏.md",
   "permalink": "/docs/3.8.2/用户使用手册/网页端/管理导航栏",
   "editUrl": "https://www.rockwellautomation.com.cn/support.html/edit/master/versioned_docs\\version-3.8.2\\用户使用手册\\网页端\\管理导航栏.md",
   "version": "3.8.2",
+  "lastUpdatedAt": 1613647399,
   "sidebar": "version-3.8.2/someSidebar",
   "previous": {
     "title": "自定义主页",

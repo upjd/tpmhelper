@@ -1,11 +1,12 @@
 {
   "id": "version-4.0.2/附录/使用AIC8600测温测振设备",
   "title": "使用AIC8600测温测振设备",
-  "description": "## 安装",
+  "description": "## 安装\r",
   "source": "@site/versioned_docs\\version-4.0.2\\附录\\使用AIC8600测温测振设备.md",
   "permalink": "/docs/附录/使用AIC8600测温测振设备",
   "editUrl": "https://www.rockwellautomation.com.cn/support.html/edit/master/versioned_docs\\version-4.0.2\\附录\\使用AIC8600测温测振设备.md",
   "version": "4.0.2",
+  "lastUpdatedAt": 1613647399,
   "sidebar": "version-4.0.2/someSidebar",
   "previous": {
     "title": "使用超高频标签",

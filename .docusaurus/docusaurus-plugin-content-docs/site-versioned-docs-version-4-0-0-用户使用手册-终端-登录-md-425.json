@@ -1,11 +1,12 @@
 {
   "id": "version-4.0.0/用户使用手册/终端/登录",
   "title": "登录",
-  "description": "**说明：终端APP用户为执行人员需要安装，通常为巡检，维修，监护等现场工作人员**",
+  "description": "**说明：终端APP用户为执行人员需要安装，通常为巡检，维修，监护等现场工作人员**\r",
   "source": "@site/versioned_docs\\version-4.0.0\\用户使用手册\\终端\\登录.md",
   "permalink": "/docs/4.0.0/用户使用手册/终端/登录",
   "editUrl": "https://www.rockwellautomation.com.cn/support.html/edit/master/versioned_docs\\version-4.0.0\\用户使用手册\\终端\\登录.md",
   "version": "4.0.0",
+  "lastUpdatedAt": 1613647399,
   "sidebar": "version-4.0.0/someSidebar",
   "previous": {
     "title": "消息订阅管理",

@@ -1,9 +1,10 @@
 {
   "id": "version-3.8.2/系统扩展指南/主页定制扩展例子",
   "title": "主页定制扩展例子",
-  "description": "## 柱状图展示活动中作业组数",
+  "description": "## 柱状图展示活动中作业组数\r",
   "source": "@site/versioned_docs\\version-3.8.2\\系统扩展指南\\主页定制扩展例子.md",
   "permalink": "/docs/3.8.2/系统扩展指南/主页定制扩展例子",
   "editUrl": "https://www.rockwellautomation.com.cn/support.html/edit/master/versioned_docs\\version-3.8.2\\系统扩展指南\\主页定制扩展例子.md",
-  "version": "3.8.2"
+  "version": "3.8.2",
+  "lastUpdatedAt": 1613647399
 }

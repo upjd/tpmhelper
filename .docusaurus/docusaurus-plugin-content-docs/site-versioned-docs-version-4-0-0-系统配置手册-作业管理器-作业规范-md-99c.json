@@ -1,11 +1,12 @@
 {
   "id": "version-4.0.0/系统配置手册/作业管理器/作业规范",
   "title": "作业规范",
-  "description": "## 新建作业规范",
+  "description": "## 新建作业规范\r",
   "source": "@site/versioned_docs\\version-4.0.0\\系统配置手册\\作业管理器\\作业规范.md",
   "permalink": "/docs/4.0.0/系统配置手册/作业管理器/作业规范",
   "editUrl": "https://www.rockwellautomation.com.cn/support.html/edit/master/versioned_docs\\version-4.0.0\\系统配置手册\\作业管理器\\作业规范.md",
   "version": "4.0.0",
+  "lastUpdatedAt": 1613647399,
   "sidebar": "version-4.0.0/someSidebar",
   "previous": {
     "title": "作业规范概述",

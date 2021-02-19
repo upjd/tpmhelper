@@ -1,11 +1,12 @@
 {
   "id": "version-4.0.2/用户使用手册/网页端/资产位置",
   "title": "资产位置",
-  "description": "资产位置维护用于维护在地图中资产的位置。",
+  "description": "资产位置维护用于维护在地图中资产的位置。\r",
   "source": "@site/versioned_docs\\version-4.0.2\\用户使用手册\\网页端\\资产位置.md",
   "permalink": "/docs/用户使用手册/网页端/资产位置",
   "editUrl": "https://www.rockwellautomation.com.cn/support.html/edit/master/versioned_docs\\version-4.0.2\\用户使用手册\\网页端\\资产位置.md",
   "version": "4.0.2",
+  "lastUpdatedAt": 1613647399,
   "sidebar": "version-4.0.2/someSidebar",
   "previous": {
     "title": "资源",

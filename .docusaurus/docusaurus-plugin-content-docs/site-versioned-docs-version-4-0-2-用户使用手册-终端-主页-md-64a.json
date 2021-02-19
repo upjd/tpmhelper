@@ -1,11 +1,12 @@
 {
   "id": "version-4.0.2/用户使用手册/终端/主页",
   "title": "主页",
-  "description": "* 登录之后主页内容主要分为作业组的状态操作栏，右上角有信息栏和功能菜单。",
+  "description": "* 登录之后主页内容主要分为作业组的状态操作栏，右上角有信息栏和功能菜单。\r",
   "source": "@site/versioned_docs\\version-4.0.2\\用户使用手册\\终端\\主页.md",
   "permalink": "/docs/用户使用手册/终端/主页",
   "editUrl": "https://www.rockwellautomation.com.cn/support.html/edit/master/versioned_docs\\version-4.0.2\\用户使用手册\\终端\\主页.md",
   "version": "4.0.2",
+  "lastUpdatedAt": 1613647399,
   "sidebar": "version-4.0.2/someSidebar",
   "previous": {
     "title": "同步",

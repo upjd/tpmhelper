@@ -1,11 +1,12 @@
 {
   "id": "version-3.8.2/系统扩展指南/与自控系统集成例子",
   "title": "与自控系统集成例子",
-  "description": "本文以通过OPC触发器读取OPC服务器上阀门运行次数或电机运行时间的标记点，当运行次数或者运行时间达到设置值时，从而触发rockwelltpm系统自动产生一个维保任务的实际场景为例，配置步骤如下。",
+  "description": "本文以通过OPC触发器读取OPC服务器上阀门运行次数或电机运行时间的标记点，当运行次数或者运行时间达到设置值时，从而触发rockwelltpm系统自动产生一个维保任务的实际场景为例，配置步骤如下。\r",
   "source": "@site/versioned_docs\\version-3.8.2\\系统扩展指南\\与自控系统集成例子.md",
   "permalink": "/docs/3.8.2/系统扩展指南/与自控系统集成例子",
   "editUrl": "https://www.rockwellautomation.com.cn/support.html/edit/master/versioned_docs\\version-3.8.2\\系统扩展指南\\与自控系统集成例子.md",
   "version": "3.8.2",
+  "lastUpdatedAt": 1613647399,
   "sidebar": "version-3.8.2/someSidebar",
   "previous": {
     "title": "扩展例子",

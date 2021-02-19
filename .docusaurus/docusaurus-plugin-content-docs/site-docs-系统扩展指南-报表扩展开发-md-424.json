@@ -1,11 +1,12 @@
 {
   "id": "系统扩展指南/报表扩展开发",
   "title": "报表扩展开发",
-  "description": "EOC根据扩展包中的`CustomReport.xml`文件来决定报表所使用的前后台。报表扩展按是否使用EOC报表样式分为两种方法：`EOC报表样式`、`自定义样式`",
+  "description": "EOC根据扩展包中的`CustomReport.xml`文件来决定报表所使用的前后台。报表扩展按是否使用EOC报表样式分为两种方法：`EOC报表样式`、`自定义样式`\r",
   "source": "@site/docs\\系统扩展指南\\报表扩展开发.md",
   "permalink": "/docs/next/系统扩展指南/报表扩展开发",
   "editUrl": "https://www.rockwellautomation.com.cn/support.html/edit/master/docs\\系统扩展指南\\报表扩展开发.md",
   "version": "next",
+  "lastUpdatedAt": 1613647399,
   "sidebar": "someSidebar",
   "previous": {
     "title": "流程后函数扩展开发",

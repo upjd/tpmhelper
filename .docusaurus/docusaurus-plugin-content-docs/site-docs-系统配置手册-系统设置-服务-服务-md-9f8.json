@@ -1,11 +1,12 @@
 {
   "id": "系统配置手册/系统设置/服务/服务",
   "title": "服务",
-  "description": "## 内部消息",
+  "description": "## 内部消息\r",
   "source": "@site/docs\\系统配置手册\\系统设置\\服务\\服务.md",
   "permalink": "/docs/next/系统配置手册/系统设置/服务/服务",
   "editUrl": "https://www.rockwellautomation.com.cn/support.html/edit/master/docs\\系统配置手册\\系统设置\\服务\\服务.md",
   "version": "next",
+  "lastUpdatedAt": 1613647399,
   "sidebar": "someSidebar",
   "previous": {
     "title": "授权管理",

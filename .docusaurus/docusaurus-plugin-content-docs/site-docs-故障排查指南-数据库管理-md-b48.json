@@ -1,11 +1,12 @@
 {
   "id": "故障排查指南/数据库管理",
   "title": "数据库管理",
-  "description": "## 数据库连接失败",
+  "description": "## 数据库连接失败\r",
   "source": "@site/docs\\故障排查指南\\数据库管理.md",
   "permalink": "/docs/next/故障排查指南/数据库管理",
   "editUrl": "https://www.rockwellautomation.com.cn/support.html/edit/master/docs\\故障排查指南\\数据库管理.md",
   "version": "next",
+  "lastUpdatedAt": 1613647399,
   "sidebar": "someSidebar",
   "previous": {
     "title": "后台及Restful API",

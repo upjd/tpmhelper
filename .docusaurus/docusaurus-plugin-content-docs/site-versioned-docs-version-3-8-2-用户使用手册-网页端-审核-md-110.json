@@ -1,11 +1,12 @@
 {
   "id": "version-3.8.2/用户使用手册/网页端/审核",
   "title": "审核",
-  "description": "用户在审核页面可以对完成的作业组进行审核，即执行业务流程中的审核活动。",
+  "description": "用户在审核页面可以对完成的作业组进行审核，即执行业务流程中的审核活动。\r",
   "source": "@site/versioned_docs\\version-3.8.2\\用户使用手册\\网页端\\审核.md",
   "permalink": "/docs/3.8.2/用户使用手册/网页端/审核",
   "editUrl": "https://www.rockwellautomation.com.cn/support.html/edit/master/versioned_docs\\version-3.8.2\\用户使用手册\\网页端\\审核.md",
   "version": "3.8.2",
+  "lastUpdatedAt": 1613647399,
   "sidebar": "version-3.8.2/someSidebar",
   "previous": {
     "title": "任务",

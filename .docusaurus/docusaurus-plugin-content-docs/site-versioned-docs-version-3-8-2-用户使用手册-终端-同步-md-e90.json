@@ -1,11 +1,12 @@
 {
   "id": "version-3.8.2/用户使用手册/终端/同步",
   "title": "同步",
-  "description": "* 登陆后如有待执行的作业组，会有提醒，点击同步，即可拿到要执行的作业组",
+  "description": "* 登陆后如有待执行的作业组，会有提醒，点击同步，即可拿到要执行的作业组\r",
   "source": "@site/versioned_docs\\version-3.8.2\\用户使用手册\\终端\\同步.md",
   "permalink": "/docs/3.8.2/用户使用手册/终端/同步",
   "editUrl": "https://www.rockwellautomation.com.cn/support.html/edit/master/versioned_docs\\version-3.8.2\\用户使用手册\\终端\\同步.md",
   "version": "3.8.2",
+  "lastUpdatedAt": 1613647399,
   "sidebar": "version-3.8.2/someSidebar",
   "previous": {
     "title": "配置",

@@ -1,11 +1,12 @@
 {
   "id": "version-3.8.2/用户使用手册/网页端/地图",
   "title": "地图",
-  "description": "地图功能用于查看具体资产和人员相关的作业信息和场景状况。也在报表中作为视图选项查看。分为GPS地图和钛准地图两种，钛准地图主要用于精度要求高的室内作业场景，GPS地图是精度要求低但范围上大的。",
+  "description": "地图功能用于查看具体资产和人员相关的作业信息和场景状况。也在报表中作为视图选项查看。分为GPS地图和钛准地图两种，钛准地图主要用于精度要求高的室内作业场景，GPS地图是精度要求低但范围上大的。\r",
   "source": "@site/versioned_docs\\version-3.8.2\\用户使用手册\\网页端\\地图.md",
   "permalink": "/docs/3.8.2/用户使用手册/网页端/地图",
   "editUrl": "https://www.rockwellautomation.com.cn/support.html/edit/master/versioned_docs\\version-3.8.2\\用户使用手册\\网页端\\地图.md",
   "version": "3.8.2",
+  "lastUpdatedAt": 1613647399,
   "sidebar": "version-3.8.2/someSidebar",
   "previous": {
     "title": "画面监控",

@@ -1,11 +1,12 @@
 {
   "id": "version-3.8.2/用户使用手册/终端/日志",
   "title": "日志",
-  "description": "* 用户登录之后，点击主页下方日志项，进入日志页面，之后点击屏幕下方按钮即可创建新的日志。如果之前有创建过日志，可以在此页面查看。",
+  "description": "* 用户登录之后，点击主页下方日志项，进入日志页面，之后点击屏幕下方按钮即可创建新的日志。如果之前有创建过日志，可以在此页面查看。\r",
   "source": "@site/versioned_docs\\version-3.8.2\\用户使用手册\\终端\\日志.md",
   "permalink": "/docs/3.8.2/用户使用手册/终端/日志",
   "editUrl": "https://www.rockwellautomation.com.cn/support.html/edit/master/versioned_docs\\version-3.8.2\\用户使用手册\\终端\\日志.md",
   "version": "3.8.2",
+  "lastUpdatedAt": 1613647399,
   "sidebar": "version-3.8.2/someSidebar",
   "previous": {
     "title": "审核",

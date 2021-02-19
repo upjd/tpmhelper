@@ -1,11 +1,12 @@
 {
   "id": "version-4.0.2/系统配置手册/组织架构管理器/概述",
   "title": "概述",
-  "description": "* 在rockwelltpm企业移动现场作业管理软件中，**组织架构**基础数据由**组织单元、岗位、用户、业务范畴**构成。",
+  "description": "* 在rockwelltpm企业移动现场作业管理软件中，**组织架构**基础数据由**组织单元、岗位、用户、业务范畴**构成。\r",
   "source": "@site/versioned_docs\\version-4.0.2\\系统配置手册\\组织架构管理器\\概述.md",
   "permalink": "/docs/系统配置手册/组织架构管理器/概述",
   "editUrl": "https://www.rockwellautomation.com.cn/support.html/edit/master/versioned_docs\\version-4.0.2\\系统配置手册\\组织架构管理器\\概述.md",
   "version": "4.0.2",
+  "lastUpdatedAt": 1613647399,
   "sidebar": "version-4.0.2/someSidebar",
   "previous": {
     "title": "资产",

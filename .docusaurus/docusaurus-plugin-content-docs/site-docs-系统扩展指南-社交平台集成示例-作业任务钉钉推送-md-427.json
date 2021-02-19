@@ -1,11 +1,12 @@
 {
   "id": "系统扩展指南/社交平台集成示例-作业任务钉钉推送",
   "title": "社交平台集成示例-作业任务钉钉推送",
-  "description": "## 安装RabbitMQ",
+  "description": "## 安装RabbitMQ\r",
   "source": "@site/docs\\系统扩展指南\\社交平台集成示例-作业任务钉钉推送.md",
   "permalink": "/docs/next/系统扩展指南/社交平台集成示例-作业任务钉钉推送",
   "editUrl": "https://www.rockwellautomation.com.cn/support.html/edit/master/docs\\系统扩展指南\\社交平台集成示例-作业任务钉钉推送.md",
   "version": "next",
+  "lastUpdatedAt": 1613647399,
   "sidebar": "someSidebar",
   "previous": {
     "title": "与自控系统集成例子",

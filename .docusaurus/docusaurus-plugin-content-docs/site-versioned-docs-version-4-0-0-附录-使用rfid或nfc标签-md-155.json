@@ -1,11 +1,12 @@
 {
   "id": "version-4.0.0/附录/使用RFID或NFC标签",
   "title": "使用RFID或NFC标签",
-  "description": "## RFID或NFC标签和[使用条码标签](附录/使用条码标签.md)作业相同",
+  "description": "## RFID或NFC标签和[使用条码标签](附录/使用条码标签.md)作业相同\r",
   "source": "@site/versioned_docs\\version-4.0.0\\附录\\使用RFID或NFC标签.md",
   "permalink": "/docs/4.0.0/附录/使用RFID或NFC标签",
   "editUrl": "https://www.rockwellautomation.com.cn/support.html/edit/master/versioned_docs\\version-4.0.0\\附录\\使用RFID或NFC标签.md",
   "version": "4.0.0",
+  "lastUpdatedAt": 1613647399,
   "sidebar": "version-4.0.0/someSidebar",
   "previous": {
     "title": "使用条码标签",

@@ -144,11 +144,11 @@ export default {
   },
   "title": "rockwelltpm",
   "tagline": "让每一个服务/运维商，都成为智慧的团队",
-  "url": "https://idongmobility.github.io/",
+  "url": "https://upjd.github.io",
   "baseUrl": "/",
   "favicon": "img/favicon.ico",
-  "organizationName": "iDongMobility",
-  "projectName": "rockwelltpm-docs",
+  "organizationName": "upjd",
+  "projectName": "tpmhelper",
   "scripts": [
     "https://unpkg.com/vanilla-back-to-top@7.2.1/dist/vanilla-back-to-top.min.js",
     "/js/index.js"
@@ -158,7 +158,7 @@ export default {
       "@docusaurus/preset-classic",
       {
         "docs": {
-          "sidebarPath": "C:\\Temp\\ratpm\\sidebars.js",
+          "sidebarPath": "C:\\UPJD\\Developer\\tpmhelper\\sidebars.js",
           "editUrl": "https://www.rockwellautomation.com.cn/support.html/edit/master/",
           "showLastUpdateAuthor": false,
           "showLastUpdateTime": true
@@ -168,7 +168,7 @@ export default {
           "editUrl": "https://www.rockwellautomation.com.cn/support.html/edit/master/blog/"
         },
         "theme": {
-          "customCss": "C:\\Temp\\ratpm\\src\\css\\custom.css"
+          "customCss": "C:\\UPJD\\Developer\\tpmhelper\\src\\css\\custom.css"
         }
       }
     ]

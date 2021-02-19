@@ -1,11 +1,12 @@
 {
   "id": "version-4.0.2/系统扩展指南/资产属性终端自定义查询",
   "title": "资产属性终端自定义查询",
-  "description": "本章讲述资产属性自定义查询，支持rockwelltpm V3.2.0及以上版本。",
+  "description": "本章讲述资产属性自定义查询，支持rockwelltpm V3.2.0及以上版本。\r",
   "source": "@site/versioned_docs\\version-4.0.2\\系统扩展指南\\资产属性终端自定义查询.md",
   "permalink": "/docs/系统扩展指南/资产属性终端自定义查询",
   "editUrl": "https://www.rockwellautomation.com.cn/support.html/edit/master/versioned_docs\\version-4.0.2\\系统扩展指南\\资产属性终端自定义查询.md",
   "version": "4.0.2",
+  "lastUpdatedAt": 1613647399,
   "sidebar": "version-4.0.2/someSidebar",
   "previous": {
     "title": "社交平台集成示例-作业任务钉钉推送",

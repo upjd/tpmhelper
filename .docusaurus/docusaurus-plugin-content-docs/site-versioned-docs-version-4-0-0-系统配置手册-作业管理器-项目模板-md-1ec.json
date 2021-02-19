@@ -1,11 +1,12 @@
 {
   "id": "version-4.0.0/系统配置手册/作业管理器/项目模板",
   "title": "项目模板",
-  "description": "## 新建项目模板",
+  "description": "## 新建项目模板\r",
   "source": "@site/versioned_docs\\version-4.0.0\\系统配置手册\\作业管理器\\项目模板.md",
   "permalink": "/docs/4.0.0/系统配置手册/作业管理器/项目模板",
   "editUrl": "https://www.rockwellautomation.com.cn/support.html/edit/master/versioned_docs\\version-4.0.0\\系统配置手册\\作业管理器\\项目模板.md",
   "version": "4.0.0",
+  "lastUpdatedAt": 1613647399,
   "sidebar": "version-4.0.0/someSidebar",
   "previous": {
     "title": "概述",

@@ -1,11 +1,12 @@
 {
   "id": "version-3.8.2/系统扩展指南/nodejs程序配置成windows服务",
   "title": "nodejs程序配置成windows服务",
-  "description": "## 工具下载",
+  "description": "## 工具下载\r",
   "source": "@site/versioned_docs\\version-3.8.2\\系统扩展指南\\nodejs程序配置成windows服务.md",
   "permalink": "/docs/3.8.2/系统扩展指南/nodejs程序配置成windows服务",
   "editUrl": "https://www.rockwellautomation.com.cn/support.html/edit/master/versioned_docs\\version-3.8.2\\系统扩展指南\\nodejs程序配置成windows服务.md",
   "version": "3.8.2",
+  "lastUpdatedAt": 1613647399,
   "sidebar": "version-3.8.2/someSidebar",
   "previous": {
     "title": "资产属性终端自定义查询",

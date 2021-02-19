@@ -1,11 +1,12 @@
 {
   "id": "version-3.8.2/用户使用手册/网页端/系统扩展管理",
   "title": "系统扩展管理",
-  "description": "系统扩展管理用于配置客户自定义报表、终端自定义查询、自定义KPI、终端自定义页面和内置报表自定义列。",
+  "description": "系统扩展管理用于配置客户自定义报表、终端自定义查询、自定义KPI、终端自定义页面和内置报表自定义列。\r",
   "source": "@site/versioned_docs\\version-3.8.2\\用户使用手册\\网页端\\系统扩展管理.md",
   "permalink": "/docs/3.8.2/用户使用手册/网页端/系统扩展管理",
   "editUrl": "https://www.rockwellautomation.com.cn/support.html/edit/master/versioned_docs\\version-3.8.2\\用户使用手册\\网页端\\系统扩展管理.md",
   "version": "3.8.2",
+  "lastUpdatedAt": 1613647399,
   "sidebar": "version-3.8.2/someSidebar",
   "previous": {
     "title": "资产位置维护",

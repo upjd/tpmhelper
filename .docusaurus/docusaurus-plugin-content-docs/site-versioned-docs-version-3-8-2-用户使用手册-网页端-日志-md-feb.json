@@ -1,11 +1,12 @@
 {
   "id": "version-3.8.2/用户使用手册/网页端/日志",
   "title": "日志",
-  "description": "在rockwelltpm企业移动现场作业管理系统中，用户登录FTIS企业运营中心，应用日志页面可以浏览、查询、发布基于资产的日志信息。工程师和操作人员通过日志实现生产信息的交互，突发事件的实时处置以及交接班等生产事件的备忘。",
+  "description": "在rockwelltpm企业移动现场作业管理系统中，用户登录FTIS企业运营中心，应用日志页面可以浏览、查询、发布基于资产的日志信息。工程师和操作人员通过日志实现生产信息的交互，突发事件的实时处置以及交接班等生产事件的备忘。\r",
   "source": "@site/versioned_docs\\version-3.8.2\\用户使用手册\\网页端\\日志.md",
   "permalink": "/docs/3.8.2/用户使用手册/网页端/日志",
   "editUrl": "https://www.rockwellautomation.com.cn/support.html/edit/master/versioned_docs\\version-3.8.2\\用户使用手册\\网页端\\日志.md",
   "version": "3.8.2",
+  "lastUpdatedAt": 1613647399,
   "sidebar": "version-3.8.2/someSidebar",
   "previous": {
     "title": "分析",

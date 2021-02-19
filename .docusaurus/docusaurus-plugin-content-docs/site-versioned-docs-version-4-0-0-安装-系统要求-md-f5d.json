@@ -1,11 +1,12 @@
 {
   "id": "version-4.0.0/安装/系统要求",
   "title": "系统要求",
-  "description": "本节提供安装rockwelltpm企业移动现场作业管理软件的软硬件要求。",
+  "description": "本节提供安装rockwelltpm企业移动现场作业管理软件的软硬件要求。\r",
   "source": "@site/versioned_docs\\version-4.0.0\\安装\\系统要求.md",
   "permalink": "/docs/4.0.0/安装/系统要求",
   "editUrl": "https://www.rockwellautomation.com.cn/support.html/edit/master/versioned_docs\\version-4.0.0\\安装\\系统要求.md",
   "version": "4.0.0",
+  "lastUpdatedAt": 1613647399,
   "sidebar": "version-4.0.0/someSidebar",
   "previous": {
     "title": "应用场景",

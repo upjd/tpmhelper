@@ -1,11 +1,12 @@
 {
   "id": "故障排查指南/移动工作站",
   "title": "移动工作站",
-  "description": "## 终端",
+  "description": "## 终端\r",
   "source": "@site/docs\\故障排查指南\\移动工作站.md",
   "permalink": "/docs/next/故障排查指南/移动工作站",
   "editUrl": "https://www.rockwellautomation.com.cn/support.html/edit/master/docs\\故障排查指南\\移动工作站.md",
   "version": "next",
+  "lastUpdatedAt": 1613647399,
   "sidebar": "someSidebar",
   "previous": {
     "title": "4.0.2发布说明",

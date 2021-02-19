@@ -1,11 +1,12 @@
 {
   "id": "version-4.0.0/附录/软件和应用升级",
   "title": "软件和应用升级",
-  "description": "## rockwelltpm需要卸载重装操作步骤",
+  "description": "## rockwelltpm需要卸载重装操作步骤\r",
   "source": "@site/versioned_docs\\version-4.0.0\\附录\\软件和应用升级.md",
   "permalink": "/docs/4.0.0/附录/软件和应用升级",
   "editUrl": "https://www.rockwellautomation.com.cn/support.html/edit/master/versioned_docs\\version-4.0.0\\附录\\软件和应用升级.md",
   "version": "4.0.0",
+  "lastUpdatedAt": 1613647399,
   "sidebar": "version-4.0.0/someSidebar",
   "previous": {
     "title": "4.0.0发布说明",

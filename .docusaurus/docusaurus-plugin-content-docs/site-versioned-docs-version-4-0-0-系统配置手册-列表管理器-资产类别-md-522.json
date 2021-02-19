@@ -1,11 +1,12 @@
 {
   "id": "version-4.0.0/系统配置手册/列表管理器/资产类别",
   "title": "资产类别",
-  "description": "在rockwelltpm企业移动现场作业管理软件中，将有相同现场作业要求的资产归为一个**资产类别**。在rockwelltpm中**资产类别**不能包含**资产类别**。属于同一个类别的**资产**称为此**资产类别**的相关资产。",
+  "description": "在rockwelltpm企业移动现场作业管理软件中，将有相同现场作业要求的资产归为一个**资产类别**。在rockwelltpm中**资产类别**不能包含**资产类别**。属于同一个类别的**资产**称为此**资产类别**的相关资产。\r",
   "source": "@site/versioned_docs\\version-4.0.0\\系统配置手册\\列表管理器\\资产类别.md",
   "permalink": "/docs/4.0.0/系统配置手册/列表管理器/资产类别",
   "editUrl": "https://www.rockwellautomation.com.cn/support.html/edit/master/versioned_docs\\version-4.0.0\\系统配置手册\\列表管理器\\资产类别.md",
   "version": "4.0.0",
+  "lastUpdatedAt": 1613647399,
   "sidebar": "version-4.0.0/someSidebar",
   "previous": {
     "title": "轮班",

@@ -1,11 +1,12 @@
 {
   "id": "故障排查指南/解决方案管理中心",
   "title": "解决方案管理中心",
-  "description": "## 现象: 在恢复数据库后，在SMC上部署数据中心时会报错（错误与下图相同）",
+  "description": "## 现象: 在恢复数据库后，在SMC上部署数据中心时会报错（错误与下图相同）\r",
   "source": "@site/docs\\故障排查指南\\解决方案管理中心.md",
   "permalink": "/docs/next/故障排查指南/解决方案管理中心",
   "editUrl": "https://www.rockwellautomation.com.cn/support.html/edit/master/docs\\故障排查指南\\解决方案管理中心.md",
   "version": "next",
+  "lastUpdatedAt": 1613647399,
   "sidebar": "someSidebar",
   "previous": {
     "title": "解决方案开发中心",

@@ -1,11 +1,12 @@
 {
   "id": "version-3.8.2/用户使用手册/网页端/画面监控",
   "title": "画面监控",
-  "description": "画面监控页面提供了经过画面配置之后的效果。",
+  "description": "画面监控页面提供了经过画面配置之后的效果。\r",
   "source": "@site/versioned_docs\\version-3.8.2\\用户使用手册\\网页端\\画面监控.md",
   "permalink": "/docs/3.8.2/用户使用手册/网页端/画面监控",
   "editUrl": "https://www.rockwellautomation.com.cn/support.html/edit/master/versioned_docs\\version-3.8.2\\用户使用手册\\网页端\\画面监控.md",
   "version": "3.8.2",
+  "lastUpdatedAt": 1613647399,
   "sidebar": "version-3.8.2/someSidebar",
   "previous": {
     "title": "画面配置",

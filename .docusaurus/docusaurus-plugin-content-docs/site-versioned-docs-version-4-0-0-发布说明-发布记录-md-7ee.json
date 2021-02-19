@@ -1,11 +1,12 @@
 {
   "id": "version-4.0.0/发布说明/发布记录",
   "title": "发布记录",
-  "description": "## 4.0.0",
+  "description": "## 4.0.0\r",
   "source": "@site/versioned_docs\\version-4.0.0\\发布说明\\发布记录.md",
   "permalink": "/docs/4.0.0/发布说明/发布记录",
   "editUrl": "https://www.rockwellautomation.com.cn/support.html/edit/master/versioned_docs\\version-4.0.0\\发布说明\\发布记录.md",
   "version": "4.0.0",
+  "lastUpdatedAt": 1613647399,
   "sidebar": "version-4.0.0/someSidebar",
   "previous": {
     "title": "RabbitMQ开发说明",

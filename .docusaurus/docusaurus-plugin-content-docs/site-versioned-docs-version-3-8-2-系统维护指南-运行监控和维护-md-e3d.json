@@ -1,11 +1,12 @@
 {
   "id": "version-3.8.2/系统维护指南/运行监控和维护",
   "title": "运行监控和维护",
-  "description": "## 保持SMC-FTIS系统管理中心六大服务的正常运行。",
+  "description": "## 保持SMC-FTIS系统管理中心六大服务的正常运行。\r",
   "source": "@site/versioned_docs\\version-3.8.2\\系统维护指南\\运行监控和维护.md",
   "permalink": "/docs/3.8.2/系统维护指南/运行监控和维护",
   "editUrl": "https://www.rockwellautomation.com.cn/support.html/edit/master/versioned_docs\\version-3.8.2\\系统维护指南\\运行监控和维护.md",
   "version": "3.8.2",
+  "lastUpdatedAt": 1613647399,
   "sidebar": "version-3.8.2/someSidebar",
   "previous": {
     "title": "安全作业模板",

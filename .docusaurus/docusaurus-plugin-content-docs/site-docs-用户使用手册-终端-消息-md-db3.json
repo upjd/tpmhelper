@@ -1,11 +1,12 @@
 {
   "id": "用户使用手册/终端/消息",
   "title": "消息",
-  "description": "* 用户在登录之后，可以自行订阅消息。消息订阅主要对有些作业组待执行待审核等情况下，及时让相关用户收到提醒。",
+  "description": "* 用户在登录之后，可以自行订阅消息。消息订阅主要对有些作业组待执行待审核等情况下，及时让相关用户收到提醒。\r",
   "source": "@site/docs\\用户使用手册\\终端\\消息.md",
   "permalink": "/docs/next/用户使用手册/终端/消息",
   "editUrl": "https://www.rockwellautomation.com.cn/support.html/edit/master/docs\\用户使用手册\\终端\\消息.md",
   "version": "next",
+  "lastUpdatedAt": 1613647399,
   "sidebar": "someSidebar",
   "previous": {
     "title": "日志",

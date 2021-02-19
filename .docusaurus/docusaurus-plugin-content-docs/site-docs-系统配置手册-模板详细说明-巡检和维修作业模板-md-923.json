@@ -1,11 +1,12 @@
 {
   "id": "系统配置手册/模板详细说明/巡检和维修作业模板",
   "title": "巡检和维修作业模板",
-  "description": "## 描述",
+  "description": "## 描述\r",
   "source": "@site/docs\\系统配置手册\\模板详细说明\\巡检和维修作业模板.md",
   "permalink": "/docs/next/系统配置手册/模板详细说明/巡检和维修作业模板",
   "editUrl": "https://www.rockwellautomation.com.cn/support.html/edit/master/docs\\系统配置手册\\模板详细说明\\巡检和维修作业模板.md",
   "version": "next",
+  "lastUpdatedAt": 1613647399,
   "sidebar": "someSidebar",
   "previous": {
     "title": "基础模板",

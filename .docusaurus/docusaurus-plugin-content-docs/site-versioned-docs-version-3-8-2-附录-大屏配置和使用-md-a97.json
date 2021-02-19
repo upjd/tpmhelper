@@ -1,11 +1,12 @@
 {
   "id": "version-3.8.2/附录/大屏配置和使用",
   "title": "大屏配置和使用",
-  "description": "## 软件安装",
+  "description": "## 软件安装\r",
   "source": "@site/versioned_docs\\version-3.8.2\\附录\\大屏配置和使用.md",
   "permalink": "/docs/3.8.2/附录/大屏配置和使用",
   "editUrl": "https://www.rockwellautomation.com.cn/support.html/edit/master/versioned_docs\\version-3.8.2\\附录\\大屏配置和使用.md",
   "version": "3.8.2",
+  "lastUpdatedAt": 1613647399,
   "sidebar": "version-3.8.2/someSidebar",
   "previous": {
     "title": "软件和应用升级",

@@ -1,11 +1,12 @@
 {
   "id": "发布说明/发布记录",
   "title": "发布记录",
-  "description": "## 4.0.2",
+  "description": "## 4.0.2\r",
   "source": "@site/docs\\发布说明\\发布记录.md",
   "permalink": "/docs/next/发布说明/发布记录",
   "editUrl": "https://www.rockwellautomation.com.cn/support.html/edit/master/docs\\发布说明\\发布记录.md",
   "version": "next",
+  "lastUpdatedAt": 1613647399,
   "sidebar": "someSidebar",
   "previous": {
     "title": "维护最佳实践",

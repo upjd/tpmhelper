@@ -1,11 +1,12 @@
 {
   "id": "version-4.0.0/附录/常见问题",
   "title": "常见问题",
-  "description": "## 终端",
+  "description": "## 终端\r",
   "source": "@site/versioned_docs\\version-4.0.0\\附录\\常见问题.md",
   "permalink": "/docs/4.0.0/附录/常见问题",
   "editUrl": "https://www.rockwellautomation.com.cn/support.html/edit/master/versioned_docs\\version-4.0.0\\附录\\常见问题.md",
   "version": "4.0.0",
+  "lastUpdatedAt": 1613647399,
   "sidebar": "version-4.0.0/someSidebar",
   "previous": {
     "title": "使用钛准定位",

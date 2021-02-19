@@ -1,11 +1,12 @@
 {
   "id": "version-3.8.2/系统配置手册/模板详细说明/基础模板",
   "title": "基础模板",
-  "description": "在SDC新建解决方案时，可以选择空白方案，即没有基本的一些常用内容。还可以选择有基本内容的基础模板，这里详细说明一下基础模板相关。",
+  "description": "在SDC新建解决方案时，可以选择空白方案，即没有基本的一些常用内容。还可以选择有基本内容的基础模板，这里详细说明一下基础模板相关。\r",
   "source": "@site/versioned_docs\\version-3.8.2\\系统配置手册\\模板详细说明\\基础模板.md",
   "permalink": "/docs/3.8.2/系统配置手册/模板详细说明/基础模板",
   "editUrl": "https://www.rockwellautomation.com.cn/support.html/edit/master/versioned_docs\\version-3.8.2\\系统配置手册\\模板详细说明\\基础模板.md",
   "version": "3.8.2",
+  "lastUpdatedAt": 1613647399,
   "sidebar": "version-3.8.2/someSidebar",
   "previous": {
     "title": "概述",

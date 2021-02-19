@@ -1,11 +1,12 @@
 {
   "id": "version-4.0.0/用户使用手册/网页端/知识库",
   "title": "知识库",
-  "description": "知识库是rockwelltpm企业移动现场作业管理系统提供的一个基于网页、面向用户的积累企业知识文化，分享传承工作经验的应用平台。知识库可以帮助企业建立企业知识结构、分类存储知识数据、共享知识应用、提升企业管理效率、增值企业知识资产。",
+  "description": "知识库是rockwelltpm企业移动现场作业管理系统提供的一个基于网页、面向用户的积累企业知识文化，分享传承工作经验的应用平台。知识库可以帮助企业建立企业知识结构、分类存储知识数据、共享知识应用、提升企业管理效率、增值企业知识资产。\r",
   "source": "@site/versioned_docs\\version-4.0.0\\用户使用手册\\网页端\\知识库.md",
   "permalink": "/docs/4.0.0/用户使用手册/网页端/知识库",
   "editUrl": "https://www.rockwellautomation.com.cn/support.html/edit/master/versioned_docs\\version-4.0.0\\用户使用手册\\网页端\\知识库.md",
   "version": "4.0.0",
+  "lastUpdatedAt": 1613647399,
   "sidebar": "version-4.0.0/someSidebar",
   "previous": {
     "title": "日志",

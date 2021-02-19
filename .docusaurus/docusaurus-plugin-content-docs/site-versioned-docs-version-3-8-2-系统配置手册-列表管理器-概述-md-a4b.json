@@ -1,11 +1,12 @@
 {
   "id": "version-3.8.2/系统配置手册/列表管理器/概述",
   "title": "概述",
-  "description": "在rockwelltpm企业移动现场作业管理软件中，企业实际生产活动涉及的设备**资产**、生产**轮班**制度、列表类型的数据、使用的**工程单位**等数据使用**列表管理器**来预设并进行管理，这些预设数据将用于解决方案的开发，列表管理器将其分属为七个类别：**资产、资产类别、轮班、自定义列表、例外等级、工程单位、附件、全局属性模板**。",
+  "description": "在rockwelltpm企业移动现场作业管理软件中，企业实际生产活动涉及的设备**资产**、生产**轮班**制度、列表类型的数据、使用的**工程单位**等数据使用**列表管理器**来预设并进行管理，这些预设数据将用于解决方案的开发，列表管理器将其分属为七个类别：**资产、资产类别、轮班、自定义列表、例外等级、工程单位、附件、全局属性模板**。\r",
   "source": "@site/versioned_docs\\version-3.8.2\\系统配置手册\\列表管理器\\概述.md",
   "permalink": "/docs/3.8.2/系统配置手册/列表管理器/概述",
   "editUrl": "https://www.rockwellautomation.com.cn/support.html/edit/master/versioned_docs\\version-3.8.2\\系统配置手册\\列表管理器\\概述.md",
   "version": "3.8.2",
+  "lastUpdatedAt": 1613647399,
   "sidebar": "version-3.8.2/someSidebar",
   "previous": {
     "title": "解决方案设置",

@@ -1,11 +1,12 @@
 {
   "id": "系统扩展指南/分析扩展开发",
   "title": "分析扩展开发",
-  "description": ":::warning 注意",
+  "description": ":::warning 注意\r",
   "source": "@site/docs\\系统扩展指南\\分析扩展开发.md",
   "permalink": "/docs/next/系统扩展指南/分析扩展开发",
   "editUrl": "https://www.rockwellautomation.com.cn/support.html/edit/master/docs\\系统扩展指南\\分析扩展开发.md",
   "version": "next",
+  "lastUpdatedAt": 1613647399,
   "sidebar": "someSidebar",
   "previous": {
     "title": "报表扩展开发",

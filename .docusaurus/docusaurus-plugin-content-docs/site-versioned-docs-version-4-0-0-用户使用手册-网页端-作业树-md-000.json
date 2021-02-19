@@ -1,11 +1,12 @@
 {
   "id": "version-4.0.0/用户使用手册/网页端/作业树",
   "title": "作业树",
-  "description": "作业树包含了一个作业组的详细信息，包括其下所有作业和作业项。详细信息包括该作业组相关的所有运行信息，每个活动的结果，现场作业的结果和例外，各项的配置信息以及作业项的历史数据等。",
+  "description": "作业树包含了一个作业组的详细信息，包括其下所有作业和作业项。详细信息包括该作业组相关的所有运行信息，每个活动的结果，现场作业的结果和例外，各项的配置信息以及作业项的历史数据等。\r",
   "source": "@site/versioned_docs\\version-4.0.0\\用户使用手册\\网页端\\作业树.md",
   "permalink": "/docs/4.0.0/用户使用手册/网页端/作业树",
   "editUrl": "https://www.rockwellautomation.com.cn/support.html/edit/master/versioned_docs\\version-4.0.0\\用户使用手册\\网页端\\作业树.md",
   "version": "4.0.0",
+  "lastUpdatedAt": 1613647399,
   "sidebar": "version-4.0.0/someSidebar",
   "previous": {
     "title": "审核",

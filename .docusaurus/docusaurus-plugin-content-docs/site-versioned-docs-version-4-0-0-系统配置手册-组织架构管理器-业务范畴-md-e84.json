@@ -1,11 +1,12 @@
 {
   "id": "version-4.0.0/系统配置手册/组织架构管理器/业务范畴",
   "title": "业务范畴",
-  "description": "在rockwelltpm企业移动现场作业管理软件中，当使用**组织架构**和**岗位**还不足以来定义一个企业的**组织架构**基础数据时，可以使用**组织架构管理器**中的**业务范畴**选项卡定义**业务范畴**，每个**业务范畴**都为**组织架构**基础数据添加一个维度。**业务范畴**是一个列表视图。",
+  "description": "在rockwelltpm企业移动现场作业管理软件中，当使用**组织架构**和**岗位**还不足以来定义一个企业的**组织架构**基础数据时，可以使用**组织架构管理器**中的**业务范畴**选项卡定义**业务范畴**，每个**业务范畴**都为**组织架构**基础数据添加一个维度。**业务范畴**是一个列表视图。\r",
   "source": "@site/versioned_docs\\version-4.0.0\\系统配置手册\\组织架构管理器\\业务范畴.md",
   "permalink": "/docs/4.0.0/系统配置手册/组织架构管理器/业务范畴",
   "editUrl": "https://www.rockwellautomation.com.cn/support.html/edit/master/versioned_docs\\version-4.0.0\\系统配置手册\\组织架构管理器\\业务范畴.md",
   "version": "4.0.0",
+  "lastUpdatedAt": 1613647399,
   "sidebar": "version-4.0.0/someSidebar",
   "previous": {
     "title": "概述",

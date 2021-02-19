@@ -1,11 +1,12 @@
 {
   "id": "version-4.0.2/用户使用手册/网页端/画面",
   "title": "画面",
-  "description": "### 画面配置",
+  "description": "### 画面配置\r",
   "source": "@site/versioned_docs\\version-4.0.2\\用户使用手册\\网页端\\画面.md",
   "permalink": "/docs/用户使用手册/网页端/画面",
   "editUrl": "https://www.rockwellautomation.com.cn/support.html/edit/master/versioned_docs\\version-4.0.2\\用户使用手册\\网页端\\画面.md",
   "version": "4.0.2",
+  "lastUpdatedAt": 1613647399,
   "sidebar": "version-4.0.2/someSidebar",
   "previous": {
     "title": "库存导入",

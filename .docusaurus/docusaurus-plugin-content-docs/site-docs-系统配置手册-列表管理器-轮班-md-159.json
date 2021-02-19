@@ -1,11 +1,12 @@
 {
   "id": "系统配置手册/列表管理器/轮班",
   "title": "轮班",
-  "description": "企业移动现场作业管理软件中，使用**列表管理器**的**轮班**选项卡来制定**轮班**制度。",
+  "description": "企业移动现场作业管理软件中，使用**列表管理器**的**轮班**选项卡来制定**轮班**制度。\r",
   "source": "@site/docs\\系统配置手册\\列表管理器\\轮班.md",
   "permalink": "/docs/next/系统配置手册/列表管理器/轮班",
   "editUrl": "https://www.rockwellautomation.com.cn/support.html/edit/master/docs\\系统配置手册\\列表管理器\\轮班.md",
   "version": "next",
+  "lastUpdatedAt": 1613647399,
   "sidebar": "someSidebar",
   "previous": {
     "title": "全局属性模板",

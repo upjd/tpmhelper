@@ -1,11 +1,12 @@
 {
   "id": "安装/安装",
   "title": "安装",
-  "description": "## 安装前准备",
+  "description": "## 安装前准备\r",
   "source": "@site/docs\\安装\\安装.md",
   "permalink": "/docs/next/安装/安装",
   "editUrl": "https://www.rockwellautomation.com.cn/support.html/edit/master/docs\\安装\\安装.md",
   "version": "next",
+  "lastUpdatedAt": 1613647399,
   "sidebar": "someSidebar",
   "previous": {
     "title": "系统要求",

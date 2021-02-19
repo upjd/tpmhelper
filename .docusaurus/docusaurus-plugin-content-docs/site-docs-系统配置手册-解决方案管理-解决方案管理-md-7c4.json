@@ -1,11 +1,12 @@
 {
   "id": "系统配置手册/解决方案管理/解决方案管理",
   "title": "解决方案管理",
-  "description": "## 新建/删除解决方案",
+  "description": "## 新建/删除解决方案\r",
   "source": "@site/docs\\系统配置手册\\解决方案管理\\解决方案管理.md",
   "permalink": "/docs/next/系统配置手册/解决方案管理/解决方案管理",
   "editUrl": "https://www.rockwellautomation.com.cn/support.html/edit/master/docs\\系统配置手册\\解决方案管理\\解决方案管理.md",
   "version": "next",
+  "lastUpdatedAt": 1613647399,
   "sidebar": "someSidebar",
   "previous": {
     "title": "数据库管理",

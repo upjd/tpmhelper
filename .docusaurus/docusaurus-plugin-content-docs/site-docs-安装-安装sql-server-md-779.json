@@ -1,11 +1,12 @@
 {
   "id": "安装/安装SQLServer",
   "title": "安装SQLServer",
-  "description": "**SQL Server以2017为例，在安装组件中如下配置：**",
+  "description": "**SQL Server以2017为例，在安装组件中如下配置：**\r",
   "source": "@site/docs\\安装\\安装SQLServer.md",
   "permalink": "/docs/next/安装/安装SQLServer",
   "editUrl": "https://www.rockwellautomation.com.cn/support.html/edit/master/docs\\安装\\安装SQLServer.md",
   "version": "next",
+  "lastUpdatedAt": 1613647399,
   "sidebar": "someSidebar",
   "previous": {
     "title": "安装",

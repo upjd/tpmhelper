@@ -1,11 +1,12 @@
 {
   "id": "version-3.8.2/附录/使用超高频标签",
   "title": "使用超高频标签",
-  "description": "高频标签在罗克韦尔终端，应用必须安装imService.apk  这个服务",
+  "description": "高频标签在罗克韦尔终端，应用必须安装imService.apk  这个服务\r",
   "source": "@site/versioned_docs\\version-3.8.2\\附录\\使用超高频标签.md",
   "permalink": "/docs/3.8.2/附录/使用超高频标签",
   "editUrl": "https://www.rockwellautomation.com.cn/support.html/edit/master/versioned_docs\\version-3.8.2\\附录\\使用超高频标签.md",
   "version": "3.8.2",
+  "lastUpdatedAt": 1613647399,
   "sidebar": "version-3.8.2/someSidebar",
   "previous": {
     "title": "使用RFID或NFC标签",

@@ -1,11 +1,12 @@
 {
   "id": "用户使用手册/网页端/审核",
   "title": "审核",
-  "description": "用户在审核页面可以对完成的作业组进行审核，即执行业务流程中的审核活动。",
+  "description": "用户在审核页面可以对完成的作业组进行审核，即执行业务流程中的审核活动。\r",
   "source": "@site/docs\\用户使用手册\\网页端\\审核.md",
   "permalink": "/docs/next/用户使用手册/网页端/审核",
   "editUrl": "https://www.rockwellautomation.com.cn/support.html/edit/master/docs\\用户使用手册\\网页端\\审核.md",
   "version": "next",
+  "lastUpdatedAt": 1613647399,
   "sidebar": "someSidebar",
   "previous": {
     "title": "任务",

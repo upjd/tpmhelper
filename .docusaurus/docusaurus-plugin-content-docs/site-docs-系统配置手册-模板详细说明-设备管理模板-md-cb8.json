@@ -1,11 +1,12 @@
 {
   "id": "系统配置手册/模板详细说明/设备管理模板",
   "title": "设备管理模板",
-  "description": "## 概述",
+  "description": "## 概述\r",
   "source": "@site/docs\\系统配置手册\\模板详细说明\\设备管理模板.md",
   "permalink": "/docs/next/系统配置手册/模板详细说明/设备管理模板",
   "editUrl": "https://www.rockwellautomation.com.cn/support.html/edit/master/docs\\系统配置手册\\模板详细说明\\设备管理模板.md",
   "version": "next",
+  "lastUpdatedAt": 1613647399,
   "sidebar": "someSidebar",
   "previous": {
     "title": "巡检和维修作业模板",

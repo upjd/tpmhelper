@@ -1,11 +1,12 @@
 {
   "id": "用户使用手册/终端/配置",
   "title": "配置",
-  "description": "* 终端连接配置：",
+  "description": "* 终端连接配置：\r",
   "source": "@site/docs\\用户使用手册\\终端\\配置.md",
   "permalink": "/docs/next/用户使用手册/终端/配置",
   "editUrl": "https://www.rockwellautomation.com.cn/support.html/edit/master/docs\\用户使用手册\\终端\\配置.md",
   "version": "next",
+  "lastUpdatedAt": 1613647399,
   "sidebar": "someSidebar",
   "previous": {
     "title": "登录",

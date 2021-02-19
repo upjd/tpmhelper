@@ -1,11 +1,12 @@
 {
   "id": "version-4.0.2/用户使用手册/网页端/修改密码",
   "title": "修改密码",
-  "description": "当前登录用户需要修改密码时，可以在用户菜单栏中选择修改密码。",
+  "description": "当前登录用户需要修改密码时，可以在用户菜单栏中选择修改密码。\r",
   "source": "@site/versioned_docs\\version-4.0.2\\用户使用手册\\网页端\\修改密码.md",
   "permalink": "/docs/用户使用手册/网页端/修改密码",
   "editUrl": "https://www.rockwellautomation.com.cn/support.html/edit/master/versioned_docs\\version-4.0.2\\用户使用手册\\网页端\\修改密码.md",
   "version": "4.0.2",
+  "lastUpdatedAt": 1613647399,
   "sidebar": "version-4.0.2/someSidebar",
   "previous": {
     "title": "用户信息",

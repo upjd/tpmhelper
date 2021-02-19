@@ -1,11 +1,12 @@
 {
   "id": "version-3.8.2/系统配置手册/组织架构管理器/组织单元",
   "title": "组织单元",
-  "description": "**组织单元**可以包含**组织单元**。这些**组织单元**数据在**组织单元**选项卡内以树状视图的形式存在。",
+  "description": "**组织单元**可以包含**组织单元**。这些**组织单元**数据在**组织单元**选项卡内以树状视图的形式存在。\r",
   "source": "@site/versioned_docs\\version-3.8.2\\系统配置手册\\组织架构管理器\\组织单元.md",
   "permalink": "/docs/3.8.2/系统配置手册/组织架构管理器/组织单元",
   "editUrl": "https://www.rockwellautomation.com.cn/support.html/edit/master/versioned_docs\\version-3.8.2\\系统配置手册\\组织架构管理器\\组织单元.md",
   "version": "3.8.2",
+  "lastUpdatedAt": 1613647399,
   "sidebar": "version-3.8.2/someSidebar",
   "previous": {
     "title": "岗位",

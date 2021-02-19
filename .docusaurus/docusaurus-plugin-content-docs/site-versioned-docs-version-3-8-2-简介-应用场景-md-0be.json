@@ -1,11 +1,12 @@
 {
   "id": "version-3.8.2/简介/应用场景",
   "title": "应用场景",
-  "description": "## 基础设施运维管理",
+  "description": "## 基础设施运维管理\r",
   "source": "@site/versioned_docs\\version-3.8.2\\简介\\应用场景.md",
   "permalink": "/docs/3.8.2/简介/应用场景",
   "editUrl": "https://www.rockwellautomation.com.cn/support.html/edit/master/versioned_docs\\version-3.8.2\\简介\\应用场景.md",
   "version": "3.8.2",
+  "lastUpdatedAt": 1613647399,
   "sidebar": "version-3.8.2/someSidebar",
   "previous": {
     "title": "优势",

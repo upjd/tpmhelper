@@ -1,11 +1,12 @@
 {
   "id": "用户使用手册/网页端/登录",
   "title": "登录",
-  "description": "* 打开浏览器，在网址栏输入系统服务器地址",
+  "description": "* 打开浏览器，在网址栏输入系统服务器地址\r",
   "source": "@site/docs\\用户使用手册\\网页端\\登录.md",
   "permalink": "/docs/next/用户使用手册/网页端/登录",
   "editUrl": "https://www.rockwellautomation.com.cn/support.html/edit/master/docs\\用户使用手册\\网页端\\登录.md",
   "version": "next",
+  "lastUpdatedAt": 1613647399,
   "sidebar": "someSidebar",
   "previous": {
     "title": "报表和分析",

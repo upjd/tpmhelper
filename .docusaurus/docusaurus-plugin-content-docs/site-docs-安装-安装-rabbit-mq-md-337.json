@@ -1,11 +1,12 @@
 {
   "id": "安装/安装RabbitMQ",
   "title": "安装RabbitMQ",
-  "description": "## 安装Erlang环境",
+  "description": "## 安装Erlang环境\r",
   "source": "@site/docs\\安装\\安装RabbitMQ.md",
   "permalink": "/docs/next/安装/安装RabbitMQ",
   "editUrl": "https://www.rockwellautomation.com.cn/support.html/edit/master/docs\\安装\\安装RabbitMQ.md",
   "version": "next",
+  "lastUpdatedAt": 1613647399,
   "sidebar": "someSidebar",
   "previous": {
     "title": "安装MongoDB",

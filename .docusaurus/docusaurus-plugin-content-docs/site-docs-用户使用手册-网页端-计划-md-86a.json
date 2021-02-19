@@ -1,11 +1,12 @@
 {
   "id": "用户使用手册/网页端/计划",
   "title": "计划",
-  "description": "用户登录企业运营中心后，在计划页面可以对作业组进行计划排程，即执行业务流程中的计划活动。",
+  "description": "用户登录企业运营中心后，在计划页面可以对作业组进行计划排程，即执行业务流程中的计划活动。\r",
   "source": "@site/docs\\用户使用手册\\网页端\\计划.md",
   "permalink": "/docs/next/用户使用手册/网页端/计划",
   "editUrl": "https://www.rockwellautomation.com.cn/support.html/edit/master/docs\\用户使用手册\\网页端\\计划.md",
   "version": "next",
+  "lastUpdatedAt": 1613647399,
   "sidebar": "someSidebar",
   "previous": {
     "title": "项目",

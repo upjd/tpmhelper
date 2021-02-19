@@ -1,11 +1,12 @@
 {
   "id": "version-4.0.0/用户使用手册/网页端/权限设置",
   "title": "权限设置",
-  "description": "权限设置主要用来管理和配置库存各功能的管理员，和知识库是否需要审核、管理员是谁。",
+  "description": "权限设置主要用来管理和配置库存各功能的管理员，和知识库是否需要审核、管理员是谁。\r",
   "source": "@site/versioned_docs\\version-4.0.0\\用户使用手册\\网页端\\权限设置.md",
   "permalink": "/docs/4.0.0/用户使用手册/网页端/权限设置",
   "editUrl": "https://www.rockwellautomation.com.cn/support.html/edit/master/versioned_docs\\version-4.0.0\\用户使用手册\\网页端\\权限设置.md",
   "version": "4.0.0",
+  "lastUpdatedAt": 1613647399,
   "sidebar": "version-4.0.0/someSidebar",
   "previous": {
     "title": "消息类型管理",

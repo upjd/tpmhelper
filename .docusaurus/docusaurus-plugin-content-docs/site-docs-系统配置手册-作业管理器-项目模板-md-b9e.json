@@ -1,11 +1,12 @@
 {
   "id": "系统配置手册/作业管理器/项目模板",
   "title": "项目模板",
-  "description": "## 新建项目模板",
+  "description": "## 新建项目模板\r",
   "source": "@site/docs\\系统配置手册\\作业管理器\\项目模板.md",
   "permalink": "/docs/next/系统配置手册/作业管理器/项目模板",
   "editUrl": "https://www.rockwellautomation.com.cn/support.html/edit/master/docs\\系统配置手册\\作业管理器\\项目模板.md",
   "version": "next",
+  "lastUpdatedAt": 1613647399,
   "sidebar": "someSidebar",
   "previous": {
     "title": "概述",

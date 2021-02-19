@@ -1,11 +1,12 @@
 {
   "id": "用户使用手册/终端/审核",
   "title": "审核",
-  "description": "* 拥有审核权限的用户登录应用之后，如有待审核作业组，那么点进待审核页面后，可以看到待审核的作业组，点击作业组即可对该作业组进行审核。",
+  "description": "* 拥有审核权限的用户登录应用之后，如有待审核作业组，那么点进待审核页面后，可以看到待审核的作业组，点击作业组即可对该作业组进行审核。\r",
   "source": "@site/docs\\用户使用手册\\终端\\审核.md",
   "permalink": "/docs/next/用户使用手册/终端/审核",
   "editUrl": "https://www.rockwellautomation.com.cn/support.html/edit/master/docs\\用户使用手册\\终端\\审核.md",
   "version": "next",
+  "lastUpdatedAt": 1613647399,
   "sidebar": "someSidebar",
   "previous": {
     "title": "执行",

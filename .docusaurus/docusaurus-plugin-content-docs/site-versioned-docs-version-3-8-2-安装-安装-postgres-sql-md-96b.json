@@ -1,11 +1,12 @@
 {
   "id": "version-3.8.2/安装/安装PostgresSQL",
   "title": "安装PostgresSQL",
-  "description": "## 下载PGSQL",
+  "description": "## 下载PGSQL\r",
   "source": "@site/versioned_docs\\version-3.8.2\\安装\\安装PostgresSQL.md",
   "permalink": "/docs/3.8.2/安装/安装PostgresSQL",
   "editUrl": "https://www.rockwellautomation.com.cn/support.html/edit/master/versioned_docs\\version-3.8.2\\安装\\安装PostgresSQL.md",
   "version": "3.8.2",
+  "lastUpdatedAt": 1613647399,
   "sidebar": "version-3.8.2/someSidebar",
   "previous": {
     "title": "安装SQLServer",
