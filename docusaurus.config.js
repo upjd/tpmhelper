@@ -3,8 +3,8 @@ const versions = require('./versions.json');
 module.exports = {
   title: 'rockwelltpm',
   tagline: '让每一个服务/运维商，都成为智慧的团队',
-  url: 'https://upjd.github.io/tpmhelper/',
-  baseUrl: '/',
+  url: 'https://upjd.github.io/',
+  baseUrl: '/tpmhelper/',
   favicon: 'img/favicon.ico',
   organizationName: 'upjd', // Usually your GitHub org/user name.
   projectName: 'tpmhelper', // Usually your repo name.  
