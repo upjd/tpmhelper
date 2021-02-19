@@ -7,7 +7,7 @@ module.exports = {
   baseUrl: '/',
   favicon: 'img/favicon.ico',
   organizationName: 'upjd', // Usually your GitHub org/user name.
-  projectName: 'tpmhelper', // Usually your repo name.  
+  projectName: 'upjd.github.io', // Usually your repo name.  
   scripts: [
     'https://unpkg.com/vanilla-back-to-top@7.2.1/dist/vanilla-back-to-top.min.js',
     '/js/index.js',
