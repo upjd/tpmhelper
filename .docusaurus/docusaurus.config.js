@@ -144,7 +144,7 @@ export default {
   },
   "title": "rockwelltpm",
   "tagline": "让每一个服务/运维商，都成为智慧的团队",
-  "url": "https://upjd.github.io",
+  "url": "https://upjd.github.io/",
   "baseUrl": "/",
   "favicon": "img/favicon.ico",
   "organizationName": "upjd",
